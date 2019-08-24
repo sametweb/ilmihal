@@ -27,8 +27,8 @@ class ChapterContent extends React.Component {
           <div key={item.id} className="chapterContent">
             <Link
               to={this.renderBackButtonUrl()}
-              style={{ fontSize: smaller }}
-            >{`< Back`}</Link>
+              style={{ fontSize: "smaller" }}
+            >{`< Geri`}</Link>
             <h2>{item.chapterTitle}</h2>
             <div>
               <SectionList
