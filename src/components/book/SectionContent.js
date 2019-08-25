@@ -33,7 +33,14 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div key={index} style={{ height: "100%" }}>
+              <div
+                key={index}
+                style={{
+                  backgroundImage: `url(${Background})`,
+                  backgroundRepeat: "repeat",
+                  height: "100%"
+                }}
+              >
                 <h4
                   style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
                   autofocus

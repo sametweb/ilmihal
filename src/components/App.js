@@ -13,7 +13,11 @@ const App = () => {
       <Row style={{ height: "100%" }}>
         <Col
           md={{ span: 6, offset: 3 }}
-          style={{ backgroundImage: `url(${Background})`, height: "100%" }}
+          style={{
+            backgroundImage: `url(${Background})`,
+            backgroundRepeat: "repeat",
+            height: "100%"
+          }}
         >
           <BrowserRouter>
             <Route exact path="/" component={MainPage} />
