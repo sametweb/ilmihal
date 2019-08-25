@@ -49,9 +49,12 @@ class SectionContent extends React.Component {
                   style={{ paddingBottom: 100, minHeight: "100%" }}
                 >
                   <p className="contentMeta">
-                    <span className="btn btn-warning btn-sm">
-                      <Link to={this.renderBackButtonUrl()}>{`<`} Geri</Link>
-                    </span>
+                    <Link
+                      className="btn btn-warning btn-sm"
+                      to={this.renderBackButtonUrl()}
+                    >
+                      {`<`} Geri
+                    </Link>
                     <span className="float-right text-secondary">
                       Okuma süresi: {Math.round(wordCount / 200 + 1)} dakika
                     </span>
