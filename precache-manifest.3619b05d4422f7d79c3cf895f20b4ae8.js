@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7d878656fc906e2635a7bd99b7865a6",
+    "revision": "8bc788f5caa410d0fdaf3b4d4f6e36fb",
     "url": "/ilmihal/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ilmihal/static/js/2.538312cd.chunk.js"
   },
   {
-    "revision": "eb1de2c473568b3f90f3",
-    "url": "/ilmihal/static/js/main.0284a704.chunk.js"
+    "revision": "96534d4e4f8e8e83b497",
+    "url": "/ilmihal/static/js/main.3a400ef8.chunk.js"
   },
   {
     "revision": "733601783f0a7c15f825",
