@@ -35,7 +35,7 @@ class SectionContent extends React.Component {
             return (
               <div key={index} style={{ minHeight: "100%" }}>
                 <h4
-                  style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
+                  style={{ paddingBottom: 20, paddingTop: 20, fontWeight: 900 }}
                   autofocus
                 >
                   {item.sectionTitle}
@@ -46,7 +46,7 @@ class SectionContent extends React.Component {
                 })}
                 <div
                   className="contentText"
-                  style={{ paddingBottom: 100, minHeight: "100%" }}
+                  style={{ paddingBottom: 25, minHeight: "100%" }}
                 >
                   <p className="contentMeta">
                     <Link
