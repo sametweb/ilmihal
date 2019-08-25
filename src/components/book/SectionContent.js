@@ -2,6 +2,7 @@ import React from "react";
 import { book as ilmihal } from "../../newSource";
 import slugify from "../slugify";
 import { Link } from "react-router-dom";
+import Background from "../../img/paper-bg.jpg";
 
 class SectionContent extends React.Component {
   componentDidMount() {
