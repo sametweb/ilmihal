@@ -33,7 +33,7 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div key={index}>
+              <div key={index} style={{ minHeight: "100%", height: "100%" }}>
                 <h4
                   style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
                   autofocus
@@ -68,7 +68,7 @@ class SectionContent extends React.Component {
   };
 
   render() {
-    return <div>{this.renderSectionContent()}</div>;
+    return this.renderSectionContent();
   }
 }
 
