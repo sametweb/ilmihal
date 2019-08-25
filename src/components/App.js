@@ -9,14 +9,13 @@ import Background from "../img/paper-bg.jpg";
 
 const App = () => {
   return (
-    <Container style={{ height: "100%" }}>
-      <Row style={{ height: "100%" }}>
+    <Container style={{ minHeight: "100%" }}>
+      <Row style={{ minHeight: "100%" }}>
         <Col
           md={{ span: 6, offset: 3 }}
           style={{
             backgroundImage: `url(${Background})`,
-            backgroundRepeat: "repeat",
-            height: "100%"
+            minHeight: "100%"
           }}
         >
           <BrowserRouter>

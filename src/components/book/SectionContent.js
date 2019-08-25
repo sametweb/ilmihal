@@ -2,7 +2,6 @@ import React from "react";
 import { book as ilmihal } from "../../newSource";
 import slugify from "../slugify";
 import { Link } from "react-router-dom";
-import Background from "../../img/paper-bg.jpg";
 
 class SectionContent extends React.Component {
   componentDidMount() {
@@ -34,14 +33,7 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div
-                key={index}
-                style={{
-                  backgroundImage: `url(${Background})`,
-                  backgroundRepeat: "repeat",
-                  height: "100%"
-                }}
-              >
+              <div key={index} style={{ minHeight: "100%" }}>
                 <h4
                   style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
                   autofocus
@@ -54,7 +46,7 @@ class SectionContent extends React.Component {
                 })}
                 <div
                   className="contentText"
-                  style={{ paddingBottom: 100, height: "100%" }}
+                  style={{ paddingBottom: 100, minHeight: "100%" }}
                 >
                   <p className="contentMeta">
                     <span className="btn btn-warning btn-sm">

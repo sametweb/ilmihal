@@ -3,7 +3,6 @@ import { book as ilmihal } from "../../newSource";
 import slugify from "../slugify";
 import SectionList from "./SectionList";
 import { Link } from "react-router-dom";
-import Background from "../../img/paper-bg.jpg";
 
 class ChapterContent extends React.Component {
   renderBackButtonUrl = () => {
@@ -25,15 +24,7 @@ class ChapterContent extends React.Component {
       .filter(item => slugify(item.chapterTitle) === slug)
       .map(item => {
         return (
-          <div
-            key={item.id}
-            className="chapterContent"
-            style={{
-              backgroundImage: `url(${Background})`,
-              backgroundRepeat: "repeat",
-              height: "100%"
-            }}
-          >
+          <div key={item.id} className="chapterContent">
             <h3
               className="bookTitle text-center"
               style={{ marginBottom: 20, marginTop: 20, fontWeight: "900" }}

@@ -28,7 +28,11 @@ class ChapterList extends React.Component {
 
   render() {
     return (
-      <ListGroup className="chapters" variant="flush">
+      <ListGroup
+        className="chapters"
+        variant="flush"
+        style={{ height: "100%" }}
+      >
         <div
           style={{
             background: "rgba( 255, 255, 255, 0.3)",
