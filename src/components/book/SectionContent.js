@@ -33,7 +33,7 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div key={index} style={{ minHeight: "100%", height: "100%" }}>
+              <div key={index} style={{ height: "100%" }}>
                 <h4
                   style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
                   autofocus
@@ -44,7 +44,10 @@ class SectionContent extends React.Component {
                 {item.sectionContent.map(item => {
                   wordCount += item.split(" ").length;
                 })}
-                <div className="contentText" style={{ paddingBottom: 100 }}>
+                <div
+                  className="contentText"
+                  style={{ paddingBottom: 100, height: "100%" }}
+                >
                   <p className="contentMeta">
                     <span className="btn btn-warning btn-sm">
                       <Link to={this.renderBackButtonUrl()}>{`<`} Geri</Link>
