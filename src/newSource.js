@@ -8741,7 +8741,7 @@ export const book = [
       {
         sectionTitle: "PEYGAMBERİMİZİN MÜBAREK NESEBLERİ",
         sectionContent: [
-          " 78- Resûl-i Ekrem (sallallahu aleyhi ve sellem) Efendimiz, Kureyş kabilesindendir. Haşim ailesinden gelmiştir. Muhterem babasının adı Abdullah, dedesinin adı Abdülmutalib ve annesinin adı “Amine”dir.Peygamber Efendimizin baba tarafından mübarek nesebleri şöyledir:",
+          " 78- Resûl-i Ekrem (sallallahu aleyhi ve sellem) Efendimiz, Kureyş kabilesindendir. Haşim ailesinden gelmiştir. Muhterem babasının adı Abdullah, dedesinin adı Abdülmutalib ve annesinin adı “Amine”dir. Peygamber Efendimizin baba tarafından mübarek nesebleri şöyledir:",
 
           "Hazret-i Muhammed (sallallahu aleyhi ve sellem) İbni Abdullah, İbni Abdülmuttalib, Haşim, Abdi Menaf, Kusey, Hakim, Mürre, Kâ’b, Lüey, Galib, Fihr, Malik, Nadir, Kinane, Hüzeyme, Müdrike, İlyas, Mudar, Nizar, Mead, Adnan. Adnan da İsmail aleyhisselâm’ın oğlu “Kıyzar”ın neslindendir. Adlarını yazdığımız bu zatlardan her birinin evlâdı birçok kabilelere ayrılmıştır. Malik’in oğlu Fihr’in evlâdından da Kureyş kabilesi meydana gelmiştir.",
 

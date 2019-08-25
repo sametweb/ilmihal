@@ -4,6 +4,9 @@ import slugify from "../slugify";
 import { Link } from "react-router-dom";
 
 class SectionContent extends React.Component {
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderBackButtonUrl = () => {
     let url = this.props.match.url;
     let backButtonUrl = "";
@@ -31,25 +34,31 @@ class SectionContent extends React.Component {
           .map((item, index) => {
             return (
               <div key={index}>
-                <p>
-                  <Link
-                    to={this.renderBackButtonUrl()}
-                    style={{ fontSize: "smaller" }}
-                  >
-                    {`<`} Geri
-                  </Link>
-                </p>
-                <h3>{item.sectionTitle}</h3>
-                {/* RENDERS TITLE IN SECTION CONTENT */}
+                <h4
+                  style={{ marginBottom: 20, marginTop: 20, fontWeight: 900 }}
+                  autofocus
+                >
+                  {item.sectionTitle}
+                </h4>
+
                 {item.sectionContent.map(item => {
                   wordCount += item.split(" ").length;
                 })}
-                <div className="contentText">
-                  <span className="contentMeta">
-                    Okuma suresi: {Math.round(wordCount / 200 + 1)} dakika
-                  </span>
+                <div className="contentText" style={{ paddingBottom: 100 }}>
+                  <p className="contentMeta">
+                    <span className="btn btn-warning btn-sm">
+                      <Link to={this.renderBackButtonUrl()}>{`<`} Geri</Link>
+                    </span>
+                    <span className="float-right text-secondary">
+                      Okuma süresi: {Math.round(wordCount / 200 + 1)} dakika
+                    </span>
+                  </p>
                   {item.sectionContent.map((item, index) => {
-                    return <p key={index}>{item}</p>;
+                    return (
+                      <p key={index} style={{ textAlign: "justify" }}>
+                        {item}
+                      </p>
+                    );
                   })}
                 </div>
               </div>

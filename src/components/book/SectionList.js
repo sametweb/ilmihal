@@ -6,14 +6,20 @@ class SectionList extends React.Component {
   renderSectionList = chapterContent => {
     return chapterContent.map((item, index) => {
       return (
-        <li key={index} className="sectionTitle">
-          <span style={{ fontWeight: "lighter" }}>
-            <Link
-              to={`/ilmihal/${this.props.url}/${slugify(item.sectionTitle)}`}
-            >
-              {item.sectionTitle}
-            </Link>
-          </span>
+        <li
+          key={index}
+          className="sectionTitle"
+          style={{
+            listStyleType: "decimal",
+            fontSize: 17,
+            lineHeight: 1.3,
+            fontWeight: "bold",
+            marginBottom: 10
+          }}
+        >
+          <Link to={`/ilmihal/${this.props.url}/${slugify(item.sectionTitle)}`}>
+            {item.sectionTitle}
+          </Link>
         </li>
       );
     });
@@ -21,7 +27,7 @@ class SectionList extends React.Component {
 
   render() {
     return (
-      <ul className="sectionTitleList">
+      <ul className="sectionTitleList" style={{ listStylePosition: "outside" }}>
         {this.renderSectionList(this.props.chapterContent)}
       </ul>
     );

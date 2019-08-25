@@ -3,6 +3,7 @@ import { book as ilmihal } from "../../newSource";
 import slugify from "../slugify";
 import SectionList from "./SectionList";
 import { Link } from "react-router-dom";
+import { Button } from "react-bootstrap";
 
 class ChapterContent extends React.Component {
   renderBackButtonUrl = () => {
@@ -25,16 +26,31 @@ class ChapterContent extends React.Component {
       .map(item => {
         return (
           <div key={item.id} className="chapterContent">
-            <Link
-              to={this.renderBackButtonUrl()}
-              style={{ fontSize: "smaller" }}
-            >{`< Geri`}</Link>
-            <h2>{item.chapterTitle}</h2>
+            <h3
+              className="bookTitle text-center"
+              style={{ marginBottom: 20, marginTop: 20, fontWeight: "900" }}
+            >
+              {item.chapterTitle}
+            </h3>
+            <div className="text-center">
+              <Link
+                to={this.renderBackButtonUrl()}
+                className="btn btn-warning btn-sm"
+                style={{ marginBottom: 20 }}
+              >{`< Geri`}</Link>
+            </div>
             <div>
               <SectionList
                 chapterContent={item.chapterContent}
                 url={this.props.match.params.slug}
               />
+            </div>
+            <div className="text-center">
+              <Link
+                to={this.renderBackButtonUrl()}
+                className="btn btn-warning btn-sm"
+                style={{ marginBottom: 20 }}
+              >{`< Geri`}</Link>
             </div>
           </div>
         );
