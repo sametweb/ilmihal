@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/ilmihal/static/js/main.73fb9260.chunk.js",
-    "main.js.map": "/ilmihal/static/js/main.73fb9260.chunk.js.map",
+    "main.js": "/ilmihal/static/js/main.c5dcf74d.chunk.js",
+    "main.js.map": "/ilmihal/static/js/main.c5dcf74d.chunk.js.map",
     "runtime~main.js": "/ilmihal/static/js/runtime~main.2f65ae14.js",
     "runtime~main.js.map": "/ilmihal/static/js/runtime~main.2f65ae14.js.map",
-    "static/js/2.b46e8c0b.chunk.js": "/ilmihal/static/js/2.b46e8c0b.chunk.js",
-    "static/js/2.b46e8c0b.chunk.js.map": "/ilmihal/static/js/2.b46e8c0b.chunk.js.map",
+    "static/js/2.538312cd.chunk.js": "/ilmihal/static/js/2.538312cd.chunk.js",
+    "static/js/2.538312cd.chunk.js.map": "/ilmihal/static/js/2.538312cd.chunk.js.map",
     "index.html": "/ilmihal/index.html",
-    "precache-manifest.1e7aa9551b9cc4d4595c64c073dd6ef9.js": "/ilmihal/precache-manifest.1e7aa9551b9cc4d4595c64c073dd6ef9.js",
-    "service-worker.js": "/ilmihal/service-worker.js"
+    "precache-manifest.66ad99bb27112cf36317152564b30cf0.js": "/ilmihal/precache-manifest.66ad99bb27112cf36317152564b30cf0.js",
+    "service-worker.js": "/ilmihal/service-worker.js",
+    "static/media/paper-bg.jpg": "/ilmihal/static/media/paper-bg.6e095937.jpg"
   }
 }
