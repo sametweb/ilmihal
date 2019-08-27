@@ -21,12 +21,11 @@ const App = () => {
           }}
         >
           <HashRouter>
-            <Route exact path="/" component={MainPage} />
-            <Route exact path="/ilmihal" component={ChapterList} />
-            <Route exact path="/ilmihal/:slug" component={ChapterContent} />
+            <Route exact path="/" component={ChapterList} />
+            <Route exact path="/:slug" component={ChapterContent} />
             <Route
               exact
-              path="/ilmihal/:slug/:sectionSlug"
+              path="/:slug/:sectionSlug"
               component={SectionContent}
             />
           </HashRouter>

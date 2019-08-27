@@ -17,7 +17,7 @@ class SectionList extends React.Component {
             marginBottom: 10
           }}
         >
-          <Link to={`/ilmihal/${this.props.url}/${slugify(item.sectionTitle)}`}>
+          <Link to={`/${this.props.url}/${slugify(item.sectionTitle)}`}>
             {item.sectionTitle}
           </Link>
         </li>

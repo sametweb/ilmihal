@@ -20,7 +20,7 @@ class ChapterList extends React.Component {
             fontWeight: "bold"
           }}
         >
-          <Link to={`/ilmihal/${slugify(chapterTitle)}`}>{chapterTitle}</Link>
+          <Link to={`/${slugify(chapterTitle)}`}>{chapterTitle}</Link>
         </li>
       );
     });
