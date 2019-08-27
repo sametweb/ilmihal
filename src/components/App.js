@@ -2,7 +2,6 @@ import React from "react";
 import ChapterList from "./book/ChapterList";
 import ChapterContent from "./book/ChapterContent";
 import SectionContent from "./book/SectionContent";
-import MainPage from "./MainPage";
 import { HashRouter, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
