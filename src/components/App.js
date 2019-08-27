@@ -3,7 +3,7 @@ import ChapterList from "./book/ChapterList";
 import ChapterContent from "./book/ChapterContent";
 import SectionContent from "./book/SectionContent";
 import MainPage from "./MainPage";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
 
@@ -20,7 +20,7 @@ const App = () => {
             borderRight: "10px solid #70411c"
           }}
         >
-          <BrowserRouter>
+          <HashRouter>
             <Route exact path="/" component={MainPage} />
             <Route exact path="/ilmihal" component={ChapterList} />
             <Route exact path="/ilmihal/:slug" component={ChapterContent} />
@@ -29,7 +29,7 @@ const App = () => {
               path="/ilmihal/:slug/:sectionSlug"
               component={SectionContent}
             />
-          </BrowserRouter>
+          </HashRouter>
         </Col>
       </Row>
     </Container>
