@@ -24,9 +24,9 @@
     </td>
   </tr>
   <tr>
-    <td>4. Links for each page is created dynamically by ```slugify.js```.
+    <td>4. Links for each page is created dynamically by <pre>slugify.js</pre>.
     </td>
-    <td>4. Her sayfanın linki ```slugify.js```dosyası tarafından dinamik olarak oluşturuluyor.
+    <td>4. Her sayfanın linki <pre>slugify.js</pre> dosyası tarafından dinamik olarak oluşturuluyor.
     </td>
   </tr>
   <tr>
