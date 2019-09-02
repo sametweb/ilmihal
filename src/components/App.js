@@ -10,15 +10,7 @@ const App = () => {
   return (
     <Container style={{ height: "100%" }}>
       <Row style={{ minHeight: "100%" }}>
-        <Col
-          md={{ span: 6, offset: 3 }}
-          style={{
-            backgroundImage: `url(${Background})`,
-            minHeight: "100%",
-            borderLeft: "10px solid #70411c",
-            borderRight: "10px solid #70411c"
-          }}
-        >
+        <Col md={{ span: 6, offset: 3 }} style={styles.conStyle}>
           <HashRouter>
             <Route exact path="/" component={ChapterList} />
             <Route exact path="/:slug" component={ChapterContent} />
@@ -32,6 +24,15 @@ const App = () => {
       </Row>
     </Container>
   );
+};
+
+const styles = {
+  conStyle: {
+    backgroundImage: `url(${Background})`,
+    minHeight: "100%",
+    borderLeft: "10px solid #70411c",
+    borderRight: "10px solid #70411c"
+  }
 };
 
 export default App;

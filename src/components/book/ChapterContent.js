@@ -1,21 +1,16 @@
 import React from "react";
 import { book as ilmihal } from "../../newSource";
-import slugify from "../slugify";
+import slugify from "../../slugify";
 import SectionList from "./SectionList";
 import { Link } from "react-router-dom";
+import renderBackButtonUrl from "../renderBackButtonUrl";
+import PageTitleRenderer from "../PageTitleRenderer";
 
 class ChapterContent extends React.Component {
-  renderBackButtonUrl = () => {
-    let url = this.props.match.url;
-    let backButtonUrl = "";
-    if (url.charAt(url.length - 1) === "/") {
-      backButtonUrl = url.slice(0, url.lastIndexOf("/"));
-      backButtonUrl = backButtonUrl.slice(0, backButtonUrl.lastIndexOf("/"));
-    } else {
-      backButtonUrl = url.slice(0, url.lastIndexOf("/"));
-    }
-    return backButtonUrl;
-  };
+  constructor(props) {
+    super(props);
+    this.renderBackButtonUrl = renderBackButtonUrl.bind(this);
+  }
 
   renderChapterContent = book => {
     const { slug } = this.props.match.params;
@@ -24,16 +19,12 @@ class ChapterContent extends React.Component {
       .filter(item => slugify(item.chapterTitle) === slug)
       .map(item => {
         return (
-          <div key={item.id} className="chapterContent">
-            <h3
-              className="bookTitle text-center"
-              style={{ marginBottom: 20, marginTop: 20, fontWeight: "900" }}
-            >
-              {item.chapterTitle}
-            </h3>
-            <div className="text-center">
+          <div key={item.id}>
+            <h3 style={styles.chapterTitle}>{item.chapterTitle}</h3>
+            <PageTitleRenderer title={item.chapterTitle} />
+            <div style={styles.textCenter}>
               <Link
-                to={this.renderBackButtonUrl()}
+                to={this.renderBackButtonUrl(this.props.match.url)}
                 className="btn btn-warning btn-sm"
                 style={{ marginBottom: 20 }}
               >{`< Geri`}</Link>
@@ -44,9 +35,9 @@ class ChapterContent extends React.Component {
                 url={this.props.match.params.slug}
               />
             </div>
-            <div className="text-center">
+            <div style={styles.textCenter}>
               <Link
-                to={this.renderBackButtonUrl()}
+                to={this.renderBackButtonUrl(this.props.match.url)}
                 className="btn btn-warning btn-sm"
                 style={{ marginBottom: 20 }}
               >{`< Geri`}</Link>
@@ -60,5 +51,18 @@ class ChapterContent extends React.Component {
     return this.renderChapterContent(ilmihal);
   }
 }
+
+const styles = {
+  textCenter: {
+    textAlign: "center"
+  },
+
+  chapterTitle: {
+    marginBottom: 20,
+    marginTop: 20,
+    fontWeight: "900",
+    textAlign: "center"
+  }
+};
 
 export default ChapterContent;

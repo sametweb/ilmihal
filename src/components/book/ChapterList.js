@@ -1,25 +1,19 @@
 import React from "react";
 import { book as ilmihal } from "../../newSource";
 import { Link } from "react-router-dom";
-import slugify from "../slugify";
+import slugify from "../../slugify";
 import { ListGroup } from "react-bootstrap";
+import MainpageHeader from "./MainpageHeader";
 
 class ChapterList extends React.Component {
+  componentDidMount() {
+    document.title = "Büyük İslam İlmihali - Ömer Nasuhi Bilmen (ilmihal oku)";
+  }
   renderChapterTitle = book => {
     return book.map(item => {
       const { id, chapterTitle } = item;
-
       return (
-        <li
-          key={id}
-          className="chapterTitle text-center"
-          style={{
-            listStyleType: "none",
-            lineHeight: "35px",
-            fontSize: 19,
-            fontWeight: "bold"
-          }}
-        >
+        <li key={id} style={styles.chapterTitle}>
           <Link to={`/${slugify(chapterTitle)}`}>{chapterTitle}</Link>
         </li>
       );
@@ -28,47 +22,31 @@ class ChapterList extends React.Component {
 
   render() {
     return (
-      <ListGroup
-        className="chapters"
-        variant="flush"
-        style={{ height: "100%" }}
-      >
-        <div
-          style={{
-            background: "rgba( 255, 255, 255, 0.3)",
-            padding: "15px 0 10px 0",
-            margin: "10px 0 15px 0",
-            borderRadius: 25
-          }}
-        >
-          <h3
-            className="bookTitle text-center"
-            style={{
-              fontWeight: 700
-            }}
-          >
-            BÜYÜK İSLAM İLMİHALİ
-          </h3>
-          <h5 className="bookTitle text-center" style={{}}>
-            ÖMER NASUHİ BİLMEN
-          </h5>
-        </div>
-        <li
-          className="chapterTitle text-center"
-          style={{
-            listStyleType: "none",
-            lineHeight: "35px",
-            fontSize: 24,
-            fontWeight: "900",
-            marginBottom: 10
-          }}
-        >
-          İÇİNDEKİLER
-        </li>
+      <ListGroup variant="flush" style={{ height: "100%" }}>
+        <MainpageHeader />
+        <li style={styles.chapterIndex}>İÇİNDEKİLER</li>
         {this.renderChapterTitle(ilmihal)}
       </ListGroup>
     );
   }
 }
+
+const styles = {
+  chapterIndex: {
+    listStyleType: "none",
+    lineHeight: "35px",
+    fontSize: 24,
+    fontWeight: "900",
+    marginBottom: 10,
+    textAlign: "center"
+  },
+  chapterTitle: {
+    listStyleType: "none",
+    lineHeight: "35px",
+    fontSize: 19,
+    fontWeight: "bold",
+    textAlign: "center"
+  }
+};
 
 export default ChapterList;

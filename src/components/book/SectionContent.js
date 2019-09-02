@@ -1,26 +1,28 @@
 import React from "react";
 import { book as ilmihal } from "../../newSource";
-import slugify from "../slugify";
+import slugify from "../../slugify";
 import { Link } from "react-router-dom";
+import renderBackButtonUrl from "../renderBackButtonUrl";
+import PageTitleRenderer from "../PageTitleRenderer";
 
 class SectionContent extends React.Component {
+  constructor(props) {
+    super(props);
+    this.renderBackButtonUrl = renderBackButtonUrl.bind(this);
+  }
   componentDidMount() {
     window.scrollTo(0, 0);
   }
-  renderBackButtonUrl = () => {
-    let url = this.props.match.url;
-    let backButtonUrl = "";
-    if (url.charAt(url.length - 1) === "/") {
-      backButtonUrl = url.slice(0, url.lastIndexOf("/"));
-      backButtonUrl = backButtonUrl.slice(0, backButtonUrl.lastIndexOf("/"));
-    } else {
-      backButtonUrl = url.slice(0, url.lastIndexOf("/"));
-    }
-    return backButtonUrl;
+
+  countWords = paragraphs => {
+    let countWords = null;
+    paragraphs.forEach(item => {
+      countWords += item.split(" ").length;
+    });
+    return countWords;
   };
 
   renderSectionContent = () => {
-    let wordCount = null;
     return ilmihal
       .filter(
         item => slugify(item.chapterTitle) === this.props.match.params.slug
@@ -34,21 +36,13 @@ class SectionContent extends React.Component {
           .map((item, index) => {
             return (
               <div key={index} style={{ minHeight: "100%" }}>
-                <h4
-                  style={{ paddingBottom: 20, paddingTop: 20, fontWeight: 900 }}
-                  autofocus
-                >
+                <h4 style={styles.sectionTitle} autoFocus>
                   {item.sectionTitle}
                 </h4>
+                <PageTitleRenderer title={item.sectionTitle} />
 
-                {item.sectionContent.map(item => {
-                  wordCount += item.split(" ").length;
-                })}
-                <div
-                  className="contentText"
-                  style={{ paddingBottom: 25, minHeight: "100%" }}
-                >
-                  <p className="contentMeta">
+                <div style={styles.contentText}>
+                  <p>
                     <Link
                       className="btn btn-warning btn-sm"
                       to={this.renderBackButtonUrl()}
@@ -56,7 +50,9 @@ class SectionContent extends React.Component {
                       {`<`} Geri
                     </Link>
                     <span className="float-right text-secondary">
-                      Okuma süresi: {Math.round(wordCount / 200 + 1)} dakika
+                      {`Okuma süresi: ${Math.round(
+                        this.countWords(item.sectionContent) / 200 + 1
+                      )} dakika`}
                     </span>
                   </p>
                   {item.sectionContent.map((item, index) => {
@@ -77,5 +73,10 @@ class SectionContent extends React.Component {
     return this.renderSectionContent();
   }
 }
+
+const styles = {
+  sectionTitle: { paddingBottom: 20, paddingTop: 20, fontWeight: 900 },
+  contentText: { paddingBottom: 25, minHeight: "100%" }
+};
 
 export default SectionContent;
