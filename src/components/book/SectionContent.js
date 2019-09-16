@@ -1,4 +1,5 @@
 import React from "react";
+import ReactGA from "react-ga";
 import { book as ilmihal } from "../../newSource";
 import slugify from "../../slugify";
 import { Link } from "react-router-dom";
