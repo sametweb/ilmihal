@@ -1,5 +1,4 @@
 import React from "react";
-import ReactGA from "react-ga";
 import ChapterList from "./book/ChapterList";
 import ChapterContent from "./book/ChapterContent";
 import SectionContent from "./book/SectionContent";
