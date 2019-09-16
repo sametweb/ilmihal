@@ -1,10 +1,16 @@
 import React from "react";
+import ReactGA from "react-ga";
 import ChapterList from "./book/ChapterList";
 import ChapterContent from "./book/ChapterContent";
 import SectionContent from "./book/SectionContent";
 import { HashRouter, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
+
+function initializeReactGA() {
+  ReactGA.initialize("UA-123791717-1");
+  ReactGA.pageview("/homepage");
+}
 
 const App = () => {
   return (
