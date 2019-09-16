@@ -11,7 +11,10 @@ class ChapterContent extends React.Component {
     super(props);
     this.renderBackButtonUrl = renderBackButtonUrl.bind(this);
   }
-
+  async componentDidMount() {
+    await ReactGA.initialize("UA-146893305-1");
+    await ReactGA.pageview("/ChapterContent");
+  }
   renderChapterContent = book => {
     const { slug } = this.props.match.params;
 

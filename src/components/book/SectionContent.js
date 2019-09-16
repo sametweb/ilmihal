@@ -10,8 +10,10 @@ class SectionContent extends React.Component {
     super(props);
     this.renderBackButtonUrl = renderBackButtonUrl.bind(this);
   }
-  componentDidMount() {
+  async componentDidMount() {
     window.scrollTo(0, 0);
+    await ReactGA.initialize("UA-146893305-1");
+    await ReactGA.pageview("/SectionContent");
   }
 
   countWords = paragraphs => {

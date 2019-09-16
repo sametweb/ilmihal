@@ -7,28 +7,27 @@ import { HashRouter, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
 
-const App = () => {
-  ReactGA.initialize("UA-146893305-1");
-  ReactGA.pageview("/homepage");
-
-  return (
-    <Container style={{ height: "100%" }}>
-      <Row style={{ minHeight: "100%" }}>
-        <Col md={{ span: 6, offset: 3 }} style={styles.conStyle}>
-          <HashRouter>
-            <Route exact path="/" component={ChapterList} />
-            <Route exact path="/:slug" component={ChapterContent} />
-            <Route
-              exact
-              path="/:slug/:sectionSlug"
-              component={SectionContent}
-            />
-          </HashRouter>
-        </Col>
-      </Row>
-    </Container>
-  );
-};
+class App extends React.Component {
+  render() {
+    return (
+      <Container style={{ height: "100%" }}>
+        <Row style={{ minHeight: "100%" }}>
+          <Col md={{ span: 6, offset: 3 }} style={styles.conStyle}>
+            <HashRouter>
+              <Route exact path="/" component={ChapterList} />
+              <Route exact path="/:slug" component={ChapterContent} />
+              <Route
+                exact
+                path="/:slug/:sectionSlug"
+                component={SectionContent}
+              />
+            </HashRouter>
+          </Col>
+        </Row>
+      </Container>
+    );
+  }
+}
 
 const styles = {
   conStyle: {

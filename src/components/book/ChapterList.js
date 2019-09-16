@@ -20,6 +20,8 @@ class ChapterList extends React.Component {
         "content",
         `ilmihal oku, ilmihal kitabı, ömer nasuhi bilmen, büyük islam ilmihali, ücretsiz ilmihal oku, reklamsız ilmihal oku, `
       );
+    await ReactGA.initialize("UA-146893305-1");
+    await ReactGA.pageview("/homepage");
   }
   renderChapterTitle = book => {
     return book.map(item => {
