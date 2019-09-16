@@ -7,12 +7,10 @@ import { HashRouter, Route } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
 
-function initializeReactGA() {
+const App = () => {
   ReactGA.initialize("UA-146893305-1");
   ReactGA.pageview("/homepage");
-}
 
-const App = () => {
   return (
     <Container style={{ height: "100%" }}>
       <Row style={{ minHeight: "100%" }}>
