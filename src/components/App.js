@@ -8,7 +8,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Background from "../img/paper-bg.jpg";
 
 function initializeReactGA() {
-  ReactGA.initialize("UA-123791717-1");
+  ReactGA.initialize("UA-146893305-1");
   ReactGA.pageview("/homepage");
 }
 
