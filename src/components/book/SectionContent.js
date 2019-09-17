@@ -38,19 +38,21 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div key={index} style={{ minHeight: "100%" }}>
-                <h4 style={styles.sectionTitle} autoFocus>
-                  {item.sectionTitle}
-                </h4>
+              <div
+                className="section-content"
+                key={index}
+                style={{ minHeight: "100%" }}
+              >
+                <h1 className="section-page-title">{item.sectionTitle}</h1>
                 <PageTitleRenderer title={item.sectionTitle} />
 
                 <div style={styles.contentText}>
                   <p>
                     <Link
-                      className="btn btn-warning btn-sm"
+                      className="back-button"
                       to={this.renderBackButtonUrl()}
                     >
-                      {`<`} Geri
+                      {`< Geri`}
                     </Link>
                     <span className="float-right text-secondary">
                       {`Okuma süresi: ${Math.round(

@@ -2,7 +2,6 @@ import React from "react";
 import { book as ilmihal } from "../../newSource";
 import { Link } from "react-router-dom";
 import slugify from "../../slugify";
-import { ListGroup } from "react-bootstrap";
 import MainpageHeader from "./MainpageHeader";
 
 class ChapterList extends React.Component {
@@ -25,40 +24,26 @@ class ChapterList extends React.Component {
     return book.map(item => {
       const { id, chapterTitle } = item;
       return (
-        <li key={id} style={styles.chapterTitle}>
-          <Link to={`/${slugify(chapterTitle)}`}>{chapterTitle}</Link>
-        </li>
+        <Link
+          to={`/${slugify(chapterTitle)}`}
+          key={id}
+          className="chapter-title"
+        >
+          {chapterTitle}
+        </Link>
       );
     });
   };
 
   render() {
     return (
-      <ListGroup variant="flush" style={{ height: "100%" }}>
+      <section className="content">
         <MainpageHeader />
-        <li style={styles.chapterIndex}>İÇİNDEKİLER</li>
-        {this.renderChapterTitle(ilmihal)}
-      </ListGroup>
+        <p className="index">İÇİNDEKİLER</p>
+        <div className="chapter-list">{this.renderChapterTitle(ilmihal)}</div>
+      </section>
     );
   }
 }
-
-const styles = {
-  chapterIndex: {
-    listStyleType: "none",
-    lineHeight: "35px",
-    fontSize: 24,
-    fontWeight: "900",
-    marginBottom: 10,
-    textAlign: "center"
-  },
-  chapterTitle: {
-    listStyleType: "none",
-    lineHeight: "35px",
-    fontSize: 19,
-    fontWeight: "bold",
-    textAlign: "center"
-  }
-};
 
 export default ChapterList;

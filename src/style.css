@@ -1,0 +1,107 @@
+.book {
+  width: 80%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.content {
+  background-image: url("./img/paper-bg.jpg");
+  padding: 10px;
+  width: 100%;
+  border: 10px solid #70411c;
+  margin: 10px 0 0 0;
+}
+
+.book-header {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 15px 0;
+  margin: 15px 0;
+  border-radius: 25px;
+}
+
+.book-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.author {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.index {
+  line-height: 35px;
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.chapter-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.chapter-title {
+  line-height: 35px;
+  font-size: 19px;
+  font-weight: bold;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 0 0 10px 0;
+  padding: 3px 0;
+  border-radius: 15px;
+}
+
+.chapter-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./img/paper-bg.jpg");
+  padding: 10px;
+  width: 100%;
+  border: 10px solid #70411c;
+  margin: 10px 0 0 0;
+}
+
+.chapter-page-title {
+  margin: 20px 0;
+  font-weight: 900;
+  text-align: center;
+}
+
+.section-content {
+  background-image: url("./img/paper-bg.jpg");
+  padding: 10px;
+  width: 100%;
+  border: 10px solid #70411c;
+  margin: 10px 0;
+}
+
+.section-page-title {
+  padding: 20px 0;
+  font-weight: 900;
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+
+.back-button {
+  background-color: #e0a800;
+  color: #000;
+  border-color: #d39e00;
+  margin-bottom: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 3px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+
+.back-button:hover {
+  opacity: 0.8;
+  color: #000;
+  text-decoration: none;
+}

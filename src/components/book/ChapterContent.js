@@ -23,29 +23,22 @@ class ChapterContent extends React.Component {
       .filter(item => slugify(item.chapterTitle) === slug)
       .map(item => {
         return (
-          <div key={item.id}>
-            <h3 style={styles.chapterTitle}>{item.chapterTitle}</h3>
+          <div key={item.id} className="chapter-content">
+            <h3 className="chapter-page-title">{item.chapterTitle}</h3>
             <PageTitleRenderer title={item.chapterTitle} />
-            <div style={styles.textCenter}>
-              <Link
-                to={this.renderBackButtonUrl(this.props.match.url)}
-                className="btn btn-warning btn-sm"
-                style={{ marginBottom: 20 }}
-              >{`< Geri`}</Link>
-            </div>
-            <div>
-              <SectionList
-                chapterContent={item.chapterContent}
-                url={this.props.match.params.slug}
-              />
-            </div>
-            <div style={styles.textCenter}>
-              <Link
-                to={this.renderBackButtonUrl(this.props.match.url)}
-                className="btn btn-warning btn-sm"
-                style={{ marginBottom: 20 }}
-              >{`< Geri`}</Link>
-            </div>
+            <Link
+              to={this.renderBackButtonUrl(this.props.match.url)}
+              className="back-button"
+            >{`< Geri`}</Link>
+            <SectionList
+              chapterContent={item.chapterContent}
+              url={this.props.match.params.slug}
+            />
+            <Link
+              to={this.renderBackButtonUrl(this.props.match.url)}
+              className="back-button"
+              style={{ marginBottom: 20 }}
+            >{`< Geri`}</Link>
           </div>
         );
       });
