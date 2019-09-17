@@ -89,7 +89,8 @@
 }
 
 .section-list {
-  list-style-position: outside;
+  list-style-position: inside;
+  padding-inline-start: 0;
 }
 
 .section-list-item {
@@ -97,6 +98,9 @@
   font-size: 17px;
   font-weight: bold;
   margin: 8px 0;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 5px 15px;
+  border-radius: 15px;
 }
 
 .section-content-meta {
