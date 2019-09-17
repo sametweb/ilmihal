@@ -45,7 +45,7 @@
   align-items: stretch;
 }
 
-.chapter-title {
+.chapter-list-item {
   line-height: 35px;
   font-size: 19px;
   font-weight: bold;
@@ -88,12 +88,33 @@
   line-height: 1.4;
 }
 
+.section-list {
+  list-style-position: outside;
+}
+
+.section-list-item {
+  list-style-type: decimal;
+  font-size: 17px;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.section-content-meta {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  text-align: right;
+}
+
+.section-content-text {
+  text-align: justify;
+}
+
 .back-button {
   background-color: #e0a800;
   color: #000;
   border-color: #d39e00;
   margin-bottom: 20px;
-  display: inline-block;
   vertical-align: middle;
   padding: 3px 8px;
   border-radius: 5px;
@@ -104,4 +125,10 @@
   opacity: 0.8;
   color: #000;
   text-decoration: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .book {
+    width: 720px;
+  }
 }

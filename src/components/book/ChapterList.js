@@ -27,7 +27,7 @@ class ChapterList extends React.Component {
         <Link
           to={`/${slugify(chapterTitle)}`}
           key={id}
-          className="chapter-title"
+          className="chapter-list-item"
         >
           {chapterTitle}
         </Link>

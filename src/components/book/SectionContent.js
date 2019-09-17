@@ -38,34 +38,23 @@ class SectionContent extends React.Component {
           )
           .map((item, index) => {
             return (
-              <div
-                className="section-content"
-                key={index}
-                style={{ minHeight: "100%" }}
-              >
+              <div className="section-content" key={index}>
                 <h1 className="section-page-title">{item.sectionTitle}</h1>
                 <PageTitleRenderer title={item.sectionTitle} />
 
-                <div style={styles.contentText}>
-                  <p>
-                    <Link
-                      className="back-button"
-                      to={this.renderBackButtonUrl()}
-                    >
-                      {`< Geri`}
-                    </Link>
-                    <span className="float-right text-secondary">
-                      {`Okuma süresi: ${Math.round(
-                        this.countWords(item.sectionContent) / 200 + 1
-                      )} dakika`}
-                    </span>
-                  </p>
+                <p className="section-content-meta">
+                  <Link className="back-button" to={this.renderBackButtonUrl()}>
+                    {`< Geri`}
+                  </Link>
+                  <span>
+                    {`Okuma süresi: ${Math.round(
+                      this.countWords(item.sectionContent) / 200 + 1
+                    )} dakika`}
+                  </span>
+                </p>
+                <div className="section-content-text">
                   {item.sectionContent.map((item, index) => {
-                    return (
-                      <p key={index} style={{ textAlign: "justify" }}>
-                        {item}
-                      </p>
-                    );
+                    return <p key={index}>{item}</p>;
                   })}
                 </div>
               </div>
@@ -78,10 +67,5 @@ class SectionContent extends React.Component {
     return this.renderSectionContent();
   }
 }
-
-const styles = {
-  sectionTitle: { paddingBottom: 20, paddingTop: 20, fontWeight: 900 },
-  contentText: { paddingBottom: 25, minHeight: "100%" }
-};
 
 export default SectionContent;
