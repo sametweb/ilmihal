@@ -11,16 +11,6 @@ class PageTitleRenderer extends React.Component {
         `${this.props.title} başlığını Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'nden okuyun.`
       );
 
-    document
-      .querySelector('meta[name="keywords"]')
-      .setAttribute(
-        "content",
-        `${this.props.title
-          .split(" ")
-          .join(
-            ","
-          )}, ilmihal oku, ilmihal, ömer nasuhi bilmen, büyük islam ilmihali`
-      );
     return true;
   }
 }

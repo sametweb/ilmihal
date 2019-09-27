@@ -49,17 +49,4 @@ class ChapterContent extends React.Component {
   }
 }
 
-const styles = {
-  textCenter: {
-    textAlign: "center"
-  },
-
-  chapterTitle: {
-    marginBottom: 20,
-    marginTop: 20,
-    fontWeight: "900",
-    textAlign: "center"
-  }
-};
-
 export default ChapterContent;
