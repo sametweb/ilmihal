@@ -11,7 +11,7 @@ class ChapterList extends React.Component {
       .querySelector('meta[name="description"]')
       .setAttribute(
         "content",
-        `ilmihal oku sayfasına hoşgeldiniz. Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz.`
+        `ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz.`
       );
   }
   renderChapterTitle = book => {
