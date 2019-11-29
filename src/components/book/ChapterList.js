@@ -1,11 +1,10 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { book as ilmihal } from "../../newSource";
-import { Link } from "react-router-dom";
-import slugify from "../../slugify";
 import MainpageHeader from "./MainpageHeader";
+import ChapterTitles from "./ChapterTitles";
 
-class ChapterList extends React.Component {
-  componentDidMount() {
+const ChapterList = () => {
+  useEffect(() => {
     document.title = "Büyük İslam İlmihali - Ömer Nasuhi Bilmen (ilmihal oku)";
     document
       .querySelector('meta[name="description"]')
@@ -13,31 +12,17 @@ class ChapterList extends React.Component {
         "content",
         `ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz.`
       );
-  }
-  renderChapterTitle = book => {
-    return book.map(item => {
-      const { id, chapterTitle } = item;
-      return (
-        <Link
-          to={`/${slugify(chapterTitle)}`}
-          key={id}
-          className="chapter-list-item"
-        >
-          {chapterTitle}
-        </Link>
-      );
-    });
-  };
+  }, []);
 
-  render() {
-    return (
-      <section className="content">
-        <MainpageHeader />
-        <p className="index">İÇİNDEKİLER</p>
-        <div className="chapter-list">{this.renderChapterTitle(ilmihal)}</div>
-      </section>
-    );
-  }
-}
+  return (
+    <section className="content">
+      <MainpageHeader />
+      <p className="index">İÇİNDEKİLER</p>
+      <div className="chapter-list">
+        <ChapterTitles book={ilmihal} />
+      </div>
+    </section>
+  );
+};
 
 export default ChapterList;
