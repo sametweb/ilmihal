@@ -17,17 +17,15 @@ const ChapterContent = props => {
 
   return ilmihal
     .filter(item => slugify(item.chapterTitle) === slug)
-    .map(item => {
-      return (
-        <div key={item.id} className="chapter-content">
-          <DocumentTitle title={item.chapterTitle} />
-          <h3 className="chapter-page-title">{item.chapterTitle}</h3>
-          <BackButton url={url} />
-          <SectionList chapterContent={item.chapterContent} url={slug} />
-          <BackButton url={url} />
-        </div>
-      );
-    });
+    .map(item => (
+      <div key={item.id} className="chapter-content">
+        <DocumentTitle title={item.chapterTitle} />
+        <h3 className="chapter-page-title">{item.chapterTitle}</h3>
+        <BackButton url={url} />
+        <SectionList chapterContent={item.chapterContent} url={slug} />
+        <BackButton url={url} />
+      </div>
+    ));
 };
 
 export default ChapterContent;
