@@ -20,11 +20,13 @@ const Sitemap = () => {
   ilmihal.map(chapter => {
     links += `<url><loc>https://ilmihaloku.com/${slugify(
       chapter.chapterTitle
-    )}</loc></url>`;
+    )}</loc><lastmod>2019-11-29</lastmod></url>`;
     chapter.chapterContent.map(section => {
       links += `<url><loc>https://ilmihaloku.com/${slugify(
         chapter.chapterTitle
-      )}/${slugify(section.sectionTitle)}</loc></url>
+      )}/${slugify(
+        section.sectionTitle
+      )}</loc><lastmod>2019-11-29</lastmod></url>
       `;
     });
   });
