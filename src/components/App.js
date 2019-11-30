@@ -6,7 +6,7 @@ import "../style.css";
 import ChapterList from "./book/ChapterList";
 import ChapterContent from "./book/ChapterContent";
 import SectionContent from "./book/SectionContent";
-import Sitemap from "./Sitemap";
+// import Sitemap from "./Sitemap";
 
 class App extends React.Component {
   render() {
@@ -14,7 +14,7 @@ class App extends React.Component {
       <div className="book">
         <BrowserRouter>
           <Route exact path="/" component={ChapterList} />
-          <Route exact path="/Sitemap" component={Sitemap} />
+          {/* <Route exact path="/Sitemap" component={Sitemap} /> */}
           <Route exact path="/:slug" component={ChapterContent} />
           <Route exact path="/:slug/:sectionSlug" component={SectionContent} />
         </BrowserRouter>

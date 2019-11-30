@@ -1,3 +1,162 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+/* ############################################################## */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-family: "Helvetica", sans-serif;
+}
+body,
+#root {
+  background: url("https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80")
+    fixed;
+
+  height: 100%;
+  min-height: 100%;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .book {
   width: 720px;
   margin: 0 auto;
@@ -6,28 +165,29 @@
 
 .content {
   background-image: url("./img/paper-bg.jpg");
-  padding: 10px;
   width: 100%;
   border: 10px solid #70411c;
   margin: 10px 0 0 0;
 }
 
 .book-header {
-  background: rgba(255, 255, 255, 0.3);
-  padding: 15px 0;
-  margin: 15px 0;
-  border-radius: 25px;
-}
-
-.book-name {
-  font-size: 1.8rem;
-  font-weight: 700;
-  text-align: center;
+  padding: 25px 0 35px 0;
+  margin: 0 0 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 1.6rem;
 }
 
 .author {
-  font-size: 1.4rem;
-  text-align: center;
+  padding: 0 0 5px 0;
+}
+
+.book-name {
+  font-weight: bold;
+  font-size: 2.4rem;
+  padding: 10px 0 0 0;
 }
 
 .index {
@@ -42,24 +202,24 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  align-items: stretch;
+  padding: 10px;
 }
 
 .chapter-list-item {
-  line-height: 35px;
-  font-size: 19px;
+  font-size: 1.3rem;
   font-weight: bold;
   text-align: center;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid #d39e00;
   margin: 0 0 10px 0;
-  padding: 3px 0;
+  padding: 8px 0;
   border-radius: 15px;
+  line-height: 1.9rem;
 }
 
 .chapter-content {
   display: flex;
   flex-direction: column;
-  align-items: center;
   background-image: url("./img/paper-bg.jpg");
   padding: 10px;
   width: 100%;
@@ -69,8 +229,9 @@
 
 .chapter-page-title {
   margin: 20px 0;
-  font-weight: 900;
+  font-weight: bold;
   text-align: center;
+  font-size: 2rem;
 }
 
 .section-content {
@@ -88,6 +249,19 @@
   line-height: 1.4;
 }
 
+.back-button {
+  background-color: #e0a800;
+  color: #000;
+  border-color: #d39e00;
+  margin-bottom: 20px;
+  vertical-align: middle;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  align-self: center;
+  transition: all 0.3s;
+}
+
 .section-list {
   list-style-position: inside;
   padding-inline-start: 0;
@@ -95,12 +269,14 @@
 
 .section-list-item {
   list-style-type: decimal;
-  font-size: 17px;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
   font-weight: bold;
   margin: 8px 0;
-  background: rgba(255, 255, 255, 0.2);
-  padding: 5px 15px;
+  background: rgba(255, 255, 255, 0.3);
+  padding: 10px 0 10px 10px;
   border-radius: 15px;
+  border: 1px solid #d39e00;
 }
 
 .section-content-meta {
@@ -111,18 +287,13 @@
 }
 
 .section-content-text {
+  font-size: 1.2rem;
   text-align: justify;
+  line-height: 1.7rem;
 }
 
-.back-button {
-  background-color: #e0a800;
-  color: #000;
-  border-color: #d39e00;
-  margin-bottom: 20px;
-  vertical-align: middle;
-  padding: 3px 8px;
-  border-radius: 5px;
-  font-size: 0.8em;
+.section-content-text p {
+  padding: 5px 0;
 }
 
 .back-button:hover {
