@@ -326,3 +326,31 @@ a:hover {
   line-height: 20px;
   padding: 15px;
 }
+
+.download {
+  margin: 75px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.storebutton {
+  width: 300px;
+  padding: 10px;
+}
+
+.download-text {
+  font-size: 20px;
+  font-weight: bold;
+  width: 300px;
+  text-align: center;
+  line-height: 28px;
+}
+
+@media (max-width: 500px) {
+  .storebutton,
+  .download-text {
+    width: 80%;
+  }
+}
