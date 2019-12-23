@@ -347,10 +347,3 @@ a:hover {
   text-align: center;
   line-height: 28px;
 }
-
-@media (max-width: 500px) {
-  .storebutton,
-  .download-text {
-    width: 80%;
-  }
-}
