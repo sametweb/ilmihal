@@ -11,7 +11,11 @@ const MainpageHeader = () => {
           href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
           alt="ilmihal oku Android uygulamasını indir"
         >
-          <img src={storebutton} className="storebutton" />
+          <img
+            src={storebutton}
+            alt={"ilmihal oku uygulamasını Google Play Store'dan indirin."}
+            className="storebutton"
+          />
         </a>
         <div className="download-text">
           <a
