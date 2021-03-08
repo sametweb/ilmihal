@@ -19,7 +19,7 @@ class App extends React.Component {
           <Route exact path="/:slug/:sectionSlug" component={SectionContent} />
         </BrowserRouter>
         <div className="footer">
-          by <a href="https://samet.web.tr">Samet Mütevelli</a>
+          by <a href="https://sametmutevelli.com">Samet Mütevelli</a>
         </div>
       </div>
     );
