@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  #__next {
+    @apply w-full h-full flex justify-center;
+  }
+
+  .wrapper {
+    @apply rounded-md border-8 border-yellow-800 w-full md:w-[766px] h-full;
+    background-color: #ffe5ba;
+  }
+
+  .logo-author {
+    @apply text-3xl pt-2 text-center;
+  }
+  .logo-title {
+    @apply text-4xl font-bold pt-3 text-center mb-10;
+  }
+  .download {
+    @apply w-full flex flex-col items-center pt-16 mb-16;
+  }
+
+  .store-button {
+    @apply self-center mb-4;
+    width: 300px;
+  }
+  .download-text {
+    @apply text-center text-xl;
+  }
+  .index-title {
+    @apply text-2xl font-bold mb-3 text-center;
+  }
+  .content-list {
+    @apply text-center text-xl;
+  }
+  .content-item {
+    @apply py-1 mb-2 border-yellow-900 border mx-2 rounded-md hover:bg-yellow-200;
+  }
+  .chapter-title {
+    @apply text-2xl text-center font-bold pt-5 mb-5;
+  }
+  .section-title {
+    @apply text-xl text-center font-bold pt-5 mb-5;
+  }
+  .section-paragraph {
+    @apply pt-1 mb-2 px-2;
+  }
+  .reading-time {
+    @apply text-gray-500 text-center mb-5;
+  }
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80")
+    fixed;
+  height: 100%;
+  min-height: 100%;
+  padding: 1rem;
+}

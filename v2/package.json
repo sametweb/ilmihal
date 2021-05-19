@@ -1,0 +1,22 @@
+{
+  "name": "v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "SET TAILWIND_MODE=watch & SET NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css -w",
+    "build:dev": "SET TAILWIND_MODE=build & NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css",
+    "build:prod": "SET TAILWIND_MODE=build & NODE_ENV=production & postcss ./styles/globals.css -o ./styles/main.css",
+    "build": "next build",
+    "start": "next dev"
+  },
+  "dependencies": {
+    "next": "10.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2"
+  }
+}
