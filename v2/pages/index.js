@@ -33,7 +33,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <h3 className="index-title">İÇİNDEKİLER</h3>
+      <h2 className="index-title">İÇİNDEKİLER</h2>
       <ul className="content-list">
         {data.map((item) => (
           <li className="content-item">
