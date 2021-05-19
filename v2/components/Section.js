@@ -14,11 +14,11 @@ function Section({ chapter, section }) {
         </title>
         <meta name="description" content={section.content[0]} />
       </Head>
-      <Link href={`/${chapter.slug}`} passHref>
-        <a>
-          <h1 className="chapter-title url">&larr; {chapter.title}</h1>
-        </a>
-      </Link>
+      <h1 className="chapter-title url">
+        <Link href={`/${chapter.slug}`} passHref>
+          <a>&larr; {chapter.title}</a>
+        </Link>
+      </h1>
       <h2 className="section-title">{section.title}</h2>
       <p className="reading-time">
         {`Okuma süresi: ${Math.round(

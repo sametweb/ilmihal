@@ -36,11 +36,11 @@ export default function Home() {
       <h3 className="index-title">İÇİNDEKİLER</h3>
       <ul className="content-list">
         {data.map((item) => (
-          <Link href={`/${item.slug}`} key={item.id} passHref>
-            <a>
-              <li className="content-item">{item.title}</li>
-            </a>
-          </Link>
+          <li className="content-item">
+            <Link href={`/${item.slug}`} key={item.id} passHref>
+              <a>{item.title}</a>
+            </Link>
+          </li>
         ))}
       </ul>
     </>

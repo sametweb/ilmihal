@@ -9,15 +9,15 @@ function Chapter({ chapter }) {
       <ul className="content-list">
         {chapter.content.map((section) => {
           return (
-            <Link
-              href={`/${chapter.slug}/${section.slug}`}
-              key={section.slug}
-              passHref
-            >
-              <a>
-                <li className="content-item">{section.title}</li>
-              </a>
-            </Link>
+            <li className="content-item">
+              <Link
+                href={`/${chapter.slug}/${section.slug}`}
+                key={section.slug}
+                passHref
+              >
+                <a>{section.title}</a>
+              </Link>
+            </li>
           );
         })}
       </ul>

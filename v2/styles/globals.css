@@ -6,7 +6,9 @@
   #__next {
     @apply w-full h-full flex flex-col items-center;
   }
-
+  a {
+    @apply block;
+  }
   .wrapper {
     @apply rounded-md border-8 border-yellow-800 w-full md:w-[766px] h-full;
     background-color: #ffe5ba;
