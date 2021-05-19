@@ -17,6 +17,7 @@ function MyApp({ Component, pageProps }) {
         href="https://sametmutevelli.com"
         target="_blank"
         style={{ color: "white", marginTop: 20 }}
+        rel="noopener"
       >
         Designed and coded by Samet Mutevelli
       </a>

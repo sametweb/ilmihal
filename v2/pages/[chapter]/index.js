@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Chapter from "../../components/Chapter";
 import data from "../../data";
-import { title } from "../../meta";
+import { title, description } from "../../meta";
 
 function chapter({ chapter }) {
   return (
@@ -10,6 +10,7 @@ function chapter({ chapter }) {
         <title>
           {chapter.title} - {title}
         </title>
+        <meta name="description" content={description} />
       </Head>
       <Chapter chapter={chapter} />
     </>
