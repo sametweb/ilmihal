@@ -4,17 +4,7 @@ import data from "../../data";
 import { title, description } from "../../meta";
 
 function chapter({ chapter }) {
-  return (
-    <>
-      <Head>
-        <title>
-          {chapter.title} - {title}
-        </title>
-        <meta name="description" content={description} />
-      </Head>
-      <Chapter chapter={chapter} />
-    </>
-  );
+  return <Chapter chapter={chapter} />;
 }
 
 export const getStaticProps = async ({ params: { chapter: slug } }) => {
