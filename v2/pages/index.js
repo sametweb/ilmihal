@@ -22,6 +22,8 @@ export default function Home() {
             src="/storebutton.svg"
             alt={"ilmihal oku uygulamasını Google Play Store'dan indirin."}
             className="store-button"
+            width="300"
+            height="98.14"
           />
         </a>
         <div className="download-text">
