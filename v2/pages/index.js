@@ -19,7 +19,7 @@ export default function Home() {
           alt="ilmihal oku Android uygulamasını indir"
         >
           <img
-            src="/storebutton.PNG"
+            src="/storebutton.png"
             alt={"ilmihal oku uygulamasını Google Play Store'dan indirin."}
             className="store-button"
             width="300"
