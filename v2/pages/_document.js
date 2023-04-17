@@ -9,7 +9,9 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="tr">
-        <Head />
+        <Head>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8983073287640394" crossorigin="anonymous"></script>
+        </Head>
         <body>
           <Main />
           <NextScript />
