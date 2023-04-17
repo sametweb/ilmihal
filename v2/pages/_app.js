@@ -1,5 +1,6 @@
 import "../styles/main.css";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/react";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -12,6 +13,7 @@ function MyApp({ Component, pageProps }) {
           </a>
         </Link>
         <Component {...pageProps} />
+        <Analytics />
       </div>
       <a
         href="https://sametmutevelli.com"
