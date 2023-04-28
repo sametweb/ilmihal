@@ -14,7 +14,7 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Card className="p-3" borderWeight="0">
+      <Card className="p-3" borderWeight="0" role="main">
         <Card.Header>
           <Text className="book-title">İÇİNDEKİLER</Text>
         </Card.Header>

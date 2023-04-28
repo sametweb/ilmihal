@@ -47,3 +47,11 @@
 .section-paragraph {
   @apply pt-1 mb-2 px-2;
 }
+
+.banner-card-header {
+  @apply absolute z-[1] top-[5px] flex justify-between;
+}
+
+.banner-card-body {
+  @apply p-0;
+}

@@ -562,9 +562,6 @@ video {
 .static {
 	position: static;
 }
-.absolute {
-	position: absolute;
-}
 .sticky {
 	position: sticky;
 }
@@ -580,9 +577,6 @@ video {
 .ml-6 {
 	margin-left: 1.5rem;
 }
-.flex {
-	display: flex;
-}
 .rounded-lg {
 	border-radius: 0.5rem;
 }
@@ -591,18 +585,6 @@ video {
 }
 .p-3 {
 	padding: 0.75rem;
-}
-.px-4 {
-	padding-left: 1rem;
-	padding-right: 1rem;
-}
-.px-8 {
-	padding-left: 2rem;
-	padding-right: 2rem;
-}
-.px-10 {
-	padding-left: 2.5rem;
-	padding-right: 2.5rem;
 }
 .px-3 {
 	padding-left: 0.75rem;
@@ -700,4 +682,16 @@ video {
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	padding-top: 0.25rem;
+}
+
+.banner-card-header {
+	position: absolute;
+	top: 5px;
+	z-index: 1;
+	display: flex;
+	justify-content: space-between;
+}
+
+.banner-card-body {
+	padding: 0px;
 }

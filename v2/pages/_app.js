@@ -49,6 +49,7 @@ function MyApp({ Component, pageProps }) {
                 width={76}
                 height={76}
                 className="rounded-lg"
+                alt="ilmihal oku logo"
               />
               <div className="pl-2">
                 <Text color="inherit" hideIn="xs" className="pre-title">
@@ -60,32 +61,24 @@ function MyApp({ Component, pageProps }) {
               </div>
             </Navbar.Brand>
           </Link>
-          <Navbar.Content variant="highlight-rounded">
+          <Navbar.Content variant="highlight-rounded" as="div">
             <ThemeSwitch />
           </Navbar.Content>
         </Navbar>
         <Container xs>
-          <Card className="mb-10" borderWeight="0">
-            <Card.Header
-              css={{
-                position: "absolute",
-                zIndex: 1,
-                top: 5,
-                display: "flex",
-                justifyContent: "space-between",
-              }}
-            >
+          <Card className="mb-10" borderWeight="0" role="banner">
+            <Card.Header className="banner-card-header">
               <Text className="font-bold text-white text-3xl">
                 cepte ilmihal oku!
               </Text>
             </Card.Header>
-            <Card.Body css={{ p: 0 }}>
+            <Card.Body className="banner-card-body">
               <Card.Image
                 src="/android-bg.jpg"
                 objectFit="cover"
                 width="100%"
                 height="100px"
-                alt="Relaxing app background"
+                alt="Google Play Store background image"
               />
             </Card.Body>
             <Card.Footer>
@@ -98,11 +91,15 @@ function MyApp({ Component, pageProps }) {
                 </Col>
                 <Col>
                   <Row justify="flex-end">
-                    <Link href="https://play.google.com/store/apps/details?id=com.oku.ilmihal&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-                      <Button auto color="warning" rounded flat>
-                        İndir
-                      </Button>
-                    </Link>
+                    <Button
+                      as="a"
+                      auto
+                      color="primary"
+                      rounded
+                      href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
+                    >
+                      İndir
+                    </Button>
                   </Row>
                 </Col>
               </Row>
