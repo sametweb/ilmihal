@@ -40,7 +40,7 @@ function MyApp({ Component, pageProps }) {
           shouldHideOnScroll
           variant="sticky"
           height={120}
-          className="mb-8"
+          className="mb-8 px-3"
         >
           <Link href="/" color="text">
             <Navbar.Brand>
