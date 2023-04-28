@@ -32,17 +32,15 @@ function Section({ chapter, section }) {
           </Row>
         </Card.Body>
       </Card>
-      <Container>
-        <p className="reading-time">
-          <BookOpen size={17} className="mr-1" /> Okuma süresi:{" "}
-          {readingTime(section)}
+      <p className="reading-time">
+        <BookOpen size={17} className="mr-1" /> Okuma süresi:{" "}
+        {readingTime(section)}
+      </p>
+      {section.content.map((p, id) => (
+        <p className="section-paragraph" key={id}>
+          {p}
         </p>
-        {section.content.map((p, id) => (
-          <p className="section-paragraph" key={id}>
-            {p}
-          </p>
-        ))}
-      </Container>
+      ))}
     </>
   );
 }
