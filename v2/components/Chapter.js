@@ -19,7 +19,7 @@ function Chapter({ chapter }) {
             .toLowerCase()}
         />
       </Head>
-      <Card borderWeight="0" className="mb-8 p-3">
+      <Card borderWeight="0" className="mb-8 p-3" role="main">
         <Card.Header>
           <Row wrap="wrap">
             <Col span={12}>

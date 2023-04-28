@@ -18,7 +18,7 @@ function Section({ chapter, section }) {
         </title>
         <meta name="description" content={section.content[0]} />
       </Head>
-      <Card borderWeight="0">
+      <Card borderWeight="0" role="heading">
         <Card.Body>
           <Row>
             <h1 className="back-link">

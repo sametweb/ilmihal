@@ -583,6 +583,14 @@ video {
 .rounded {
 	border-radius: 0.25rem;
 }
+.bg-gray-800 {
+	--tw-bg-opacity: 1;
+	background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+}
+.bg-gray-700 {
+	--tw-bg-opacity: 1;
+	background-color: rgba(55, 65, 81, var(--tw-bg-opacity));
+}
 .p-3 {
 	padding: 0.75rem;
 }
@@ -694,4 +702,9 @@ video {
 
 .banner-card-body {
 	padding: 0px;
+}
+
+.hover\:bg-gray-900:hover {
+	--tw-bg-opacity: 1;
+	background-color: rgba(17, 24, 39, var(--tw-bg-opacity));
 }

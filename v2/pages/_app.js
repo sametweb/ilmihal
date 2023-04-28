@@ -94,8 +94,9 @@ function MyApp({ Component, pageProps }) {
                     <Button
                       as="a"
                       auto
-                      color="primary"
                       rounded
+                      // To get enough contrast
+                      className="bg-gray-700 hover:bg-gray-900"
                       href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
                     >
                       İndir
