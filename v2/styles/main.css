@@ -583,10 +583,6 @@ video {
 .rounded {
 	border-radius: 0.25rem;
 }
-.bg-gray-800 {
-	--tw-bg-opacity: 1;
-	background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
-}
 .bg-gray-700 {
 	--tw-bg-opacity: 1;
 	background-color: rgba(55, 65, 81, var(--tw-bg-opacity));
@@ -676,8 +672,7 @@ video {
 	text-align: right;
 	font-size: 0.875rem;
 	line-height: 1.25rem;
-	--tw-text-opacity: 1;
-	color: rgba(107, 114, 128, var(--tw-text-opacity));
+	font-weight: 300;
 }
 
 .footer {

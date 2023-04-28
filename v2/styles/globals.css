@@ -37,7 +37,7 @@
 }
 
 .reading-time {
-  @apply text-gray-500 text-sm mt-6 mb-4 text-right flex justify-end items-center;
+  @apply text-sm mt-6 mb-4 text-right flex justify-end items-center font-light;
 }
 
 .footer {

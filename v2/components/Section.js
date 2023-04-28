@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { title } from "../meta";
 import { BookOpen } from "react-feather";
-import { Card, Link, Row, Container } from "@nextui-org/react";
+import { Card, Link, Row, Container, Text } from "@nextui-org/react";
 
 function Section({ chapter, section }) {
   const countWords = (paragraphs) =>
@@ -18,7 +18,7 @@ function Section({ chapter, section }) {
         </title>
         <meta name="description" content={section.content[0]} />
       </Head>
-      <Card borderWeight="0" role="heading">
+      <Card borderWeight="0" role="presentation">
         <Card.Body>
           <Row>
             <h1 className="back-link">
@@ -32,10 +32,10 @@ function Section({ chapter, section }) {
           </Row>
         </Card.Body>
       </Card>
-      <p className="reading-time">
+      <Text className="reading-time">
         <BookOpen size={17} className="mr-1" /> Okuma süresi:{" "}
         {readingTime(section)}
-      </p>
+      </Text>
       {section.content.map((p, id) => (
         <p className="section-paragraph" key={id}>
           {p}
