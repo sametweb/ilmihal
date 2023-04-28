@@ -1,4 +1,4 @@
-/*! tailwindcss v2.1.2 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /*
 Document
@@ -20,9 +20,7 @@ Use a more readable tab size (opinionated).
 */
 
 html {
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	   tab-size: 4;
+	tab-size: 4;
 }
 
 /**
@@ -328,16 +326,6 @@ button {
   background-image: none;
 }
 
-/**
- * Work around a Firefox/IE bug where the transparent `button` background
- * results in a loss of the default `button` focus styles.
- */
-
-button:focus {
-  outline: 1px dotted;
-  outline: 5px auto -webkit-focus-ring-color;
-}
-
 fieldset {
   margin: 0;
   padding: 0;
@@ -409,7 +397,7 @@ body {
   box-sizing: border-box; /* 1 */
   border-width: 0; /* 2 */
   border-style: solid; /* 2 */
-  border-color: #e5e7eb; /* 2 */
+  border-color: currentColor; /* 2 */
 }
 
 /*
@@ -438,16 +426,6 @@ textarea {
   resize: vertical;
 }
 
-input::-moz-placeholder, textarea::-moz-placeholder {
-  opacity: 1;
-  color: #9ca3af;
-}
-
-input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  opacity: 1;
-  color: #9ca3af;
-}
-
 input::placeholder,
 textarea::placeholder {
   opacity: 1;
@@ -457,6 +435,18 @@ textarea::placeholder {
 button,
 [role="button"] {
   cursor: pointer;
+}
+
+/**
+ * Override legacy focus reset from Normalize with modern Firefox focus styles.
+ *
+ * This is actually an improvement over the new defaults in Firefox in our testing,
+ * as it triggers the better focus styles even for links, which still use a dotted
+ * outline in Firefox by default.
+ */
+ 
+:-moz-focusring {
+	outline: auto;
 }
 
 table {
@@ -516,11 +506,20 @@ samp {
 }
 
 /**
- * Make replaced elements `display: block` by default as that's
- * the behavior you want almost all of the time. Inspired by
- * CSS Remedy, with `svg` added as well.
+ * 1. Make replaced elements `display: block` by default as that's
+ *    the behavior you want almost all of the time. Inspired by
+ *    CSS Remedy, with `svg` added as well.
  *
- * https://github.com/mozdevs/cssremedy/issues/14
+ *    https://github.com/mozdevs/cssremedy/issues/14
+ * 
+ * 2. Add `vertical-align: middle` to align replaced elements more
+ *    sensibly by default when overriding `display` by adding a
+ *    utility like `inline`.
+ *
+ *    This can trigger a poorly considered linting error in some
+ *    tools but is included by design.
+ * 
+ *    https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210
  */
 
 img,
@@ -531,8 +530,8 @@ audio,
 iframe,
 embed,
 object {
-  display: block;
-  vertical-align: middle;
+  display: block; /* 1 */
+  vertical-align: middle; /* 2 */
 }
 
 /**
@@ -548,138 +547,141 @@ video {
   height: auto;
 }
 
-* {
-	--tw-shadow: 0 0 #0000;
-	--tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
-	--tw-ring-offset-width: 0px;
-	--tw-ring-offset-color: #fff;
-	--tw-ring-color: rgba(59, 130, 246, 0.5);
-	--tw-ring-offset-shadow: 0 0 #0000;
-	--tw-ring-shadow: 0 0 #0000;
-}
-#__next {
-	display: flex;
-	height: 100%;
-	width: 100%;
-	flex-direction: column;
-	align-items: center;
-}
-a {
-	display: block;
-}
-.wrapper {
-	height: 100%;
-	width: 100%;
-	border-radius: 0.375rem;
-	border-width: 8px;
-	--tw-border-opacity: 1;
-	border-color: rgba(146, 64, 14, var(--tw-border-opacity));
-}
-@media (min-width: 768px) {
+/**
+ * Ensure the default browser behavior of the `hidden` attribute.
+ */
 
-	.wrapper {
-		width: 766px;
-	}
+[hidden] {
+  display: none;
 }
-.wrapper {
-    background-color: #ffe5ba;
-  }
-.logo-author {
-	padding-top: 0.5rem;
-	text-align: center;
+
+*, ::before, ::after {
+	--tw-border-opacity: 1;
+	border-color: rgba(229, 231, 235, var(--tw-border-opacity));
+}
+.static {
+	position: static;
+}
+.absolute {
+	position: absolute;
+}
+.sticky {
+	position: sticky;
+}
+.mb-8 {
+	margin-bottom: 2rem;
+}
+.mb-10 {
+	margin-bottom: 2.5rem;
+}
+.mr-1 {
+	margin-right: 0.25rem;
+}
+.ml-6 {
+	margin-left: 1.5rem;
+}
+.flex {
+	display: flex;
+}
+.rounded-lg {
+	border-radius: 0.5rem;
+}
+.rounded {
+	border-radius: 0.25rem;
+}
+.p-3 {
+	padding: 0.75rem;
+}
+.pl-2 {
+	padding-left: 0.5rem;
+}
+.text-3xl {
 	font-size: 1.875rem;
 	line-height: 2.25rem;
 }
-.logo-title {
-	margin-bottom: 2.5rem;
+.text-xs {
+	font-size: 0.75rem;
+	line-height: 1rem;
+}
+.font-bold {
+	font-weight: 700;
+}
+.text-white {
+	--tw-text-opacity: 1;
+	color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
+.pre-title {
+	letter-spacing: 0.025em;
+}
+
+.title {
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	font-weight: 700;
+	letter-spacing: 0.025em;
+}
+
+.list > :not([hidden]) ~ :not([hidden]) {
+	--tw-divide-y-reverse: 0;
+	border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
+	border-bottom-width: calc(1px * var(--tw-divide-y-reverse));
+	border-style: dashed;
+}
+
+.book-item {
+	margin: 0px;
+	list-style-position: inside;
+	list-style-type: decimal;
 	padding-top: 0.75rem;
-	text-align: center;
-	font-size: 2.25rem;
-	line-height: 2.5rem;
+	padding-bottom: 0.75rem;
+}
+
+.chapter-item {
+	margin: 0px;
+	list-style-position: inside;
+	list-style-type: decimal;
+	padding-top: 0.75rem;
+	padding-bottom: 0.75rem;
+}
+
+.chapter-item a {
+	display: inline;
+}
+
+.section-title, .chapter-title, .book-title {
+	font-size: 1.5rem;
+	line-height: 2rem;
 	font-weight: 700;
 }
-.download {
-	margin-bottom: 4rem;
-	display: flex;
-	width: 100%;
-	flex-direction: column;
-	align-items: center;
-	padding-top: 4rem;
+
+.back-link {
+	margin-bottom: 1.25rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
 }
-.store-button {
+
+.reading-time {
+	margin-top: 1.5rem;
 	margin-bottom: 1rem;
-	align-self: center;
-    width: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	text-align: right;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	--tw-text-opacity: 1;
+	color: rgba(107, 114, 128, var(--tw-text-opacity));
 }
-.download-text {
+
+.footer {
+	margin-top: 5rem;
 	text-align: center;
-	font-size: 1.25rem;
-	line-height: 1.75rem;
 }
-.index-title {
-	margin-bottom: 0.75rem;
-	text-align: center;
-	font-size: 1.5rem;
-	line-height: 2rem;
-	font-weight: 700;
-}
-.content-list {
-	text-align: center;
-	font-size: 1.25rem;
-	line-height: 1.75rem;
-}
-.content-item {
-	margin-left: 0.5rem;
-	margin-right: 0.5rem;
-	margin-bottom: 0.5rem;
-	border-radius: 0.375rem;
-	border-width: 1px;
-	--tw-border-opacity: 1;
-	border-color: rgba(120, 53, 15, var(--tw-border-opacity));
-	padding-top: 0.25rem;
-	padding-bottom: 0.25rem;
-}
-.content-item:hover {
-	--tw-bg-opacity: 1;
-	background-color: rgba(253, 230, 138, var(--tw-bg-opacity));
-}
-.chapter-title {
-	margin-bottom: 1.25rem;
-	padding-top: 1.25rem;
-	text-align: center;
-	font-size: 1.5rem;
-	line-height: 2rem;
-	font-weight: 700;
-}
-.section-title {
-	margin-bottom: 1.25rem;
-	padding-top: 1.25rem;
-	text-align: center;
-	font-size: 1.25rem;
-	line-height: 1.75rem;
-	font-weight: 700;
-}
+
 .section-paragraph {
 	margin-bottom: 0.5rem;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	padding-top: 0.25rem;
-}
-.reading-time {
-	margin-bottom: 1.25rem;
-	text-align: center;
-	--tw-text-opacity: 1;
-	color: rgba(107, 114, 128, var(--tw-text-opacity));
-}
-
-html {
-  min-height: 100%;
-}
-
-body {
-  background: url("https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80")
-    fixed;
-  height: 100%;
-  min-height: 100%;
-  padding: 1rem;
 }

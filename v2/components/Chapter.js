@@ -1,6 +1,6 @@
-import Link from "next/link";
 import Head from "next/head";
 import { title } from "../meta";
+import { Text, Link, Card, Row, Col } from "@nextui-org/react";
 
 function Chapter({ chapter }) {
   if (!chapter) return <>404</>;
@@ -19,20 +19,37 @@ function Chapter({ chapter }) {
             .toLowerCase()}
         />
       </Head>
-      <div>
-        <h1 className="chapter-title">{chapter.title}</h1>
-        <ul className="content-list">
-          {chapter.content.map((section) => {
-            return (
-              <li className="content-item" key={section.slug}>
-                <Link href={`/${chapter.slug}/${section.slug}`} passHref>
-                  <a>{section.title}</a>
+      <Card borderWeight="0" className="mb-8 p-3">
+        <Card.Header>
+          <Row wrap="wrap">
+            <Col span={12}>
+              <Row>
+                <h1 className="back-link">
+                  <Link href="/" passHref color={"text"}>
+                    &larr; İÇİNDEKİLER
+                  </Link>
+                </h1>
+              </Row>
+              <Row>
+                <Text h1 className="chapter-title">
+                  {chapter.title}
+                </Text>
+              </Row>
+            </Col>
+          </Row>
+        </Card.Header>
+        <Card.Body>
+          <ul className="list">
+            {chapter.content.map((content) => (
+              <li key={content.slug} className="chapter-item">
+                <Link href={`/${chapter.slug}/${content.slug}`} color={"text"}>
+                  {content.title}
                 </Link>
               </li>
-            );
-          })}
-        </ul>
-      </div>
+            ))}
+          </ul>
+        </Card.Body>
+      </Card>
     </>
   );
 }

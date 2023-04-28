@@ -3,17 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "SET TAILWIND_MODE=watch & SET NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css -w",
-    "build:dev": "SET TAILWIND_MODE=build & NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css",
-    "build:prod": "SET TAILWIND_MODE=build & NODE_ENV=production & postcss ./styles/globals.css -o ./styles/main.css",
+    "dev": "TAILWIND_MODE=watch & NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css -w",
+    "build:dev": "TAILWIND_MODE=build & NODE_ENV=development & postcss ./styles/globals.css -o ./styles/main.css",
+    "build:prod": "TAILWIND_MODE=build & NODE_ENV=production & postcss ./styles/globals.css -o ./styles/main.css",
     "build": "next build",
     "start": "next dev"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.12",
     "@vercel/analytics": "^0.1.11",
     "next": "10.2.0",
+    "next-themes": "^0.2.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-feather": "^2.0.10"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.5",

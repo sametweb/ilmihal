@@ -1,6 +1,7 @@
 import Head from "next/head";
-import Link from "next/link";
 import data from "../data";
+import { Text, Link, Card } from "@nextui-org/react";
+import React from "react";
 
 export default function Home() {
   return (
@@ -13,38 +14,22 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="download">
-        <a
-          href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
-          alt="ilmihal oku Android uygulamasını indir"
-        >
-          <img
-            src="/storebutton.png"
-            alt={"ilmihal oku uygulamasını Google Play Store'dan indirin."}
-            className="store-button"
-            width="300"
-            height="98.14"
-          />
-        </a>
-        <div className="download-text">
-          <a
-            href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
-            alt="ilmihal oku Android uygulamasını indir"
-          >
-            ilmihal oku Android uygulamasını indirmek için tıklayın!
-          </a>
-        </div>
-      </div>
-      <h2 className="index-title">İÇİNDEKİLER</h2>
-      <ul className="content-list">
-        {data.map((item) => (
-          <li className="content-item">
-            <Link href={`/${item.slug}`} key={item.id} passHref>
-              <a>{item.title}</a>
-            </Link>
-          </li>
-        ))}
-      </ul>
+      <Card className="p-3" borderWeight="0">
+        <Card.Header>
+          <Text className="book-title">İÇİNDEKİLER</Text>
+        </Card.Header>
+        <Card.Body>
+          <ul className="list">
+            {data.map((chapter) => (
+              <li key={chapter.slug} className="book-item">
+                <Link href={`/${chapter.slug}`} color={"text"}>
+                  {chapter.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </Card.Body>
+      </Card>
     </>
   );
 }

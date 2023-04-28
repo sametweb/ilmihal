@@ -50,7 +50,7 @@ export default [
         title: "İSLAM DİNİNİN GENELLİĞİ VE MUTLU SONUÇLARI",
         slug: slugify("İSLAM DİNİNİN GENELLİĞİ VE MUTLU SONUÇLARI"),
         content: [
-          " 5- İslâm dini, hak dinlerin en sonu ve en olgunudur. Bu kutsal din, yalnız bir millete ve bir zamana özgü değildir. Bütün insanlara kıyamete kadar gerekli olan Allah’ın tabii dinidir. İnsanların yaratılışlarına ve yaşayışlarına tamamiyle uygundur. Bu yüce din, bir kurtuluş ve selamete eriş yoludur, bu mutluluk kaynağıdır. Allahû Teala’nın razı olduğu dindir. Cenab-ı Hak buyurmuştur: “Allah katında din İslâm’dır.” (Al-i İmran: 19) ",
+          "5- İslâm dini, hak dinlerin en sonu ve en olgunudur. Bu kutsal din, yalnız bir millete ve bir zamana özgü değildir. Bütün insanlara kıyamete kadar gerekli olan Allah’ın tabii dinidir. İnsanların yaratılışlarına ve yaşayışlarına tamamiyle uygundur. Bu yüce din, bir kurtuluş ve selamete eriş yoludur, bu mutluluk kaynağıdır. Allahû Teala’nın razı olduğu dindir. Cenab-ı Hak buyurmuştur: “Allah katında din İslâm’dır.” (Al-i İmran: 19) ",
 
           "6- İslâmiyetin ortaya çıkışından önce, bütün yeryüzü din bakımından cehalet karanlığı içinde kalmıştır. Hak dinler, sönmüş, İlahî ilim ve irfan güneşi batmış, ufukları karanlıklar kaplamıştı. İnsanlar yalnız kendi hırsları uğrunda çalışıyor, çırpınıyor ve çarpışıyordu. Birbirlerini esir ediyorlardı. Arab yarımadasının halkı ise, büsbütün cehalet içinde kalmıştı. İnsanlar kendi elleriyle yaptıkları putlara tapıyorlardı.",
 
@@ -65,7 +65,7 @@ export default [
         title: "İMAN VE İSLAMIN NİTELİĞİ",
         slug: slugify("İMAN VE İSLAMIN NİTELİĞİ"),
         content: [
-          " 7- İman, lügat manası bakımından, bir şeye inanmak ve bir şeyi doğrulamak demektir. “Bu iş böyledir, şöyledir” diye hüküm vermektir. ",
+          "7- İman, lügat manası bakımından, bir şeye inanmak ve bir şeyi doğrulamak demektir. “Bu iş böyledir, şöyledir” diye hüküm vermektir. ",
 
           "Din teriminde ise, Yüce Allah’ın dinini kalb ile kabul edip Rasûlüllah sallallahu aleyhi ve sellem’in bildirdiği şeyleri kesin olarak kalb ile doğrulamaktır.",
 
@@ -84,7 +84,7 @@ export default [
         title: "İMAN VE İSLAMIN ŞARTLARI",
         slug: slugify("İMAN VE İSLAMIN ŞARTLARI"),
         content: [
-          " 10- İslâm dininde Yüce Allah’a, meleklere, Allah’ın kitablarına, peygamberlere, ahiret gününe, kaza ve kadere iman etmek esastır. Bunları bilip kabullenmek imanın temel şartıdır. Onun için imanın şartları altıdır, denilir. Bu şartlar müslümanlıkta kesinlikle mevcut esaslardır. ",
+          "10- İslâm dininde Yüce Allah’a, meleklere, Allah’ın kitablarına, peygamberlere, ahiret gününe, kaza ve kadere iman etmek esastır. Bunları bilip kabullenmek imanın temel şartıdır. Onun için imanın şartları altıdır, denilir. Bu şartlar müslümanlıkta kesinlikle mevcut esaslardır. ",
 
           "Bunlara, inanılması zorunlu din ilkeleri denir. Bunlara inanmak mecburiyeti vardır. Bunları doğrulamadıkça iman gerçekleşemez. Bunlardan herhangi birini inkar etmek -Allah korusun- insanı hemen dinden çıkarır.",
 
@@ -103,7 +103,7 @@ export default [
         title: "YÜCE ALLAH'A VE O'NUN SIFATLARINA İMAN",
         slug: slugify("YÜCE ALLAH'A VE O'NUN SIFATLARINA İMAN"),
         content: [
-          " 12- Yukarıda yazılı olduğu üzere imanın temelini teşkil eden altı şart vardır. Bunlardan birincisi Yüce Allah’a iman etmektir. Şöyle ki: “Allah Tealâ (Yüce Allah) diye ismini andığımız şanı büyük olan Yaratıcı vardır. Eşi ve benzeri olmayan o varlık bütün kemal sıfatları ile vasıflanmıştır. Bütün noksanlıklardan beri (münezzeh) dir. Bütün âlemleri yoktan var eden O’dur. O’nun kudret ve büyüklüğüne denk hiçbir şey yoktur. Bizleri ve bizim gördüklerimizle görmediğimiz sayısız âlemleri yaratan, yetiştirip besleyen ancak O’dur. ",
+          "12- Yukarıda yazılı olduğu üzere imanın temelini teşkil eden altı şart vardır. Bunlardan birincisi Yüce Allah’a iman etmektir. Şöyle ki: “Allah Tealâ (Yüce Allah) diye ismini andığımız şanı büyük olan Yaratıcı vardır. Eşi ve benzeri olmayan o varlık bütün kemal sıfatları ile vasıflanmıştır. Bütün noksanlıklardan beri (münezzeh) dir. Bütün âlemleri yoktan var eden O’dur. O’nun kudret ve büyüklüğüne denk hiçbir şey yoktur. Bizleri ve bizim gördüklerimizle görmediğimiz sayısız âlemleri yaratan, yetiştirip besleyen ancak O’dur. ",
 
           "Yüce Allah’ın “Rahman, Rahim, Halık, Rezzak, Hakîm, Rabb, Mübdî, Azîz, Gaffar, Tevvab, Hak” gibi daha birçok mübarek isimleri ve büyük sıfatları vardır. Özellikle Vücud (Varlık) sıfatı vardır. Bundan başka mübarek sıfatları iki kısma ayrılır. Bir kısmı Selbi Sıfatlar’dır ki, Kıdem, Beka, Havadise Muhalefet (hiç bir yaratığa benzer olmamak), Kıyam Bizatihi (varlığı kendiliğinden oluş), Vahdaniyet (ortağı olmamak) sıfatlarından ibaret olmak üzere beştir.",
 
@@ -232,7 +232,7 @@ export default [
         title: "PEYGAMBERLERE İMAN",
         slug: slugify("PEYGAMBERLERE İMAN"),
         content: [
-          " 30- Bütün Peygamberlere iman etmek müslümanlıkta esastır. Lügat manası bakımından peygamber, haber veren kimse demektir. Dini teriminde ise, Allah Tealâ’nın kullarına dinlerini bildirmek için görevlendirdiği seçkin insanların her birine “Peygamber” denir. Bu zatlar Yüce Allah’ın birer elçisi demektir. Bunların Allah’ın Peygamberleri oldukları, kişiliklerindeki yüksek vasıflardan ve Allah tarafından kendilerine verilen mucizelerden sabit olmuştur. ",
+          "30- Bütün Peygamberlere iman etmek müslümanlıkta esastır. Lügat manası bakımından peygamber, haber veren kimse demektir. Dini teriminde ise, Allah Tealâ’nın kullarına dinlerini bildirmek için görevlendirdiği seçkin insanların her birine “Peygamber” denir. Bu zatlar Yüce Allah’ın birer elçisi demektir. Bunların Allah’ın Peygamberleri oldukları, kişiliklerindeki yüksek vasıflardan ve Allah tarafından kendilerine verilen mucizelerden sabit olmuştur. ",
 
           "31- Mucize; Başkalarının meydana getiremeyeceği olağanüstü şeylerdir. Bir peygamberin gerçek peygamber olduğunu doğrulamak için Yüce Allah o işi Peygamberinin eliyle ortaya çıkarır.",
 
@@ -295,7 +295,7 @@ export default [
         title: "SEMAVİ KİTAPLARA İMAN",
         slug: slugify("SEMAVİ KİTAPLARA İMAN"),
         content: [
-          " 40- Yüce Allah, insanlara yine insanlardan Peygamberler göndermiştir. Bu peygamberlerden bir kısmına da kendi emirlerini ve yasaklarını, kendisine ibadet şekillerini öğreten kitaplar indirmiştir. ",
+          "40- Yüce Allah, insanlara yine insanlardan Peygamberler göndermiştir. Bu peygamberlerden bir kısmına da kendi emirlerini ve yasaklarını, kendisine ibadet şekillerini öğreten kitaplar indirmiştir. ",
 
           "Bu kitaplardan bir kısmına “Suhuf” denir. Bunlar birkaç sayfalık kitablardır. Kitablardan dördü de büyük kitaplardır. İnişleri şöyledir:",
 
@@ -378,7 +378,7 @@ export default [
         title: "MELEKLERE İMAN",
         slug: slugify("MELEKLERE İMAN"),
         content: [
-          " 50- Melekler ruh gibi lâtif ve nuranî varlıklar olup asıl vasıfları Allah tarafından bilinen ve büyük sahib olan Allah’ın kullarıdır. Meleklerin bir kısmı daima ibadet ve zikirle uğraşır. Bir kısmı da yer ve göklerde pek çok görevlerle meşgul olurlar. Melekler yemekten, içmekten, evlenmekten, doğup doğurmaktan beridirler. Değişik şekillere girmeye kaabiliyetleri vardır. Yüce Allah’ın emirlerine asla isyan etmezler. Görevlerini emredildikleri şekilde aynen yaparlar. Kıyamete kadar kudsiyet içinde yaşayıp manevi bir zevk ile vakit geçirirler. ",
+          "50- Melekler ruh gibi lâtif ve nuranî varlıklar olup asıl vasıfları Allah tarafından bilinen ve büyük sahib olan Allah’ın kullarıdır. Meleklerin bir kısmı daima ibadet ve zikirle uğraşır. Bir kısmı da yer ve göklerde pek çok görevlerle meşgul olurlar. Melekler yemekten, içmekten, evlenmekten, doğup doğurmaktan beridirler. Değişik şekillere girmeye kaabiliyetleri vardır. Yüce Allah’ın emirlerine asla isyan etmezler. Görevlerini emredildikleri şekilde aynen yaparlar. Kıyamete kadar kudsiyet içinde yaşayıp manevi bir zevk ile vakit geçirirler. ",
 
           "51- Müminler meleklerin varlığına iman etmekle yükümlüdürler. Onların varlığı aslında mümkün olan şeydir. Gerçekte varlıkları ise, bütün Peygamberler ve onlara verilen Kitablar tarafından bildirilmiştir. Artık melekleri inkar, bütün peygamberleri ve kitabları inkat etmek sayılacağından onları inkar asla caiz olmaz. Bundan dolayıdır ki, öteden beri meleklerin varlığına bütün milletler iman edegelmiştir. Onun için meleklere iman etmek, bizim dinimizde de şarttır.",
 
@@ -403,7 +403,7 @@ export default [
         title: "AHİRETE İMAN",
         slug: slugify("AHİRETE İMAN"),
         content: [
-          " 55- Ahiret, bu dünyadan sonraki nihayetsiz (sonsuz) alemdir. Yüce Allah, içinde yaşadığımız bu dünyayı ve üzerinde olan bütün varlıkları geçici bir zaman için yaratmıştır. Bir gün gelecek, bu dünyadan ve üzerinde bulunanlardan hiç bir eser kalmayacaktır. Allah’ın takdir ettiği gün gelince, insanlarla beraber bütün canlı ve cansız varlıklar yok olacaktır. Bütün dağlar-taşlar, yerler-gökler parçalanacaklardır. ",
+          "55- Ahiret, bu dünyadan sonraki nihayetsiz (sonsuz) alemdir. Yüce Allah, içinde yaşadığımız bu dünyayı ve üzerinde olan bütün varlıkları geçici bir zaman için yaratmıştır. Bir gün gelecek, bu dünyadan ve üzerinde bulunanlardan hiç bir eser kalmayacaktır. Allah’ın takdir ettiği gün gelince, insanlarla beraber bütün canlı ve cansız varlıklar yok olacaktır. Bütün dağlar-taşlar, yerler-gökler parçalanacaklardır. ",
 
           "Böylece bu alem bambaşka bir alem olacaktır. Bu, kıyamettir. Bundan sonra yine Yüce Allah’ın takdir ettiği zaman gelince, bütün insanlar yeniden dirileceklerdir. İnsanların hepsi “Mahşer” denilen çok geniş ve düz bir sahada toplanmış olacaklar ve yeni bir hayat başlayacaktır. Buna “Umumi Haşr” denilir. Bu yeni hayatın başlayacağı günden itibaren, bitmez ve tükenmez, sonu gelmez bir halde devam edecek olan aleme, ahiret alemi denir. Buna inanmak da, müslümanlıkta bir esastır.",
 
@@ -512,7 +512,7 @@ export default [
         title: "KAZA VE KADERE İMAN",
         slug: slugify("KAZA VE KADERE İMAN"),
         content: [
-          " 67- Bilindiği gibi, Yüce Allah’dan başka yaratıcı yoktur. Bu kainatta meydana gelen her şey, muhakkak Yüce Allah’ın bilmesi, dilemesi ve yaratmasıyla olur. Onun için herhangi bir şeyin belirli bir şekilde meydana gelmesini, Cenab-ı Hakk’ın ezelde dilemiş olmasına “Kader” denir. Yüce Allah’ın böyle dilemiş olduğu herhangi bir şeyi, zamanı gelince meydana getirmesine de “Kaza” denir. ",
+          "67- Bilindiği gibi, Yüce Allah’dan başka yaratıcı yoktur. Bu kainatta meydana gelen her şey, muhakkak Yüce Allah’ın bilmesi, dilemesi ve yaratmasıyla olur. Onun için herhangi bir şeyin belirli bir şekilde meydana gelmesini, Cenab-ı Hakk’ın ezelde dilemiş olmasına “Kader” denir. Yüce Allah’ın böyle dilemiş olduğu herhangi bir şeyi, zamanı gelince meydana getirmesine de “Kaza” denir. ",
 
           "Örnek: Herhangi bir insanın falan günde meydana gelmesini Yüce Allah’ın ezelde dilemiş olması bir kaderdir. O insanın takdir edilmiş günde yaratılması da bir kazadır. Bununla beraber kaza sözü, takdir ve hüküm manasına da gelir.",
 
@@ -551,7 +551,7 @@ export default [
         title: "İMAN'DA EHL-İ SÜNNET İMAMLARI",
         slug: slugify("İMAN'DA EHL-İ SÜNNET İMAMLARI"),
         content: [
-          " 72- Kendilerine Ehl-i Sünnet ve Cemaat (Peygamberin ve onun eshabının yolunda bulunanlar) ve Fırka-i Naciye (selamete kavuşanlar) adı verilen müslümanlann inançları, şu yukardan beri yazdığımız gibidir. ",
+          "72- Kendilerine Ehl-i Sünnet ve Cemaat (Peygamberin ve onun eshabının yolunda bulunanlar) ve Fırka-i Naciye (selamete kavuşanlar) adı verilen müslümanlann inançları, şu yukardan beri yazdığımız gibidir. ",
 
           "Bilindiği üzere, peygamber efendimiz ile görüşüp ona iman edenlere “Ashab-ı Kiram ve Ashab-ı Güzin” denir. Ashabı görüp de onlardan feyiz alan müslümanlara “Tabiîn” adı verilmiş-tir.",
 
@@ -583,7 +583,7 @@ export default [
         title: "BAŞLANGIÇ: MÜCTEHİDLERİMİZ",
         slug: slugify("BAŞLANGIÇ: MÜCTEHİDLERİMİZ"),
         content: [
-          " Dünyanın her tarafına yayılmış olan milyonlarca müslüman, İslam tarihinin ilk asırlarından zamanımıza kadar ibadet ve hukuk meseleleri hususunda dört büyük müctehidden birine bağlana gelmişlerdir. Bu dört müctehid şu zatlardır:",
+          "Dünyanın her tarafına yayılmış olan milyonlarca müslüman, İslam tarihinin ilk asırlarından zamanımıza kadar ibadet ve hukuk meseleleri hususunda dört büyük müctehidden birine bağlana gelmişlerdir. Bu dört müctehid şu zatlardır:",
 
           "1- İmam-ı Azam Ebu Hanife: Adı Numan’dır. Babasının adı da Sabit’dir. Hicretin 80. yılında Kûfe’de doğmuş ve 150 tarihinde Bağdad’da vefat etmiştir. Allah’ın rahmeti üzerine olsun…",
 
@@ -715,7 +715,7 @@ export default [
         title: "BİR KISIM DİNİ DEYİMLER",
         slug: slugify("BİR KISIM DİNİ DEYİMLER"),
         content: [
-          " 3- İbadet: Lûgatta kullukta bulunmak demektir. Şeriat teriminde “İyi niyete bağlı olarak yapılmasında sevab bulunan her iştir.” Yüce Allah’a saygı ve itaat için yapılır. Namaz kılmak, oruç tutmak gibi…",
+          "3- İbadet: Lûgatta kullukta bulunmak demektir. Şeriat teriminde “İyi niyete bağlı olarak yapılmasında sevab bulunan her iştir.” Yüce Allah’a saygı ve itaat için yapılır. Namaz kılmak, oruç tutmak gibi…",
 
           "4- Taat: Emri benimseyip yerine getirmek demektir. Buna itaat de denir. Şeriatta itaat ise, yapılmasından dolayı sevab kazanılan herhangi bir iştir; gerek niyet bulunsun, gerek bulunmasın. Kur’an-ı Kerîm’i okumak gibi…",
 
@@ -899,7 +899,7 @@ export default [
         title: "SU ARTIKLARI HAKKINDA HÜKÜMLER",
         slug: slugify("SU ARTIKLARI HAKKINDA HÜKÜMLER"),
         content: [
-          " 53- Az ve durgun olan su artıkları şu kısımlara ayrılır:",
+          "53- Az ve durgun olan su artıkları şu kısımlara ayrılır:",
 
           "1) Hem temiz, hem de temizleyici olan ve kerahet taşımayan artıklar: Bunlar, ağızları temiz olan bütün insanların, deve sığır ve koyun gibi, eti yenen evcil hayvanların, atların ve attan veya inekten doğmuş katırların, eti yenen vahşi hayvanların, eti yenen kuşların artıklarıdır.",
 
@@ -922,7 +922,7 @@ export default [
         title: "KUYULAR ÜZERİNDEKİ HÜKÜMLER",
         slug: slugify("KUYULAR ÜZERİNDEKİ HÜKÜMLER"),
         content: [
-          " 56- Kuyular, suları ne kadar çok olursa olsun, yüzeyleri yüz arşın (takriben altmış beş) metrekareye ulaşmadıkça yahut daima akıp giden bir su yolu üzerinde bulunmadıkça küçük sular (küçük havuzlar) hükmündedirier. Bu esasa göre, içlerine düşecek şeylerden dolayı haklarında aşağıdaki hükümler uygulanır.",
+          "56- Kuyular, suları ne kadar çok olursa olsun, yüzeyleri yüz arşın (takriben altmış beş) metrekareye ulaşmadıkça yahut daima akıp giden bir su yolu üzerinde bulunmadıkça küçük sular (küçük havuzlar) hükmündedirier. Bu esasa göre, içlerine düşecek şeylerden dolayı haklarında aşağıdaki hükümler uygulanır.",
 
           "57- Üzerlerinde pislik bulunmadığı bilinen insan veya eti yenen koyun ve deve benzeri hayvanların içlerine düşüp de diri olarak çıkmış oldukları kuyuların suyu pis olmaz.",
 
@@ -1024,7 +1024,7 @@ export default [
         title: "DİN YÖNÜNDEN TEMİZ SAYILMAYAN ŞEYLER",
         slug: slugify("DİN YÖNÜNDEN TEMİZ SAYILMAYAN ŞEYLER"),
         content: [
-          " 92- Maddeleri bakımından dinde temiz sayılmayan şeyler, namaza engel olan mikdarları bakımından iki kısma ayrılır: Ağır pislik ve Hafif pislik.",
+          "92- Maddeleri bakımından dinde temiz sayılmayan şeyler, namaza engel olan mikdarları bakımından iki kısma ayrılır: Ağır pislik ve Hafif pislik.",
 
           "Ağır pislikler şunlardır:",
 
@@ -1053,7 +1053,7 @@ export default [
         title: "TEMİZ OLMAYAN ŞEYLERİN HÜKÜMLERİ",
         slug: slugify("TEMİZ OLMAYAN ŞEYLERİN HÜKÜMLERİ"),
         content: [
-          " 93- Temiz olmayan şeyler: Gerek ağır olsun, gerek hafif olsun, maddî şeyleri kirletmek hususunda eşittirler. Bu yönden pislikler ağır ve hafif kısımlarına ayrılmaz. Ancak namazın sahih olmasına engel olmak veya olmamak bakımından bu iki kısım esas alınarak aşağıdaki hükümler uygulanır.",
+          "93- Temiz olmayan şeyler: Gerek ağır olsun, gerek hafif olsun, maddî şeyleri kirletmek hususunda eşittirler. Bu yönden pislikler ağır ve hafif kısımlarına ayrılmaz. Ancak namazın sahih olmasına engel olmak veya olmamak bakımından bu iki kısım esas alınarak aşağıdaki hükümler uygulanır.",
 
           "94- Ağır necaset sayılan bir şeyin: Katı ise üç gramdan, sıvı ise el ayasından daha geniş olan miktarı, giderilmesi mümkün olunca, namazın sıhhatine engel olur. Bu anılan ve ondan daha az olan miktarlar ise az necasettir, namazın sıhhatine engel olmaz; bağışlanmış sayılır.",
 
@@ -1068,7 +1068,7 @@ export default [
         title: "TEMİZLEME YOLLARI",
         slug: slugify("TEMİZLEME YOLLARI"),
         content: [
-          " 96- Pis olan eşyayı temizlemek için, cinslerine göre değişik yollar vardır. Temizleme yolunun başlıcası su ile yıkamak ve kaynatmak usulüdür.Diğerleri, silmek, kazımak, ovalamak ve yakmak suretiyle temizlemedir. Bunları sırasıyla anlatıyoruz:",
+          "96- Pis olan eşyayı temizlemek için, cinslerine göre değişik yollar vardır. Temizleme yolunun başlıcası su ile yıkamak ve kaynatmak usulüdür.Diğerleri, silmek, kazımak, ovalamak ve yakmak suretiyle temizlemedir. Bunları sırasıyla anlatıyoruz:",
 
           "1) Su İle Yıkayarak Temizleme",
 
@@ -1189,7 +1189,7 @@ export default [
         title: "ÖZÜRLÜ KİMSELERE AİT MESELELER",
         slug: slugify("ÖZÜRLÜ KİMSELERE AİT MESELELER"),
         content: [
-          " 97- Abdesti bozup da devam eden illete Özür denilir. Çoğulu A’zar gelir. Erkek olan özür sahibine “Ma’zur” kadma da “Ma’zure” denir.",
+          "97- Abdesti bozup da devam eden illete Özür denilir. Çoğulu A’zar gelir. Erkek olan özür sahibine “Ma’zur” kadma da “Ma’zure” denir.",
 
           "Örnek: Zaman zaman kısa fasılalarla burun kanaması, herhangi bir organdan kan çıkıp devamlı akması, bir ağrıdan dolayı gözün irinle sulanması, meme ve kulak gibi organlardan irin ve benzeri bir suyun akıp durması, mesaneden gayri ihtiyarı idrar çıkıp zaman zaman devam etmesi, kendini tutamayacak şekilde ishalin bulunması veya yel çıkması birer özürdür. Bu haller kimde bulunursa o mazur veya mazure sayılır.",
 
@@ -1202,7 +1202,7 @@ export default [
         title: "ÖZRÜN HÜKMÜ",
         slug: slugify("ÖZRÜN HÜKMÜ"),
         content: [
-          " 99- Özürlü olan kimse, her namaz vakti abdest alır. O vakit içinde aldığı abdestle -abdesti bozacak bir başka şey olmadıkça- dilediği kadar farz ve nafile namaz kılabilir. Kazaya kalmış namazları kılabilir. Vitir namazı ile bayram ve cenaze namazlarını da kılabilir. Ancak illet devam etmelidir.",
+          "99- Özürlü olan kimse, her namaz vakti abdest alır. O vakit içinde aldığı abdestle -abdesti bozacak bir başka şey olmadıkça- dilediği kadar farz ve nafile namaz kılabilir. Kazaya kalmış namazları kılabilir. Vitir namazı ile bayram ve cenaze namazlarını da kılabilir. Ancak illet devam etmelidir.",
 
           "Misal: Özürlü bir kimse, sabah namazı için tam vaktinde abdest alsa, bu abdest, sabah namazı vaktinin çıkmasına kadar devam eder. Bu vaktin çıkması (güneşin doğması) ile son bulur. Artık vakti çıktıktan sonra o abdest ile başka namaz kılınamaz. Ancak muvakkat bir zaman için özrü kesildikten sonra abdest almışsa ve henüz özrü de belirmemişse, başka bozacak bir halde olmamışsa, vaktin çıkması ile abdesti bozulmuş olmaz.",
 
@@ -1223,7 +1223,7 @@ export default [
         title: "KADINLARA AİT HALLER",
         slug: slugify("KADINLARA AİT HALLER"),
         content: [
-          " 103- Kadınlara ait hayız, nifas ve istihaze halleri vardır. Şöyle ki: Hayız; Bir kadının döl yatağı denilen rahminden bir hastalık veya çocuk doğurma sebebi olmaksızın belirli günler içinde gelen kandır. Buna Adet hali de denir. Bu şekilde gelen bir kana Hayız kanı denir. Bu kan sebebiyle belli bir zaman meydana gelen şer’î engele de “Hayız” denir. Böyle adet gören bir kadına da “Hâiz” denir.",
+          "103- Kadınlara ait hayız, nifas ve istihaze halleri vardır. Şöyle ki: Hayız; Bir kadının döl yatağı denilen rahminden bir hastalık veya çocuk doğurma sebebi olmaksızın belirli günler içinde gelen kandır. Buna Adet hali de denir. Bu şekilde gelen bir kana Hayız kanı denir. Bu kan sebebiyle belli bir zaman meydana gelen şer’î engele de “Hayız” denir. Böyle adet gören bir kadına da “Hâiz” denir.",
 
           "Nifas; Çocuğun doğumu arkasından kadınlardan gelen yahut çocuğun çoğu meydana çıktıktan sonra gelen kandır. Bu haldeki kadına Nüfesa denir ki lohusa demektir.",
 
@@ -1302,7 +1302,7 @@ export default [
         title: "HAYIZ VE NİFAS HALLERİNE AİT HÜKÜMLER",
         slug: slugify("HAYIZ VE NİFAS HALLERİNE AİT HÜKÜMLER"),
         content: [
-          " 122- Adet gören veya lohusa olan müslüman kadınlara ait bazı özel hükümler vardır. Şöyle ki: Bu haller içinde bulunan bir kadın namaz kılamaz, şükür secdesi bile yapamaz. Oruç tutamaz. Kur’an-ı Kerîm ‘den bir ayet dahi okuyamaz; ancak dua ayetlerini dua niyeti ile okuyabilir. Kur’an-ı Kerîm’e veya Kur’an ayetlerinin yazılı bulunduğu levhalara ve paralara, tam ayet olmasa bile, dokunamaz, tutamaz.",
+          "122- Adet gören veya lohusa olan müslüman kadınlara ait bazı özel hükümler vardır. Şöyle ki: Bu haller içinde bulunan bir kadın namaz kılamaz, şükür secdesi bile yapamaz. Oruç tutamaz. Kur’an-ı Kerîm ‘den bir ayet dahi okuyamaz; ancak dua ayetlerini dua niyeti ile okuyabilir. Kur’an-ı Kerîm’e veya Kur’an ayetlerinin yazılı bulunduğu levhalara ve paralara, tam ayet olmasa bile, dokunamaz, tutamaz.",
 
           "Sahih kabul edilen görüşe göre, Kur’an tercümesi hakkında da hüküm böyledir, onu da ele alamaz. Mescidlere (camilere) giremez. Kabe’yi tavaf edemez, kocası ile cinsî ilişki kuramaz. Kocası böyle bir hanımın göbeği altından diz kapakları altına kadar olan yerlerinden aralarında bir engel olmaksızın faydalanamaz. Şehvetin olup olmaması fark etmez. Bunu yapmak haramdır. Aralarında bir engel (bir elbise) varsa, cinsî ilişkiden başka faydalanma yapabilir.",
 
@@ -1350,7 +1350,7 @@ export default [
         title: "ABDESTİN MAHİYETİ",
         slug: slugify("ABDESTİN MAHİYETİ"),
         content: [
-          " 136- Abdest belli organları usulüne göre yıkamaktan ve meshetmekten ibaret bir temizliktir, bir ibadet ve itaattir. Abdeste, güzel oluşundan ve temizliğe yardımcı olmasından dolayı “Vuzu” adı verilmiştir. Abdestin manevî birçok faydaları ve sevabları olduğu gibi, maddî olarak da pek çok yararları vardır. Vakit vakit abdest alan bir müslüman temizliğe riayet etmiş, temizliği alışkanlık haline getirerek kendisini, birçok hastalıklara sebebiyet verecek kirli hallerden korumuş olur.",
+          "136- Abdest belli organları usulüne göre yıkamaktan ve meshetmekten ibaret bir temizliktir, bir ibadet ve itaattir. Abdeste, güzel oluşundan ve temizliğe yardımcı olmasından dolayı “Vuzu” adı verilmiştir. Abdestin manevî birçok faydaları ve sevabları olduğu gibi, maddî olarak da pek çok yararları vardır. Vakit vakit abdest alan bir müslüman temizliğe riayet etmiş, temizliği alışkanlık haline getirerek kendisini, birçok hastalıklara sebebiyet verecek kirli hallerden korumuş olur.",
 
           "“Abdest üzerine abdest, nur üzerine nurdur.” buyurulmuştur. Bir hadîs-i şerifde şu anlamdadır: “Her kim emrolunduğu gibi abdest alır ve emrolunduğu şekilde namaz kılarsa, geçmiş günahları bağışlanır.”",
 
@@ -1361,7 +1361,7 @@ export default [
         title: "ABDESTİN FARZLARI",
         slug: slugify("ABDESTİN FARZLARI"),
         content: [
-          " 138- Abdestin farzları dörttür: Yüzü bir kez su ile yıkamak, iki eli dirseklerle beraber bir kez yıkamak, her iki ayağı topuklarla beraber bir kez yıkamak ve başın dörtte birini ıslak bir elle ve kullanılmadık temiz bir su yaşlığı ile bir kez silmek (meshetmek) tir. Şöyle ki:",
+          "138- Abdestin farzları dörttür: Yüzü bir kez su ile yıkamak, iki eli dirseklerle beraber bir kez yıkamak, her iki ayağı topuklarla beraber bir kez yıkamak ve başın dörtte birini ıslak bir elle ve kullanılmadık temiz bir su yaşlığı ile bir kez silmek (meshetmek) tir. Şöyle ki:",
 
           "Yüz denilen organ, iki kulak memesi, arasındaki yer ile alnın saç biten yerinden çene altına kadar olan kısımdır. Kulaklarla sakal arasında bulunan kılsız kısımlar da yüzden sayılır. İşte yüz denilen bütün bu kısmı su ile bir kez yıkamak farzdır.",
 
@@ -1376,7 +1376,7 @@ export default [
         title: "ABDESTİN SÜNNETLERİ",
         slug: slugify("ABDESTİN SÜNNETLERİ"),
         content: [
-          " 139- Abdestin başlıca sünnetleri şunlardır:",
+          "139- Abdestin başlıca sünnetleri şunlardır:",
 
           "1) Abdeste başlarken önce temiz olan elleri bileklere kadar yıkamak. Temiz olmayan elleri önce yıkamak ise farzdır. Böylece diğer organlar kirlenmiş olmaz.",
 
@@ -1429,7 +1429,7 @@ export default [
         title: "ABDESTİN EDEPLERİ",
         slug: slugify("ABDESTİN EDEPLERİ"),
         content: [
-          " 140- Abdestin birçok edebleri vardır. Başlıcaları şunlardır:",
+          "140- Abdestin birçok edebleri vardır. Başlıcaları şunlardır:",
 
           "1) Henüz vakit girmemişken abdest alıp namaza hazır bulunmak. Ancak özür sahibleri abdestlerini vakit girdikten sonra alırlar.",
 
@@ -1468,7 +1468,7 @@ export default [
         title: "ABDESTİN DUALARI",
         slug: slugify("ABDESTİN DUALARI"),
         content: [
-          " 141- Abdeste ait önceki alimlerden zamanımıza kadar gelmiş dualar vardır. Her abdest uzvu yıkanırken onunla ilgili uygun bir dua okunur. Bunlar okunmasa da, yine abdest tamam olur; fakat okunmaları iyidir. Şöyle ki:",
+          "141- Abdeste ait önceki alimlerden zamanımıza kadar gelmiş dualar vardır. Her abdest uzvu yıkanırken onunla ilgili uygun bir dua okunur. Bunlar okunmasa da, yine abdest tamam olur; fakat okunmaları iyidir. Şöyle ki:",
 
           "1) Abdest alacak kimse, abdeste başlarken “Eûzü ve Besmele” çektikten sonra:",
 
@@ -1505,7 +1505,7 @@ export default [
         title: "VASIF BAKIMINDAN ABDESTİN NEVİLERİ",
         slug: slugify("VASIF BAKIMINDAN ABDESTİN NEVİLERİ"),
         content: [
-          " 142- Abdestler, vasıfları ve gerekli olmaları bakımından üç kısma ayrılır.",
+          "142- Abdestler, vasıfları ve gerekli olmaları bakımından üç kısma ayrılır.",
 
           "1) Farz olan abdestler: Bunlar, müslümanların namaz kılmak, tilavet secdesi yapmak veya Kur’an-ı Kerimi elleriyle tutmak için alacakları abdestlerdir.",
 
@@ -1518,7 +1518,7 @@ export default [
         title: "ABDESTİN SIHHATİNE ENGEL OLMAYAN ŞEYLER",
         slug: slugify("ABDESTİN SIHHATİNE ENGEL OLMAYAN ŞEYLER"),
         content: [
-          " 143- Dudaklar adet üzere yumulduğu zaman, görülmeyen kısımlarını yıkamak abdest için gerekli değildir. Bunların kuru kalması abdeste zarar vermez; çünkü bunlar ağız kısmındandır.",
+          "143- Dudaklar adet üzere yumulduğu zaman, görülmeyen kısımlarını yıkamak abdest için gerekli değildir. Bunların kuru kalması abdeste zarar vermez; çünkü bunlar ağız kısmındandır.",
 
           "144- İyileşip de henüz kabuğundan ayrılmamış olan bir çıbanın içini yıkamak gerekmez.",
 
@@ -1616,7 +1616,7 @@ export default [
         title: "ABDESTİ BOZAN ŞEYLER",
         slug: slugify("ABDESTİ BOZAN ŞEYLER"),
         content: [
-          " 167- Aşağıdaki hallerin her biri abdesti bozar:",
+          "167- Aşağıdaki hallerin her biri abdesti bozar:",
 
           "1) Önden ve arkadan kan, irin, meni, sidik, gaita (necaset) gibi bir pisliğin veya herhangi bir sıvının çıkması, abdest ve gusulde yıkanması farz olan yere kadar taşmasa bile, abdesti bozar.",
 
@@ -1653,7 +1653,7 @@ export default [
         title: "ABDESTİ BOZMAYAN ŞEYLER",
         slug: slugify("ABDESTİ BOZMAYAN ŞEYLER"),
         content: [
-          " 168- Aşağıdaki haller abdesti bozmaz:",
+          "168- Aşağıdaki haller abdesti bozmaz:",
 
           "1) Bir hastalık olmaksızın gözden gelen yaş ve su veya ağlamak.",
 
@@ -1706,7 +1706,7 @@ export default [
         title: "GUSÜL VE GUSLÜ GEREKTİREN HALLER",
         slug: slugify("GUSÜL VE GUSLÜ GEREKTİREN HALLER"),
         content: [
-          " 169- Gasl, yıkamak demektir. Gusül ve iğtisal da, yıkanma anlamını taşır. Din deyiminde gusül: Bütün bedenin yıkanmasıdır, boy abdesti alınmasıdır. Buna taharet-i kübra (büyük temizlik) denir. Böyle bir temizliği gerektiren hal cünüblüktür. Ayrıca kadınların hayız ve nifas kanlarının sona ermesidir. Cünüblük hali ise, aşağıda açıklanacağı üzere, şehvetle meninin atılmasından ve cinsel ilişkiden meydana gelir.",
+          "169- Gasl, yıkamak demektir. Gusül ve iğtisal da, yıkanma anlamını taşır. Din deyiminde gusül: Bütün bedenin yıkanmasıdır, boy abdesti alınmasıdır. Buna taharet-i kübra (büyük temizlik) denir. Böyle bir temizliği gerektiren hal cünüblüktür. Ayrıca kadınların hayız ve nifas kanlarının sona ermesidir. Cünüblük hali ise, aşağıda açıklanacağı üzere, şehvetle meninin atılmasından ve cinsel ilişkiden meydana gelir.",
 
           "170- Şehvetle yerinden ayrılan ve şehvetle dışarıya atılan bir meniden dolayı gusletmek gerekir. Şehvetle yerinden aynlıp, şehvet kesildikten sonra dışarıya atılan meniden dolayı da, İmamı Azam ile İmam Muhammed’e göre, gusletmek gerekir. Fakat İmam Ebu Yusuf’a göre gusül gerekmez.",
 
@@ -1745,7 +1745,7 @@ export default [
         title: "GUSLÜN FARZLARI",
         slug: slugify("GUSLÜN FARZLARI"),
         content: [
-          " 184- Guslün farzları, ağzı, burnu ve bütün vücudu birer kez yıkamak üzere üçtür. Bu farzlar, aşağıda bildirileceği şekilde yapılır.",
+          "184- Guslün farzları, ağzı, burnu ve bütün vücudu birer kez yıkamak üzere üçtür. Bu farzlar, aşağıda bildirileceği şekilde yapılır.",
 
           "185- Ağıza ve buruna bolca su alınmalı. Bu işe abdestle yapılan ağız ve buruna su vermelerden daha çok özen gösterilmelidir.",
 
@@ -1774,7 +1774,7 @@ export default [
         title: "GUSLÜN SÜNNETLERİ",
         slug: slugify("GUSLÜN SÜNNETLERİ"),
         content: [
-          " 195- Guslün başlıca sünnetleri şunlardır:",
+          "195- Guslün başlıca sünnetleri şunlardır:",
 
           "1) Gusle niyet ederek, besmele çekerek ve misvak kullanarak başlamak. Bu niyet guslün sıhhati için şart değildir. Sevabı vardır. Temizliğin bir ibadet sayılması için bir sebebdir.",
 
@@ -1815,7 +1815,7 @@ export default [
         title: "GUSLÜN VASIFLARI",
         slug: slugify("GUSLÜN VASIFLARI"),
         content: [
-          " 196- Yukarıda geçen 169. maddede açıklandığı gibi, cünüblükten, hayız ve nifas kanlarından kesilişinden dolayı gusletmek farzdır. Bu farzın dışında bazı hallerde gusletmek sünnet veya müstahabdır. Bunların başlıcaları şunlardır:",
+          "196- Yukarıda geçen 169. maddede açıklandığı gibi, cünüblükten, hayız ve nifas kanlarından kesilişinden dolayı gusletmek farzdır. Bu farzın dışında bazı hallerde gusletmek sünnet veya müstahabdır. Bunların başlıcaları şunlardır:",
 
           "1) Cuma ve iki bayram namazları için gusletmek.",
 
@@ -1852,7 +1852,7 @@ export default [
           "GUSÜL ETMESİ FARZ OLANLARA HARAM VEYA MEKRUH OLAN ŞEYLER"
         ),
         content: [
-          " 197- Üzerlerine gusül farz olanlara, gusletmeden önce haram olan şeyler şunlardır:",
+          "197- Üzerlerine gusül farz olanlara, gusletmeden önce haram olan şeyler şunlardır:",
 
           "1) Namaz kılmak. Bir ayet olsa bile, Kur’an niyeti ile Kur’an okumak. Hamd ve dua ile ilgili ayetleri, dua ve zikir niyeti ile okumak caizdir. Cünüb veya adet halinde olan bir kadının dua niyeti ile Fatiha Suresini okuması caizdir.Yine bu durumda olan kimsenin çocuklara Kur’an ayetlerini kelime kelime öğretmesi de caizdir. Şehadet kelimesini söylemek, tesbih ve tekbir getirmek yine caizdir.",
 
@@ -1879,7 +1879,7 @@ export default [
         title: "TEYEMMÜMÜN NİTELİĞİ VE FARZLARI",
         slug: slugify("TEYEMMÜMÜN NİTELİĞİ VE FARZLARI"),
         content: [
-          " 198- Lûgatta teyemmümün anlamı, bir şeyi kasdetmek’tir. Din deyiminde ise; Su bulunmadığı veya suyu kullanmaya güç yetmediği zaman, toprak cinsinden temiz bir şeyle abdestsizliği gidermek için yapılan bir işlemdir.Şöyle yapılır: Abdestsiz olan yahut gusletmesi gereken bir kimse, iki elini toprak cinsinden temiz bir şeye bir kez vurup bununla yüzünü mesheder.",
+          "198- Lûgatta teyemmümün anlamı, bir şeyi kasdetmek’tir. Din deyiminde ise; Su bulunmadığı veya suyu kullanmaya güç yetmediği zaman, toprak cinsinden temiz bir şeyle abdestsizliği gidermek için yapılan bir işlemdir.Şöyle yapılır: Abdestsiz olan yahut gusletmesi gereken bir kimse, iki elini toprak cinsinden temiz bir şeye bir kez vurup bununla yüzünü mesheder.",
 
           "Sonra yine iki elini ikinci kez vurup bununla da dirseklerine kadar iki kolunu mesheder. Bu işlem, abdestsizliği gidermek yahut namaz kılmak veya taharetsiz sahih olmayan bir ibadeti yerine getirmek niyeti ile yapılır. İşte teyemmümün esası bundan ibarettir. O halde teyemmümün farzları bir niyet ve iki mesihden ibarettir.",
 
@@ -1894,7 +1894,7 @@ export default [
         title: "TEYEMMÜMÜN SÜNNET ÜZERE YAPILMASI",
         slug: slugify("TEYEMMÜMÜN SÜNNET ÜZERE YAPILMASI"),
         content: [
-          " 201- Sünnete uygun bir teyemmüm, aşağıdaki şekilde yapılır:",
+          "201- Sünnete uygun bir teyemmüm, aşağıdaki şekilde yapılır:",
 
           "1) Teyemmüme başlarken Besmele getirip namaz için tahareti niyet etmelidir.(Hanbelîlere göre, Besmeleyi okumak vacibdir, bunu yapmayınca teyemmüm olmaz.)",
 
@@ -1913,7 +1913,7 @@ export default [
         title: "TEYEMMÜMÜN ŞARTLARI",
         slug: slugify("TEYEMMÜMÜN ŞARTLARI"),
         content: [
-          " 202- Teyemmümü mubah kılacak bir özür bulunmalıdır. Bu özür, gerçek olarak veya hükmen suyu kullanmaya güç bulunmamaktır. Şöyle ki: Abdest alacak veya gusledecek kimsenin bulunduğu yerden en az bir mil (dört bin adım) uzakta suyun bulunmasıdır. Bu durumda su, gerçekten bulunmamış sayılır. Yahut su bulunur da, onunla yıkandığı takdirde hastalanmaktan, hastalığının artmasından veya uzamasından tecrübesi neticesi olarak korkarsa veya yetkili müslüman bir doktor su kullanmasını zararlı sayarsa, yine teyemmüm edilir; çünkü hükmen su bulunmamış demektir.",
+          "202- Teyemmümü mubah kılacak bir özür bulunmalıdır. Bu özür, gerçek olarak veya hükmen suyu kullanmaya güç bulunmamaktır. Şöyle ki: Abdest alacak veya gusledecek kimsenin bulunduğu yerden en az bir mil (dört bin adım) uzakta suyun bulunmasıdır. Bu durumda su, gerçekten bulunmamış sayılır. Yahut su bulunur da, onunla yıkandığı takdirde hastalanmaktan, hastalığının artmasından veya uzamasından tecrübesi neticesi olarak korkarsa veya yetkili müslüman bir doktor su kullanmasını zararlı sayarsa, yine teyemmüm edilir; çünkü hükmen su bulunmamış demektir.",
 
           "(Malikîlere göre, yetkili müslüman bir doktor bulunmazsa, bu teyemmüm konusunda müslüman olmayan yetkili bir doktorun sözü yeterlidir.)",
 
@@ -1950,7 +1950,7 @@ export default [
         title: "TEYEMMÜMÜ MUBAH KILAN VE KILMAYAN BAZI HALLER",
         slug: slugify("TEYEMMÜMÜ MUBAH KILAN VE KILMAYAN BAZI HALLER"),
         content: [
-          " 210- Henüz namaz vakti girmeden de teyemmüm edilebilir. Fakat namaz için müstahab olan vakit geçmeden su bulabileceğini tahmin eden kimse için teyemmümü geciktirmek mendubdur.(Üç imama göre, bir namaz için vakti girmedikçe teyemmüm yapılmaz; çünkü teyemmüm bir zaruret için taharet sayılmıştır. Özürlünün tahareti gibi, vakitten evvel abdesti sahih olmaz.)",
+          "210- Henüz namaz vakti girmeden de teyemmüm edilebilir. Fakat namaz için müstahab olan vakit geçmeden su bulabileceğini tahmin eden kimse için teyemmümü geciktirmek mendubdur.(Üç imama göre, bir namaz için vakti girmedikçe teyemmüm yapılmaz; çünkü teyemmüm bir zaruret için taharet sayılmıştır. Özürlünün tahareti gibi, vakitten evvel abdesti sahih olmaz.)",
 
           "211- Bir mil mesafeden daha yakında su bulunduğunu sanan kimse, suyun bulunduğunu sandığı yöne doğru üç-dört yüz adım gider veya birini göndererek suyu aratır. Ancak yolda düşman tehlikesi gibi bir korkusu olursa, bu aratma yapılmaz.",
 
@@ -1989,7 +1989,7 @@ export default [
         title: "TEYEMMÜMÜ BOZAN HALLER",
         slug: slugify("TEYEMMÜMÜ BOZAN HALLER"),
         content: [
-          " 226- Abdesti bozan ve guslü gerektiren haller teyemmümü de bozar, hükümsüz kılar. Teyemmümü mubah yapan özrün kalkması da, bu özürden dolayı yapılmış olan teyemmümü bozar. Bu bakımdan su bulunmadığı için veya bir hastalık için yapılmış olan bir teyemmüm, su bulununca veya hastalık kalkınca hemen bozulur. Su ile abdest alınmadıkça veya cünüblük hali varsa, yıkanmadıkça namaz kılınamaz.",
+          "226- Abdesti bozan ve guslü gerektiren haller teyemmümü de bozar, hükümsüz kılar. Teyemmümü mubah yapan özrün kalkması da, bu özürden dolayı yapılmış olan teyemmümü bozar. Bu bakımdan su bulunmadığı için veya bir hastalık için yapılmış olan bir teyemmüm, su bulununca veya hastalık kalkınca hemen bozulur. Su ile abdest alınmadıkça veya cünüblük hali varsa, yıkanmadıkça namaz kılınamaz.",
 
           "227- Cünüblük sebebiyle yapılan teyemmüm, abdest yerine de geçer. Araya yeni bir cünüblük veya abdestsizlik hali girmedikçe, suyu kullanmaya güç yetinceye kadar bu teyemmüm ile birçok namaz kılınabilir. Aynı şekilde, su ile gusleden kimse, bu temizliği devam ettikçe abdest almaya gerek olmaksızın dilediği namazları kılabilir.",
 
@@ -3260,7 +3260,7 @@ export default [
         title: "BAYRAM VE BAYRAM NAMAZLARI",
         slug: slugify("BAYRAM VE BAYRAM NAMAZLARI"),
         content: [
-          " 209- Bayram, bir neş’e ve sevinç günü demektir. Arabçası “Îyd”dir. Çoğulu “A’yad” gelir. Bayram tebriklerine “Ta’yîd”, bayramlaşmaya da “Muayede” denir.",
+          "209- Bayram, bir neş’e ve sevinç günü demektir. Arabçası “Îyd”dir. Çoğulu “A’yad” gelir. Bayram tebriklerine “Ta’yîd”, bayramlaşmaya da “Muayede” denir.",
 
           "Peygamber Efendimiz Medine-i münevvereyi şereflendirince, ora halkının senede iki defa bayram yaparak eğlendiklerini öğrenince, onlara şöyle buyurmuş: “Yüce Allah o iki bayram günlerine karşılık onlardan daha hayırlı iki bayram günlerini size ihsan etmiştir.” O günlerin Ramazan ve Kurban Bayramı günleri olduğunu müjdelemiştir. Bunlara Arabçada “Îyd-i Fıtır ve Îyd-i Adha” denir.",
 
@@ -3362,7 +3362,7 @@ export default [
         title: "HASTALARIN NAMAZLARI",
         slug: slugify("HASTALARIN NAMAZLARI"),
         content: [
-          " 244- Hastalık, bedenin tabiî halini kaybetmesinden meydana gelen bir güçsüzlük durumudur. Hastaya “mariz”, hastalığa da “maraz” denir. Marîz kelimesinin çoğulu “merza”, maraz’ın çoğulu da “emraz” gelir.Hastalar da, akılları başlarında bulundukça birtakım din görevleri ile sorumludurlar. Bununla beraber dinimiz onların haklannda bir çok kolaylıklar göstermiştir. Namaz hakkında bunlar için gösterilen kolaylıklar aşağıda açıklanmıştır.",
+          "244- Hastalık, bedenin tabiî halini kaybetmesinden meydana gelen bir güçsüzlük durumudur. Hastaya “mariz”, hastalığa da “maraz” denir. Marîz kelimesinin çoğulu “merza”, maraz’ın çoğulu da “emraz” gelir.Hastalar da, akılları başlarında bulundukça birtakım din görevleri ile sorumludurlar. Bununla beraber dinimiz onların haklannda bir çok kolaylıklar göstermiştir. Namaz hakkında bunlar için gösterilen kolaylıklar aşağıda açıklanmıştır.",
 
           "245- Bir hasta, gücüne göre namaz kılmakla yükümlüdür. Ayakta durmaya gücü yetmeyen veya ayakta durması iyileşmesinin uzamasına veya hastalığının artmasına sebeb olacağı anlaşılan bir hasta oturarak namazını kılar. Oturmaya da gücü yetmezse, gücüne göre yan üzeri veya sırt üstü yatarak işaretle (ima ile) namazını kılar.",
 
@@ -3377,7 +3377,7 @@ export default [
         title: "SEFERİN ANLAMI VE MÜDDETİ",
         slug: slugify("SEFERİN ANLAMI VE MÜDDETİ"),
         content: [
-          " 249- Sefer ve Müsaferet, lügatta herhangi bir mesafeye gitmektir. Bunun karşıtı “ikamet”dir. Din yönünden sefer, belli bir uzaklığa gitmektir. Bu da orta bir yürüyüşle üç günlük (onsekiz saatlik) bir uzaklıktan ibarettir, Buna: “Üç merhale” de denir. Orta yürüyüş, piyade yürüyüşüdür. Kafile halinde develerle olan yürüyüşlerde ise orta yürüyüş, deve yürüyüşüdür.Denizlerde de, yelken gemileri ile havanın mutedil olması esas alınır. İşte karalarda böyle bir yürüyüşle, denizlerde de mutedil bir havada yelkenli bir gemi ile onsekiz saat sürecek bir uzaklık “Sefer Müddeti” sayılır.Demek ki bu yolun yalnız gidilecek mesafesi muteberdir. Yoksa gidip dönülmesine ait mesafesi muteber değildir.",
+          "249- Sefer ve Müsaferet, lügatta herhangi bir mesafeye gitmektir. Bunun karşıtı “ikamet”dir. Din yönünden sefer, belli bir uzaklığa gitmektir. Bu da orta bir yürüyüşle üç günlük (onsekiz saatlik) bir uzaklıktan ibarettir, Buna: “Üç merhale” de denir. Orta yürüyüş, piyade yürüyüşüdür. Kafile halinde develerle olan yürüyüşlerde ise orta yürüyüş, deve yürüyüşüdür.Denizlerde de, yelken gemileri ile havanın mutedil olması esas alınır. İşte karalarda böyle bir yürüyüşle, denizlerde de mutedil bir havada yelkenli bir gemi ile onsekiz saat sürecek bir uzaklık “Sefer Müddeti” sayılır.Demek ki bu yolun yalnız gidilecek mesafesi muteberdir. Yoksa gidip dönülmesine ait mesafesi muteber değildir.",
 
           "250- Vatanında veya vatan hükmünde olan bir yerde oturan kimseye “Mukîm” denir. Böyle bir yerden çıkıp en az onsekiz saatlik bir mesafeye gitmeye başlamış olan kimseye de, din deyiminde “Misafir=Yolcu” adı verilir.",
 
@@ -3400,7 +3400,7 @@ export default [
         title: "SEFERİN HÜKÜMLERİ",
         slug: slugify("SEFERİN HÜKÜMLERİ"),
         content: [
-          " 256- Yolcular hakkında bir takım kolaylıklar ve ruhsatlar gösterilmiştir. Şu uygulamalar bu kolaylıklardandır: Ramazan ayında yolculuk halinde bulunan kimse için, orucu sonraya bırakmak mubahtır. Misafirler (yolcular) için mestler üzerine mesih üç gün üç gecedir.",
+          "256- Yolcular hakkında bir takım kolaylıklar ve ruhsatlar gösterilmiştir. Şu uygulamalar bu kolaylıklardandır: Ramazan ayında yolculuk halinde bulunan kimse için, orucu sonraya bırakmak mubahtır. Misafirler (yolcular) için mestler üzerine mesih üç gün üç gecedir.",
 
           "Misafir dört rekat farz namazlarını iki rekat olarak kılar. Buna: “Kasr-ı Salat” denir. Biz Hanefilerce, misafirin böyle namazını kısaltması gerekir. Buna aykırı olarak bu farzların dört rekat olarak kılınması mekruhtur. Bununla beraber iki rekat kılıp da teşehhüdde bulunduktan sonra iki rekat daha kılacak olsa, farzı yerine getirmiş olur. Bu son iki rekat nafile sayılır. Ancak selamı geciktirmiş olmasından dolayı hata işlemiş olur. Fakat birinci teşehhüdü terk etse veya önceki iki rekatta kıraatta bulunmamış olsa, farzı yerine getirmiş olmaz. Sabah ve cuma namazlarında da hüküm böyledir.",
 
@@ -3449,7 +3449,7 @@ export default [
         title: "YOLCULUĞUN SONA ERİP ERMEMESİ",
         slug: slugify("YOLCULUĞUN SONA ERİP ERMEMESİ"),
         content: [
-          " 273- Asıl vatana dönmekle yolculuk hali sona erer. Orada ikamete niyet edilmesi gerekmez. İkamet vatanı böyle değildir, orada (en az onbeş gün) oturmaya niyet lazımdır.",
+          "273- Asıl vatana dönmekle yolculuk hali sona erer. Orada ikamete niyet edilmesi gerekmez. İkamet vatanı böyle değildir, orada (en az onbeş gün) oturmaya niyet lazımdır.",
 
           "274- Bir insanın doğup büyüdüğü veya evlenip içinde yaşamak istediği veya içinde barınmayı kasdedip başka bir yere yerleşmek için gitmek istemediği yer, onun “asıl vatanı”dır!. Bir kimsenin böyle doğduğu, evlendiği, içinde yerleşmeye karar verdiği yer olmayıp yalnız içinde en az onbeş gün kalmak istediği yer de, onun için bir “İkamet Vatanı”dır. Yeter ki o yer, böyle oturmaya uygun olsun.",
 
@@ -3480,7 +3480,7 @@ export default [
         title: "EDA İLE KAZANIN FARKLARI VE KAZA NAMAZLARI",
         slug: slugify("EDA İLE KAZANIN FARKLARI VE KAZA NAMAZLARI"),
         content: [
-          " 281- Bir namazı vaktinde kılmaya “eda” denir. Vaktinden sonra kılmaya da “kaza” denir. Vaktinde kılınan veya kılınacak olan bir namaza “vaktiyye” veya “salât-ı hazıra” denir. Vaktinde kılınmamış olan bir namaza da “faite” denilir. Bunun çoğulu “fevait” dir.",
+          "281- Bir namazı vaktinde kılmaya “eda” denir. Vaktinden sonra kılmaya da “kaza” denir. Vaktinde kılınan veya kılınacak olan bir namaza “vaktiyye” veya “salât-ı hazıra” denir. Vaktinde kılınmamış olan bir namaza da “faite” denilir. Bunun çoğulu “fevait” dir.",
 
           "282- Vaktinde kılınmamış olan beş vakit farz namazlarının kazası farzdır. Vitir namazının kazası ise vacibdir. Sünnetlere gelince: Bir sabah namazı sünneti ile beraber kaçırılınca, o günün güneş doğuşundan (kerahet vaktinin çıkışından) sonra istiva zamanına kadar bu sünnet farz ile beraber kaza edilir. Güneşin yükselişinden (kerahet vaktinden) önce ve istivadan sonra sünnet kaza edilmez.",
 
@@ -3559,7 +3559,7 @@ export default [
         title: "MÜDRİK HAKKINDA MESELELER",
         slug: slugify("MÜDRİK HAKKINDA MESELELER"),
         content: [
-          " 300- Müdrik, namazın başından sonuna kadar fasılasız olarak imama uyan ve bütün rekatleri imamla beraber kılan kimsedir. İmama ilk rekatın rükûunda yetişen, o rekata yetişmiş ve müdrik adını almış olur.Namaza imam ile beraber başlamanın fazileti pek büyüktür. Bu hususta aşağıdaki meseleler ortaya çıkar:",
+          "300- Müdrik, namazın başından sonuna kadar fasılasız olarak imama uyan ve bütün rekatleri imamla beraber kılan kimsedir. İmama ilk rekatın rükûunda yetişen, o rekata yetişmiş ve müdrik adını almış olur.Namaza imam ile beraber başlamanın fazileti pek büyüktür. Bu hususta aşağıdaki meseleler ortaya çıkar:",
 
           "301- Bir kimse tek başına bir farz namaza başladıktan sonra, bulunduğu yerde cemaatla o farz namaz kılınmaya başlansa bakılır: Eğer tek başına namaz kılmakta olan henüz secdeye varmamış ise, namazı bırakıp imama uyar. Böylece cemaat sevabını kazanmaya koşar. Bu müstahabdır. Eğer bir kez secdeye varmış ise, bakılır: Kıldığı namaz sabah veya akşam namazı ise, yine namazını bırakır ve imama uyar. Fakat bunların ikinci rekatı için secdeye varmışsa, artık namazı bırakmayıp tamamlar, imama uyamaz. Çünkü sabah namazından sonra nafile kılınamayacağı gibi, üç rekatlı bir namaz da nafile kılınamaz.",
 
@@ -3582,7 +3582,7 @@ export default [
         title: "LAHIK HAKKINDA MESELELER",
         slug: slugify("LAHIK HAKKINDA MESELELER"),
         content: [
-          " 305- Lâhık, namaza imam ile beraber başladığı halde, kendisine uyku ve dalgınlık veya cemaatın fazlalığından dolayı bir eziyet ve bir abdestsizlik hali arız olup da, namazın tamamını veya bir kısmını imam ile kılamayan kimsedir. Lâhık hakkında aşağıdaki meseleler ortaya çıkar:",
+          "305- Lâhık, namaza imam ile beraber başladığı halde, kendisine uyku ve dalgınlık veya cemaatın fazlalığından dolayı bir eziyet ve bir abdestsizlik hali arız olup da, namazın tamamını veya bir kısmını imam ile kılamayan kimsedir. Lâhık hakkında aşağıdaki meseleler ortaya çıkar:",
 
           "306- Lâhık, hareket bakımından Muktedi gibidir. Muktedi, imamın arkasında Kur’an okuyamayacağı gibi, Lâhık da kaçırmış olduğu rekatları kendi başına kılınca Kur’an okuyamaz, tamamen muktedi gibi hareket eder ve kendi başına kılacak olduğu rekatlardaki yanılmalardan dolayı da sehiv secdeleri yapmaz.",
 
@@ -3599,7 +3599,7 @@ export default [
         title: "MESBUK HAKKINDA MESELELER",
         slug: slugify("MESBUK HAKKINDA MESELELER"),
         content: [
-          " 310- Mesbuk, bir rekat kılındıktan sonra imama uyan kimsedir ki, son oturuşta dahi imama uymuş olsa yine mesbuk sayılır. Mesbuk hakkında aşağıdaki meseleler ortaya çıkar:",
+          "310- Mesbuk, bir rekat kılındıktan sonra imama uyan kimsedir ki, son oturuşta dahi imama uymuş olsa yine mesbuk sayılır. Mesbuk hakkında aşağıdaki meseleler ortaya çıkar:",
 
           "311- Mesbuk kaza edeceği rekatlarda, tek başına namaz kılan gibidir. Örnek: Bir kimse sabah namazıın ikinci rekatında imama uyacak olsa, mesbuk olmuş olur. Aldığı tekbirden sonra sükut eder. İmamla beraber son oturuşta yalnız “Tahiyyat”ı okur. İmam selam verince, kendisi ayağa kalkar ve imam ile kılmamış olduğu ilk rekatı kılmaya başlar. “Sübhaneke ve Eüzü Besmele’den” sonra Fatiha suresi ile bir mikdar daha Kur’an-ı Kerîm okur. Bilindiği şekilde rükû ve secdelere gider. Ondan sonra oturup “Tahiyyatı, salavatları ve Rabbenâ âtinâ’yı” okuyarak selam verir.Akşam namazının ikinci rekatında imama uyan kimse de birinci rekat hakkında bu şekilde hareket eder.",
 
@@ -3642,7 +3642,7 @@ export default [
         title: "SEHİV (YANILMA SECDELERİ) İLE İLGİLİ MESELELER",
         slug: slugify("SEHİV (YANILMA SECDELERİ) İLE İLGİLİ MESELELER"),
         content: [
-          " 327- Sehiv secdeleri, bir namazın vaciblerinden birini yanılarak terk etmekten veya geciktirmekten dolayı, o namazın sonunda yapılması gereken iki secde ile teşehhüdden, salavat ve duaları okumaktan ibarettir. Şöyle yapılır: Son oturuşta yalnız “Tahiyyat” okunduktan sonra iki tarafa selam verilir. Ondan sonra “Allahü Ekber” denilerek secdeye varılıp üç kez “Sübhane Rabbiye’l-ala” okunur.",
+          "327- Sehiv secdeleri, bir namazın vaciblerinden birini yanılarak terk etmekten veya geciktirmekten dolayı, o namazın sonunda yapılması gereken iki secde ile teşehhüdden, salavat ve duaları okumaktan ibarettir. Şöyle yapılır: Son oturuşta yalnız “Tahiyyat” okunduktan sonra iki tarafa selam verilir. Ondan sonra “Allahü Ekber” denilerek secdeye varılıp üç kez “Sübhane Rabbiye’l-ala” okunur.",
 
           "Ondan sonra “Allahü Ekber” denilerek kalkılır. Bir tesbih mikdarı duraklamadan sonra tekrar “Allahü Ekber” deyip ikinci secdeye varılır. Yine üç kez “Sübhane Rabbiye’l-ala” okunduktan sonra “Allahü Ekber” denilerek kalkılır ve oturulur. Tahiyyat ve Salavatlarla “Rabbena atina” okunup önce sağ tarafa, sonra sol tarafa selam verilir.",
 
@@ -3755,7 +3755,7 @@ export default [
         title: "TİLAVET SECDESİ İLE İLGİLİ MESELELER",
         slug: slugify("TİLAVET SECDESİ İLE İLGİLİ MESELELER"),
         content: [
-          " 364- Kur’an-ı Kerim’in surelerinde ondört secde ayeti vardır ki, bunlardan birini okuyan veya işiten her mükellef için bir secde gerekir. Şöyle ki:",
+          "364- Kur’an-ı Kerim’in surelerinde ondört secde ayeti vardır ki, bunlardan birini okuyan veya işiten her mükellef için bir secde gerekir. Şöyle ki:",
 
           "Tilavet secdesi niyeti ile, eller kaldırılmaksızın “Allahü Ekber” denilerek secdeye varılır. Üç kere “Sübhane Rabbiye’l-ala” veya bir kere: “Sübhane Rabbena in kâne vadü Rabbina lemef’ulâ” denilir. Ondan sonra “Allahü Ekber” denilerek kalkılır.",
 
@@ -3857,7 +3857,7 @@ export default [
         title: "KORKU NAMAZINA AİT BİLGİ",
         slug: slugify("KORKU NAMAZINA AİT BİLGİ"),
         content: [
-          " 399- Korku namazı, İmam Azam ile İmam Muhammed’e göre, bugün de caizdir. İmam Ebû Yusuf’a göre, bu namaz Peygamber Efendimizin devrine ait idi.Korku namazından maksad, düşman saldırısı, sel ve yangın felâketi veya büyük bir canavar gibi tehlikeler karşısında bulunan İslâm cemaatının, kendilerini idare eden bir idareciyi veya diğer muhterem bir zatı imam edinerek onun arkasında farz bir namazı nöbetleşe kılmalarıdır.",
+          "399- Korku namazı, İmam Azam ile İmam Muhammed’e göre, bugün de caizdir. İmam Ebû Yusuf’a göre, bu namaz Peygamber Efendimizin devrine ait idi.Korku namazından maksad, düşman saldırısı, sel ve yangın felâketi veya büyük bir canavar gibi tehlikeler karşısında bulunan İslâm cemaatının, kendilerini idare eden bir idareciyi veya diğer muhterem bir zatı imam edinerek onun arkasında farz bir namazı nöbetleşe kılmalarıdır.",
 
           "Şöyle ki: Bu cemaattan bir kısmı düşman karşısında durur. Bir kısmı da gelip imama uyar. İki rekâtlı bir namazın ilk rekâtını, üç veya dört rekâtlı bir namazın da ilk iki rekâtını imamla beraber kılar. İkinci secdeden veya birinci oturuşta teşehhüdden sonra düşman karşısına gider.",
 
@@ -3874,7 +3874,7 @@ export default [
         title: "NAFİLE NAMAZLAR",
         slug: slugify("NAFİLE NAMAZLAR"),
         content: [
-          " 403- Beş vakitte kılınan, namazların sünnetlerinden başka birtakım nafile namazlar daha vardır ki, bunlara Tatavvu (Nafile) namazı denir. Bunlar müstahab ve mendub namazlardır. Bunlar, Yüce Allah’a manevî yönden yakınlığa sebeb olurlar. Her birini kendine has birtakım fazilet ve sevabları vardır. Nafile namazların başlıcaları şunlardır:",
+          "403- Beş vakitte kılınan, namazların sünnetlerinden başka birtakım nafile namazlar daha vardır ki, bunlara Tatavvu (Nafile) namazı denir. Bunlar müstahab ve mendub namazlardır. Bunlar, Yüce Allah’a manevî yönden yakınlığa sebeb olurlar. Her birini kendine has birtakım fazilet ve sevabları vardır. Nafile namazların başlıcaları şunlardır:",
 
           "1) Tahiyyetü’l-Mescid: Bu, bir müstahab namazdır. Şöyle ki: Bir mescide sadece ziyaret için veya öğretmek ve öğrenmek gibi bir maksad için giren kimse, orada nafile olarak iki rekât namaz kılar. Bir mescide bir günde birkaç defa bu şekilde girilse, bir defasında böyle namaz kılınması yeterlidir. Bununla, Allah’a ibadet edilen bir yere gereken saygı yerine getirilmiş olur.",
 
@@ -3995,7 +3995,7 @@ export default [
         title: "MEKRUH VAKİTLER",
         slug: slugify("MEKRUH VAKİTLER"),
         content: [
-          " 404- Beş vakit vardır ki, onlara Mekruh Vakitler denir.Birincisi: Güneşin doğmasından bir mızrak boyu (beş derece) ki, memleketimize göre kırk ile elli dakika arasında bir zamanla yükselişine kadar olan zamandır.",
+          "404- Beş vakit vardır ki, onlara Mekruh Vakitler denir.Birincisi: Güneşin doğmasından bir mızrak boyu (beş derece) ki, memleketimize göre kırk ile elli dakika arasında bir zamanla yükselişine kadar olan zamandır.",
 
           "İkincisi: Güneşin yükselip de tam tepeye geldiği zeval anının bulunduğu vakittir.Üçüncüsü: Güneşin sararmasından ve gözleri kamaştırmaz bir hale gelmesinden itibaren batışı zamanına kadar olan vakittir.",
 
@@ -4037,7 +4037,7 @@ export default [
         title: "ZELLETÜ'L KARİ'YE (OKUYUCUNUN YANILMASINA) AİT ESASLAR",
         slug: slugify("ZELLETÜ'L KARİ'YE (OKUYUCUNUN YANILMASINA) AİT ESASLAR"),
         content: [
-          " 435- Namaz içinde meydana gelen bir okuyuş yanlışlığı ile namaz bozulur mu, bozulmaz mı konusu pek önemlidir. Buna dikkat gerekir. Kur’ân okurken bir hata yapılmasına veya okuyucunun sürçmesine Zelletü’l-Karî (Okuyucunun Sürçmesi) denir. Bu konuda başlıca esaslar şunlardır:",
+          "435- Namaz içinde meydana gelen bir okuyuş yanlışlığı ile namaz bozulur mu, bozulmaz mı konusu pek önemlidir. Buna dikkat gerekir. Kur’ân okurken bir hata yapılmasına veya okuyucunun sürçmesine Zelletü’l-Karî (Okuyucunun Sürçmesi) denir. Bu konuda başlıca esaslar şunlardır:",
 
           "436- Kur’ân-ı Kerîm’in bir kelimesi kasden değiştirilir de, bununla mana değişmiş olursa, namaz ittifakla bozulur. Ancak kelime övgüye ait olup onun yerine yine övgüye ait bir lâfız okunmuş olursa bozulmaz. Fakat böyle bir davranış caiz görülmez.",
 
@@ -4122,7 +4122,7 @@ export default [
         title: "KUR'AN-I KERİMİ ÖĞRENİP OKUMAK VE DİNLEMEK GÖREVLERİ",
         slug: slugify("KUR'AN-I KERİMİ ÖĞRENİP OKUMAK VE DİNLEMEK GÖREVLERİ"),
         content: [
-          " 463- Her müslümana, namazı caiz olacak kadar Kur’ân-ı Kerîm’den ezberlemek bir farzı ayndır. Fatiha sûresi ile diğer bir sûreyi ezber etmek de vacibdir; bununla farz da yerine getirilmiş olur. Kur’ân-ı Kerîm’in diğer kısımlarını ezberlemek de, müslümanlar için bir farz-ı kifayedir.",
+          "463- Her müslümana, namazı caiz olacak kadar Kur’ân-ı Kerîm’den ezberlemek bir farzı ayndır. Fatiha sûresi ile diğer bir sûreyi ezber etmek de vacibdir; bununla farz da yerine getirilmiş olur. Kur’ân-ı Kerîm’in diğer kısımlarını ezberlemek de, müslümanlar için bir farz-ı kifayedir.",
 
           "464- Kur’ân-ı Kerîm’i namaz dışında Mushaf’a bakarak okumak, ezber okumaktan daha faziletlidir. Çünkü böyle yapmakla okuma ibadeti ile Mushaf’a bakma ibadeti toplanmış olur.",
 
@@ -4157,7 +4157,7 @@ export default [
         title: "NAMAZLARIN MEKRUHLARI",
         slug: slugify("NAMAZLARIN MEKRUHLARI"),
         content: [
-          " 474- Namaz içinde yapılması veya yapılmaması mekruh olan şeyler tahrîmî (harama yakın) ve tenzihi (helâla yakın) olmak üzere iki kısımdır. Şöyle ki: Bir vacibin terkini taşıyan bir iş tahrimen mekruhtur. Bir sünnetin terkini taşıyan bir iş de, tenzihen mekruhtur. Bununla beraber tenzihen mekruh olanlar da, önemleri bakımından ve tahrimen mekruhlara yakınlıkları yönünden birbirlerinden farklıdırlar. Örnek: Müekked bir sünneti terk etmek, bir vacibi terk etmek derecesine yakın bir keraheti taşır. Farzların, vaciblerin ve müstahabların ve bunların zıdlarının değişik olması gibi…",
+          "474- Namaz içinde yapılması veya yapılmaması mekruh olan şeyler tahrîmî (harama yakın) ve tenzihi (helâla yakın) olmak üzere iki kısımdır. Şöyle ki: Bir vacibin terkini taşıyan bir iş tahrimen mekruhtur. Bir sünnetin terkini taşıyan bir iş de, tenzihen mekruhtur. Bununla beraber tenzihen mekruh olanlar da, önemleri bakımından ve tahrimen mekruhlara yakınlıkları yönünden birbirlerinden farklıdırlar. Örnek: Müekked bir sünneti terk etmek, bir vacibi terk etmek derecesine yakın bir keraheti taşır. Farzların, vaciblerin ve müstahabların ve bunların zıdlarının değişik olması gibi…",
 
           "Namazda mekruh olan şeylerin başlıcaları şunlardır:",
 
@@ -4290,7 +4290,7 @@ export default [
         title: "NAMAZI BOZAN VE BOZMAYAN ŞEYLER",
         slug: slugify("NAMAZI BOZAN VE BOZMAYAN ŞEYLER"),
         content: [
-          " 475- “Fesad” bozulma ve “İfsad” da, bozma demektir. Bunların karşıtı “Salâh (Sıhhat)” ve “Islah” dır. İbadetlerde fesad ile “butlan” birdir. Fasid olan bir ibadete “batıl” da denir. Bir şeyi bozan sıhhat halinden çıkaran şeye de, “müfsid” denir. Çoğuluna “müfsidat” denir.",
+          "475- “Fesad” bozulma ve “İfsad” da, bozma demektir. Bunların karşıtı “Salâh (Sıhhat)” ve “Islah” dır. İbadetlerde fesad ile “butlan” birdir. Fasid olan bir ibadete “batıl” da denir. Bir şeyi bozan sıhhat halinden çıkaran şeye de, “müfsid” denir. Çoğuluna “müfsidat” denir.",
 
           "Bir namazın şart ve rükünlerinden biri bulunmamakla o namaz fasid olacağı gibi, bu şart ve rükünler üzere başlanıldıktan sonra bazı şeylerin bulunmasından dolayı da fasid olabilir. Namazı böyle bozan şeylere “Müfsidat-ı Salât” adı verilir. Bunların bir kısmı daha önce yeri geldiğinde anlatılmıştı.Biz burada şart ve rükünleri ile başlanmış bir namazı bozacak şeylerin başlıcalarını yazacağız. Şöyle ki:",
 
@@ -4443,7 +4443,7 @@ export default [
         title: "CENAZE İLE İLGİLİ VACİPLER VE GÖREVLER",
         slug: slugify("CENAZE İLE İLGİLİ VACİPLER VE GÖREVLER"),
         content: [
-          " 519- Cenaze ölü demektir. Ölmek üzere bulunan kimseye “muhtazar” denir. Muhtazarın yanında tevhid ve şahadet kelimelerini okumaya ve ölünün kabri başında yapılacak konuşmaya “Telkîn” denir.",
+          "519- Cenaze ölü demektir. Ölmek üzere bulunan kimseye “muhtazar” denir. Muhtazarın yanında tevhid ve şahadet kelimelerini okumaya ve ölünün kabri başında yapılacak konuşmaya “Telkîn” denir.",
 
           "Ölünün yıkanmasına “Gasl-i meyyit”, ölünün yıkanmasından sonra kabre gömülmesine kadar yapılması gereken şeylere ve bunların temin etmeye de “Techiz” adı verilir. Ölüyü bilinen bezlere sarmaya da “Tekfin” denilmektedir.",
 
@@ -4554,7 +4554,7 @@ export default [
         title: "CENAZE NAMAZLARI",
         slug: slugify("CENAZE NAMAZLARI"),
         content: [
-          " 555- Yıkanıp hazırlanan müslüman bir ölü, ön tarafa konarak onun namazı kılınmak üzere müslümanların abdest almaları ve kıbleye yönelmiş bulunmaları farz-ı kifayedir.",
+          "555- Yıkanıp hazırlanan müslüman bir ölü, ön tarafa konarak onun namazı kılınmak üzere müslümanların abdest almaları ve kıbleye yönelmiş bulunmaları farz-ı kifayedir.",
 
           "556- Cenaze namazının şartı niyettir. Bu niyetle ölünün kadın veya erkek, kız çocuk veya oğlan olduğu tayin edilir, imam olan zat, Allah Teala’nın rızası için, hazır olan cenaze namazını kılmaya ve o cenaze için dua etmeye niyet ederek namaza başlar, imamete niyet etmesi gerekmez; ister cemaat arasında kadın bulunsun, ister bulunmasın.",
 
@@ -4679,7 +4679,7 @@ export default [
         title: "CENAZELERİN KABİRLERİNE KONULMASI",
         slug: slugify("CENAZELERİN KABİRLERİNE KONULMASI"),
         content: [
-          " 598- Cenaze kabre götürülüp omuzlardan indirilince, bir engel olmadığı zaman cemaat oturur. Bundan önce oturmaları mekruh olduğu gibi, bundan sonra ayakta durmaları da mekruhtur.",
+          "598- Cenaze kabre götürülüp omuzlardan indirilince, bir engel olmadığı zaman cemaat oturur. Bundan önce oturmaları mekruh olduğu gibi, bundan sonra ayakta durmaları da mekruhtur.",
 
           "599- Kabrin bir insan boyu kadar derin ve yarım boy kadar enli olması güzeldir. Yarım boy mikdarı derin olması da yeterlidir. Kabirlerde faziletli olan lâhiddir. Şöyle ki: Toprağı sert olan bir kabrin içinde kıble tarafı oyulur. Ölü buraya konulur. Önüne de tahta, kamış veya kerpiç benzeri şeyler konur. Bu durumda toprak, tam ölünün üzerinde değil, bu şeyler üzerine atılmış olur. Bu ölüye karşı bir saygıdır.",
 
@@ -4799,7 +4799,7 @@ export default [
         title: "ŞEHİTLER VE ONLARA AİT HÜKÜMLER",
         slug: slugify("ŞEHİTLER VE ONLARA AİT HÜKÜMLER"),
         content: [
-          " 628- Şehidlik büyük bir derecedir. Allah yolunda canını veren bir müslümana “Şehîd” denir, çoğulu Şüheda’dır.Böyle bir adama şehîd denilmesi, ya cennete gireceğine şahidlik yapıldığı veya ölümü anında birtakım rahmet meleklerinin hazır bulunduğu veya kendisi Yüce Allah’ın manevî huzurunda hazır olarak rızıklanacağı içindir.Şehîd kelimesi, Şahid sözüne denk olup hazır manasını taşır. Şehîdler üç kısma ayrılırlar:",
+          "628- Şehidlik büyük bir derecedir. Allah yolunda canını veren bir müslümana “Şehîd” denir, çoğulu Şüheda’dır.Böyle bir adama şehîd denilmesi, ya cennete gireceğine şahidlik yapıldığı veya ölümü anında birtakım rahmet meleklerinin hazır bulunduğu veya kendisi Yüce Allah’ın manevî huzurunda hazır olarak rızıklanacağı içindir.Şehîd kelimesi, Şahid sözüne denk olup hazır manasını taşır. Şehîdler üç kısma ayrılırlar:",
 
           "1) Hem dünya, hem de âhiret bakımından şehid olanlar. Bunlar birer hükmî şehiddirler.",
 
@@ -4859,7 +4859,7 @@ export default [
         title: "ORUCUN MAHİYETİ",
         slug: slugify("ORUCUN MAHİYETİ"),
         content: [
-          " 1- Oruç, ikinci fecirden başlayarak güneşin batışına kadar yemekten, içmekten ve cinsel ilişkiden nefsi kesmek, demektir.",
+          "1- Oruç, ikinci fecirden başlayarak güneşin batışına kadar yemekten, içmekten ve cinsel ilişkiden nefsi kesmek, demektir.",
 
           "Oruç kelimesinin Arabçası, siyam ve savm’dır ki, nefsi tutmak ve engellemek manasındadır. “Siyam” sözü, Savm’ın çoğulu olarak da kullanılır. Din deyiminde “Müftırat” (oruç bozucu) denilen şeylerden nefsi gerçekten veya hükmen yasaklamak bir imsak (oruç tutmak)’tır. Yanılarak ve unutarak bir şey yeyip içildiği takdirde hükmen imsak bulunmuş olacağından oruç bozulmuş olmaz. Bu konu ileride açıklanacaktır.",
 
@@ -4874,7 +4874,7 @@ export default [
         title: "ORUCUN NEVİLERİ",
         slug: slugify("ORUCUN NEVİLERİ"),
         content: [
-          " 5- Oruçlar: Farz, vacib, nafile ve mekruh nevilerine ayrılır. Farz ve vacib oruçlar da belirli ve belirsiz kısımlara ayrılır. Şöyle ki: Ramazan ayı orucu belirli bir farzdır. Kazaya kalan ramazan ayına ait oruçlarla keffaret olarak tutulacak oruçlar da belirsiz birer farzdır. Bunlar, istenilen mubah günlerde tutulabilir.",
+          "5- Oruçlar: Farz, vacib, nafile ve mekruh nevilerine ayrılır. Farz ve vacib oruçlar da belirli ve belirsiz kısımlara ayrılır. Şöyle ki: Ramazan ayı orucu belirli bir farzdır. Kazaya kalan ramazan ayına ait oruçlarla keffaret olarak tutulacak oruçlar da belirsiz birer farzdır. Bunlar, istenilen mubah günlerde tutulabilir.",
 
           "Belli bir günde tutulması adanan bir oruç, belirli bir vacibdir. Herhangi bir gün, herhangi bir ay veya herhangi bir hafta gibi, belirlenmeyip tutulması adanan bir oruç da belirsiz bir vacibdir.",
 
@@ -4935,7 +4935,7 @@ export default [
         title: "ORUÇLARIN FARZ VE VACİP OLMASINDAKİ SEBEPLER",
         slug: slugify("ORUÇLARIN FARZ VE VACİP OLMASINDAKİ SEBEPLER"),
         content: [
-          " 25- Ramazan orucunun sebebi: Ramazan günlerinden herhangi birinin oruca başlamaya elverişli bir kısmına yetişmektir. Bu kısım, ikinci fecirden başlayarak “Dahvetü’l-Kübra” denilen ve gündüzün yarısı bulunan kaba kuşluk (İstiva= Güneşin tam tepeye gelmesi) zamanına kadar devam eder. İşte bu zamana yetişen veya bu müddet içinde oruca ehliyet kazanan her müslüman için o günün orucu farzdır.",
+          "25- Ramazan orucunun sebebi: Ramazan günlerinden herhangi birinin oruca başlamaya elverişli bir kısmına yetişmektir. Bu kısım, ikinci fecirden başlayarak “Dahvetü’l-Kübra” denilen ve gündüzün yarısı bulunan kaba kuşluk (İstiva= Güneşin tam tepeye gelmesi) zamanına kadar devam eder. İşte bu zamana yetişen veya bu müddet içinde oruca ehliyet kazanan her müslüman için o günün orucu farzdır.",
 
           "Ramazan orucunun kazasına sebeb, yine evvelce ramazan ayına yetişmiş olmaktan başka bir şey değildir.",
 
@@ -4956,7 +4956,7 @@ export default [
         title: "ORUCUN MEŞRU OLMASINDAKİ HİKMET",
         slug: slugify("ORUCUN MEŞRU OLMASINDAKİ HİKMET"),
         content: [
-          " 29- Orucun meşru kılınmasındaki hikmet, pek aşikârdır. Şüphe yok ki, Allahü Teâlâ Hazretleri, kayıtsız ve şartsız her şeye hakimdir. Elbette O’nun kullarına emrettiği ve caiz gördüğü şeylerde birçok yararlar vardır. Biz bunları gereği gibi bilmesek de, muhakkak hikmetleri vardır.",
+          "29- Orucun meşru kılınmasındaki hikmet, pek aşikârdır. Şüphe yok ki, Allahü Teâlâ Hazretleri, kayıtsız ve şartsız her şeye hakimdir. Elbette O’nun kullarına emrettiği ve caiz gördüğü şeylerde birçok yararlar vardır. Biz bunları gereği gibi bilmesek de, muhakkak hikmetleri vardır.",
 
           "Bununla beraber orucun din ve âhiret yararlarından başka, sağlık yönünden, sosyal ahlâk bakımından birçok yararlarını pek, iyi takdir edebilmekteyiz. Bu konu üzerinde yazılmış bir hayli yazı ve risale vardır.",
 
@@ -4981,7 +4981,7 @@ export default [
         title: "ORUÇLU İÇİN MÜSTEHAB OLAN ŞEYLER",
         slug: slugify("ORUÇLU İÇİN MÜSTEHAB OLAN ŞEYLER"),
         content: [
-          " 30- Oruç tutacak kimsenin sahur yemeği yemesi müstahabdır. Bunun vakti, gecenin sonudur. Alimlerden Ebu’l-Leys’e göre, gecenin son altıda biridir. Sahur yemeği, insana oruç için kuvvet verir. Sahurun geciktirilmesi müstahab ise de, ikinci fecrin doğup doğmadığından şübhe edilecek bir zamana kadar geciktirilmesi mekruhtur.",
+          "30- Oruç tutacak kimsenin sahur yemeği yemesi müstahabdır. Bunun vakti, gecenin sonudur. Alimlerden Ebu’l-Leys’e göre, gecenin son altıda biridir. Sahur yemeği, insana oruç için kuvvet verir. Sahurun geciktirilmesi müstahab ise de, ikinci fecrin doğup doğmadığından şübhe edilecek bir zamana kadar geciktirilmesi mekruhtur.",
 
           "Sahur, seher vaktinde yenecek yemektir. Bu yemeği yemeğe “Sahur Yemek” denir. Seher de, ikinci fecirden biraz öncesine kadar olan vakittir.",
 
@@ -5008,7 +5008,7 @@ export default [
         title: "ORUCUN ŞARTLARI",
         slug: slugify("ORUCUN ŞARTLARI"),
         content: [
-          " 39- Orucun farz oluşuna ve yerine getirilmesinin (edasının) farz oluşu ile sıhhatına dair şartlar vardır. Şöyle ki:",
+          "39- Orucun farz oluşuna ve yerine getirilmesinin (edasının) farz oluşu ile sıhhatına dair şartlar vardır. Şöyle ki:",
 
           "1) Oruçla mükellef olmak için İslâm, akıl ve büluğ şarttır. Onun için bu vasıfları toplamayan bir kimseye oruç farz değildir. Ancak akıl sahibi bulunan mümeyyiz bir İslâm çocuğunun tuttuğu oruç nafile olarak sahih olur.",
 
@@ -5021,7 +5021,7 @@ export default [
         title: "ORUCUN VAKTİ",
         slug: slugify("ORUCUN VAKTİ"),
         content: [
-          " 40- Orucun vakti ikinci fecirden başlayarak güneşin batışına kadar devam eden müddettir. Bununla beraber, ikinci fecrin ilk doğuşu anına mı, yoksa aydınlığının ufukta uzanıp dağılmaya başladığı zamana mı itibar olunacaktır meselesinde ihtilâf yardır. Bazı alimlere göre, ikinci fecrin ilk doğuşu anı esastır.",
+          "40- Orucun vakti ikinci fecirden başlayarak güneşin batışına kadar devam eden müddettir. Bununla beraber, ikinci fecrin ilk doğuşu anına mı, yoksa aydınlığının ufukta uzanıp dağılmaya başladığı zamana mı itibar olunacaktır meselesinde ihtilâf yardır. Bazı alimlere göre, ikinci fecrin ilk doğuşu anı esastır.",
 
           "İhtiyata en yakın olan görüş de budur. Diğer bazı alimlere göre, aydınlığın biraz uzayıp dağılmaya başladığı zamana itibar edilmelidir. Oruç tutacaklar hakkında daha elverişli olan da budur.",
 
@@ -5046,7 +5046,7 @@ export default [
         title: "RAMAZAN HİLALİ İLE DİĞER HİLALLERİN SÜBUTU",
         slug: slugify("RAMAZAN HİLALİ İLE DİĞER HİLALLERİN SÜBUTU"),
         content: [
-          " 45-Ramazan ayı, kamerî aylardandır. Bunlann sübutu hilâllerin, yani yeni ayların görülmesi iledir. Bunun için Şaban ayının yirmi dokuzuncu günü güneşin batışında insanların hilâli araştırmaları bir görevdir. Hilâli görürlerse, ertesi günün Ramazan orucuna başlarlar. Hava bulutlu, dumanlı bulunup da hilâl görülemezse, Şaban ayını otuz gün olarak tamamlar, sonra oruca başlarlar.",
+          "45-Ramazan ayı, kamerî aylardandır. Bunlann sübutu hilâllerin, yani yeni ayların görülmesi iledir. Bunun için Şaban ayının yirmi dokuzuncu günü güneşin batışında insanların hilâli araştırmaları bir görevdir. Hilâli görürlerse, ertesi günün Ramazan orucuna başlarlar. Hava bulutlu, dumanlı bulunup da hilâl görülemezse, Şaban ayını otuz gün olarak tamamlar, sonra oruca başlarlar.",
 
           "Bununla beraber Şaban ayının hilâlini de, Receb ayının yirmi dokuzunda araştırmak uygundur. Bu şekilde Şabanın kaç gün olduğu daha iyi anlaşılmış olur.",
 
@@ -5157,7 +5157,7 @@ export default [
         title: "ORUÇLARA AİT NİYETLER",
         slug: slugify("ORUÇLARA AİT NİYETLER"),
         content: [
-          " 71- Herhangi bir oruca kalb ile niyet yeterlidir. Oruç için sahura kalkılması da bir niyettir. Niyetin dil ile de yapılması mendubdur.",
+          "71- Herhangi bir oruca kalb ile niyet yeterlidir. Oruç için sahura kalkılması da bir niyettir. Niyetin dil ile de yapılması mendubdur.",
 
           "72- Ramazan orucu, tayin edilmiş adak ve mutlak nafile oruçlar için niyetin vakti, güneşin batışından başlayarak kaba kuşluğa kadar devam eder. Bu zaman içinde niyet edilebilir. Fakat güneş batmadan önce veya tam istiva zamanında veya ondan sonra akşama kadar hiç bir oruca niyet edilemez. Böyle niyet hususunda, mukîm, misafir, sağlıklı ve hasta olanlar eşittir.",
 
@@ -5206,7 +5206,7 @@ export default [
         title: "ORUÇLU İÇİN MEKRUH OLAN VE OLMAYAN ŞEYLER",
         slug: slugify("ORUÇLU İÇİN MEKRUH OLAN VE OLMAYAN ŞEYLER"),
         content: [
-          " 88- Oruçlu olanın su ile ıslatılmış bir misvaki kullanması İmam Ebu Yusuf’a göre mekruhtur. Fakat diğer alimlere göre, sabahleyin yahut zevalden sonra yaş ve kuru misvak kullanmakta kerahet yoktur.(İmam Şafiî’ye göre, zevalden sonra misvak kullanılması mekruhtur.)",
+          "88- Oruçlu olanın su ile ıslatılmış bir misvaki kullanması İmam Ebu Yusuf’a göre mekruhtur. Fakat diğer alimlere göre, sabahleyin yahut zevalden sonra yaş ve kuru misvak kullanmakta kerahet yoktur.(İmam Şafiî’ye göre, zevalden sonra misvak kullanılması mekruhtur.)",
 
           "89- Oruçlu kimsenin istincada (büyük abdest temizliğinde) ve abdest alırken ağzına, burnuna su verirken aşırı gitmesi, fazla su doldurup taşırması mekruhtur.",
 
@@ -5233,7 +5233,7 @@ export default [
         title: "ORUCU BOZAN VE BOZMAYAN ŞEYLER",
         slug: slugify("ORUCU BOZAN VE BOZMAYAN ŞEYLER"),
         content: [
-          " 99- Kasden yeyip içmek ve oruca aykırı olan işleri yapmak orucu bozar. Bu işlerin bir kısmı yalnız kazayı ve bir kısmı da hem kaza, hem de keffareti gerektirir. Bunlar açıklanacaktır.",
+          "99- Kasden yeyip içmek ve oruca aykırı olan işleri yapmak orucu bozar. Bu işlerin bir kısmı yalnız kazayı ve bir kısmı da hem kaza, hem de keffareti gerektirir. Bunlar açıklanacaktır.",
 
           "100- Unutarak bir şey yemek ve içmek veya cinsel ilişkide bulunmak orucu bozmaz. Bu hususta farz, vacib ve nafile oruçlar arasında bir fark yoktur. Çünkü unutma ve yanılma ile yapılan işler bağışlanmıştır.(Malikîlere göre, bunların her biri ile farz olan oruç bozulur, kazası gerekir. Çünkü orucun rüknü olan imsak kaybolmuştur.)",
 
@@ -5318,7 +5318,7 @@ export default [
         title: "KAZA EDİLMESİ GEREKEN VE GEREKMEYEN ŞEYLER",
         slug: slugify("KAZA EDİLMESİ GEREKEN VE GEREKMEYEN ŞEYLER"),
         content: [
-          " 127- Yolculuk veya hastalık özrü ile Ramazan orucunu tutmamış olan kimse, bunları kaza etmeye elverişli bir vakit bulamadan önce ölse, üzerine kaza gerekmediği gibi, fidye vermesi de lazım gelmez. Ancak oruçları için fidye verilmesini vasiyet etmiş olursa, malının üçte birinden bu vasiyetin yerine gelirilmesi gerekir.",
+          "127- Yolculuk veya hastalık özrü ile Ramazan orucunu tutmamış olan kimse, bunları kaza etmeye elverişli bir vakit bulamadan önce ölse, üzerine kaza gerekmediği gibi, fidye vermesi de lazım gelmez. Ancak oruçları için fidye verilmesini vasiyet etmiş olursa, malının üçte birinden bu vasiyetin yerine gelirilmesi gerekir.",
 
           "Fidye, fakir bir kimseyi sabah ve akşam doyuracak olan bir günlük yiyecektir. Bu, bir fitre sadakasına eşittir.",
 
@@ -5353,7 +5353,7 @@ export default [
         title: "KEFFARETİ GEREKTİRMEYEN ORUÇLAR",
         slug: slugify("KEFFARETİ GEREKTİRMEYEN ORUÇLAR"),
         content: [
-          " 137- Ramazan orucundan başka hiç bir orucun bozulmasından dolayı bir ceza ve geçmişteki kusuru düzeltme olarak iki ay oruç tutmak gerekmez. Çünkü Kur’an’ın açık beyanı, yalnız tutulan Ramazan orucunun bozulması üzerine keffareti gerekli kılmaktadır.",
+          "137- Ramazan orucundan başka hiç bir orucun bozulmasından dolayı bir ceza ve geçmişteki kusuru düzeltme olarak iki ay oruç tutmak gerekmez. Çünkü Kur’an’ın açık beyanı, yalnız tutulan Ramazan orucunun bozulması üzerine keffareti gerekli kılmaktadır.",
 
           "138- Ramazan orucunun bozulmasından dolayı keffaret gerekmesi için, hem şekil ve hem de mana bakımından iftar (orucu bozan bir şey) gerçekleşmelidir. Bu da, adet olarak gıdalanmak, tedavi olmak veya lezzetlenmek kasdi ile yenip içilen şeylerden birini kendi isteğiyle ve kasden yutmakla veya bir canlı kişiye kendi isteğiyle kasden iki yoldan biriyle cinsel ilişki kurmakla meydana gelir. Bunda inzal olması şart değildir.",
 
@@ -5428,7 +5428,7 @@ export default [
         title: "ORUÇ TUTMAMAYI MUBAH KILAN ÖZÜRLER",
         slug: slugify("ORUÇ TUTMAMAYI MUBAH KILAN ÖZÜRLER"),
         content: [
-          " 160- Aşağıdaki on sebebden ötürü oruç tutmamak veya tutulmuş bir orucu bozmak mubahtır:",
+          "160- Aşağıdaki on sebebden ötürü oruç tutmamak veya tutulmuş bir orucu bozmak mubahtır:",
 
           "1) Yolculuk: Ramazanda en az üç günlük (on sekiz saatlik) bir yere gidecek olan kimse, geceden oruca niyet etmeyebilir. Bundan dolayı o gün yola çıkınca oruçlu bulunmamış olur. Fakat bir kimse oruç tuttuktan sonra, gündüzün yolculuğa çıksa, bu yolculuk o ilk gün için bir özür sayılmaz, orucuna devam etmesi gerekir. Ancak o gün yola çıkar da, ondan sonra orucunu açarsa, kendisine keffaret gerekmez, yine sadece kaza gerekir.",
 
@@ -5481,7 +5481,7 @@ export default [
         title: "KEFFARETİN MAHİYETİ VE NEVİLERİ",
         slug: slugify("KEFFARETİN MAHİYETİ VE NEVİLERİ"),
         content: [
-          " 167- Keffaret, lûgat deyiminde gidermek ve örtmek manasındadır. Allah, bazı kusurları ve günahları birtakım vesilelerle bağışlayıp örttüğünden bu vesilelerden her birine “Keffaret” denilmiştir. Bunun çoğulu “Keffarât”dır. Günahları affetmeğe de ‘Tekfir-i Zünûb” denilir.",
+          "167- Keffaret, lûgat deyiminde gidermek ve örtmek manasındadır. Allah, bazı kusurları ve günahları birtakım vesilelerle bağışlayıp örttüğünden bu vesilelerden her birine “Keffaret” denilmiştir. Bunun çoğulu “Keffarât”dır. Günahları affetmeğe de ‘Tekfir-i Zünûb” denilir.",
 
           "168- Keffaretler, “Keffaret-i Savm = Oruç Keffareti”. “Keffaret-i zihar= zevceyi haram kılma keffareti” Keffaret-i halk = ihramda tıraş olmanın keffareti”. “Keffaret-i katil = hataen adam öldürme keffareti” ve “Yemin keffareti” diye başlıca beş kısımdır. Bu keffaretler, yasak olan şeylerden insanları alıkor ve engeller. Yapılan bir günaha, verilen bir ceza yerinde bulunur. Aynı zamanda bir ibadet manasında bulunduğundan günahların bağışlanmasına bir vesile olur. Bunları sırasıyla açıklıyoruz:",
 
@@ -5581,7 +5581,7 @@ export default [
         title: "KASEM SURETİYLE OLAN YEMİNİN NEVİLERİ VE HÜKÜMLERİ",
         slug: slugify("KASEM SURETİYLE OLAN YEMİNİN NEVİLERİ VE HÜKÜMLERİ"),
         content: [
-          " 197- Kasem suretiyle olan yeminler: Lağıv (boş yere) yemin, Gamus (yalan yere) yemin ve mün’akıd (şarta bağlı yemin) kısımlarına ayrılır. Şöyle ki:",
+          "197- Kasem suretiyle olan yeminler: Lağıv (boş yere) yemin, Gamus (yalan yere) yemin ve mün’akıd (şarta bağlı yemin) kısımlarına ayrılır. Şöyle ki:",
 
           "1) Lağıv yemin: Yanlışlıkla veya doğru olduğu zannı ile yalan yere yapılan yemindir. Bir kimsenin bir maksadı olmaksızın başka bir şey söylecek yerde “Vallahi” diye yemin etmesi bu kısımdandır.Yine, borcunu ödemediği halde, ödemiş olduğunu sanarak “Vallahi borcumu ödedim” diye yemin etmesi böyledir. Bu tür yeminden dolayı keffaret gerekmez. Bunun bağışlanacağı umulur.",
 
@@ -5596,7 +5596,7 @@ export default [
         title: "YEMİNE DAİR ÇEŞİTLİ MESELELER",
         slug: slugify("YEMİNE DAİR ÇEŞİTLİ MESELELER"),
         content: [
-          " 198- Yemin birkaç tane olunca, keffaretler de ona göre olur. Yeminlerin yapıldığı yer değişmese de yine hüküm böyledir. Buna göre, bir kimse şöyle yapacağına veya yapmayacağına “Vallahi” diye yemin ettikten sonra başka başka yerlerde benzeri yeminler yapsa, yeminler birkaç tane olur. Bozduğu bu yeminlerin her birinden dolayı ayrı ayrı keffaret ödemesi gerekir. Fakat İmam Muhammed’e göre, yemin keffaretleri çoğalınca, bunlar bir keffaret ile ödenir. Tercin edilen görüş budur.",
+          "198- Yemin birkaç tane olunca, keffaretler de ona göre olur. Yeminlerin yapıldığı yer değişmese de yine hüküm böyledir. Buna göre, bir kimse şöyle yapacağına veya yapmayacağına “Vallahi” diye yemin ettikten sonra başka başka yerlerde benzeri yeminler yapsa, yeminler birkaç tane olur. Bozduğu bu yeminlerin her birinden dolayı ayrı ayrı keffaret ödemesi gerekir. Fakat İmam Muhammed’e göre, yemin keffaretleri çoğalınca, bunlar bir keffaret ile ödenir. Tercin edilen görüş budur.",
 
           "199- “Vallahi falan ve falan kimselerle konuşmayacağım” yahut “falan ve falan yerlere gitmeyeceğim” gibi sözler bir yemin sayılır. Onun için o iki kimseden yalnız birisiyle konuşulsa veya o iki yerden yalnız birine gidilse, yemin bozulmuş olmaz.",
 
@@ -5709,7 +5709,7 @@ export default [
         title: "NEZRİN MAHİYETİ VE NEVİLERİ",
         slug: slugify("NEZRİN MAHİYETİ VE NEVİLERİ"),
         content: [
-          " 232- Nezir, Yüce Allah’a saygı için yasak olmayan bir işin yapılmasını üzerine alıp yüklenmektir. Böyle bir işin yapılmasını kendine vacib kılmaktır. Nezrin çoğulu “Nuzûr”dur. Necr edene de “Nâzir” denir. Nezrin Türkçesi adaktır.",
+          "232- Nezir, Yüce Allah’a saygı için yasak olmayan bir işin yapılmasını üzerine alıp yüklenmektir. Böyle bir işin yapılmasını kendine vacib kılmaktır. Nezrin çoğulu “Nuzûr”dur. Necr edene de “Nâzir” denir. Nezrin Türkçesi adaktır.",
 
           "233- Sadece Yüce Allah’ın rızası için ibadet sayılacak bazı şeyleri adamak geçerlidir ve sevaba bir yoldur. “Nezrim olsun, yarın Allah rızası için oruç tutayım veya fakire şu kadar para vereyim” denilmesi gibi. Fakat dünyalık sağlamak için yapılacak adak makbul değildir. “Falan işim yoluna girerse, üç gün oruç tutayım, fakire para vereyim” gibi. Böyle dünyaya ait bir maksad için yapılan bir ibadet ve taat, kutsal bir maksada değil, dünyaya ait bir isteğe ve amaca dayanmış olur. Bu ise, ibadet ve taatlarda aranılan ihlâsa aykırıdır. Böyle bir adak kaderi değiştiremez. Mukadder ne ise, yine o meydana gelir. Şu kadar var ki, bazan böyle bir adak için cimriden bir mal çıkmış olur.",
 
@@ -5722,7 +5722,7 @@ export default [
         title: "NEZRİN ŞARTLARI",
         slug: slugify("NEZRİN ŞARTLARI"),
         content: [
-          " 235- Bir nezrin din yönünden sahih ve geçerli, yerine getirilmesi gerekli olabilmesi için şu şartları vardır:",
+          "235- Bir nezrin din yönünden sahih ve geçerli, yerine getirilmesi gerekli olabilmesi için şu şartları vardır:",
 
           "1) Nezredilen şeyin cinsinden bir farz veya vacib bulunmalıdır. Buna göre: “Bir gün oruç tutayım” diye yapılan bir adak sahihdir. Fakat: “Falan hastayı ziyarette bulunayım” diye yapılacak bir adak sahih olmaz. Her halde bunu yerine getirmek gerekmez. Çünkü hasta ziyareti cinsinden bir farz veya vacib ibadet yoktur.",
 
@@ -5745,7 +5745,7 @@ export default [
         title: "BELİRLİ VE BELİRSİZ, MUTLAK VE MUALLAK ADAKLAR",
         slug: slugify("BELİRLİ VE BELİRSİZ, MUTLAK VE MUALLAK ADAKLAR"),
         content: [
-          " 236- “Nezrim olsun, yarın oruç tutayım” gibi bir adak, muayyen (belirlenmiş) bir adaktır. “Nezrim olsun, bir gün oruç tutayım” denilmesi de gayrimuayyen (belirlenmemiş) bir nezirdir. Bunlar, aynı zamanda bir şarta bağlı olmayan mutlak (bağlantısız) nezirlerdir.",
+          "236- “Nezrim olsun, yarın oruç tutayım” gibi bir adak, muayyen (belirlenmiş) bir adaktır. “Nezrim olsun, bir gün oruç tutayım” denilmesi de gayrimuayyen (belirlenmemiş) bir nezirdir. Bunlar, aynı zamanda bir şarta bağlı olmayan mutlak (bağlantısız) nezirlerdir.",
 
           "“Falan kimse gelirse, Allah için nezrim olsun bir gün oruç tutayım, şu kadar sadaka vereyim” gibi, şarta bağlı nezirler de birer muallak (bağlantılı) nezirdir.",
 
@@ -5804,7 +5804,7 @@ export default [
         title: "İTİKAFIN MAHİYETİ, NEVİLERİ VE TEŞRİİ HİKMETİ",
         slug: slugify("İTİKAFIN MAHİYETİ, NEVİLERİ VE TEŞRİİ HİKMETİ"),
         content: [
-          " 257- İtikâf lûgat deyiminde bir şeye devam etmek manasındadır. Bir şeye devam eden kimseye de mutekif (itikâf yapan) denir. Şeriatta ise itikâf: Bir mescidde veya o hükümdeki bir yerde itikâf niyeti ile durmaktan ibarettir.",
+          "257- İtikâf lûgat deyiminde bir şeye devam etmek manasındadır. Bir şeye devam eden kimseye de mutekif (itikâf yapan) denir. Şeriatta ise itikâf: Bir mescidde veya o hükümdeki bir yerde itikâf niyeti ile durmaktan ibarettir.",
 
           "258- İtikâflar: Vacib, müekked sünnet ve müstahab nevilerine ayrılır. Şöyle ki: Dil ile nezredilen bir itikâf vacibdir. Ramazan ayının son on gününde itikâf, kifaye yolu ile bir müekked sünnettir. Başka bir zamanda ibadet niyeti ile bir mescidde bir müddet yapılan itikâf da müstahabdır.",
 
@@ -5829,7 +5829,7 @@ export default [
         title: "İTİKAFIN ŞARTLARI",
         slug: slugify("İTİKAFIN ŞARTLARI"),
         content: [
-          " 261- Bir itikâfın sıhhati şu şartların bulunmasına bağlıdır:",
+          "261- Bir itikâfın sıhhati şu şartların bulunmasına bağlıdır:",
 
           "1) İtikâf yapan, müslüman, akıllı ve temiz bulunmalıdır. Onun için müslüman olmayanın, delinin, cünubun, hayız ile nifastan temiz bulunmayanın itikâfı olmaz.",
 
@@ -5856,7 +5856,7 @@ export default [
         title: "İTİKAFIN EDEBLERİ",
         slug: slugify("İTİKAFIN EDEBLERİ"),
         content: [
-          " 264- İtikâfın şu edebleri vardır:",
+          "264- İtikâfın şu edebleri vardır:",
 
           "1) İtikâf, Ramazan ayının son on gününde ve mescidlerin en faziletlisinde yapılmalıdır.",
 
@@ -5873,7 +5873,7 @@ export default [
         title: "İTİKAFA DAİR BAZI MESELELER",
         slug: slugify("İTİKAFA DAİR BAZI MESELELER"),
         content: [
-          " 265- Belli bir mescidde, Mescid-i Haram’da itikâfa niyet eden kimse, başka bir mescidde itikâfa girebilir.",
+          "265- Belli bir mescidde, Mescid-i Haram’da itikâfa niyet eden kimse, başka bir mescidde itikâfa girebilir.",
 
           "266- Bir ay itikâf adansa ve bundan yalnız gecelere veya gündüzlere niyet edilse, bu niyet sahih olmaz. Çünkü ay, belli mikdardaki geceler ile gündüzlerden ibarettir. Onun için geceli ve gündüzlü bir ay itikâf gerekir.",
 
@@ -5890,7 +5890,7 @@ export default [
         title: "İTİKAFI BOZAN VE BOZMAYAN ŞEYLER",
         slug: slugify("İTİKAFI BOZAN VE BOZMAYAN ŞEYLER"),
         content: [
-          " 271-İtikâf halinde olan bir kimsenin dinî ve tabiî ihtiyaçları için zaruri olarak mescidden dışarı çıkması, itikâfı bozmaz.Örnek: İtikâfda bulunanın (mutekifin) cuma namazını kılmak için mescidden çıkması, din bakımından bir özür olduğundan itikâfına engel değildir. Zaten cuma namazının süresi bilinmiş olduğundan, adağın dışında kalmış olur.Yine, abdest ihtiyaçlarını gidermek ve gusletmek için çıkması da tabiî bir özür olduğundan itikâfa zarar vermez.Yine, bulunduğu mescidin yıkılmaya yüz tutması veya oradan zorla çıkarılması da zarurî bir özür olduğundan itikâfa zarar vermez.",
+          "271-İtikâf halinde olan bir kimsenin dinî ve tabiî ihtiyaçları için zaruri olarak mescidden dışarı çıkması, itikâfı bozmaz.Örnek: İtikâfda bulunanın (mutekifin) cuma namazını kılmak için mescidden çıkması, din bakımından bir özür olduğundan itikâfına engel değildir. Zaten cuma namazının süresi bilinmiş olduğundan, adağın dışında kalmış olur.Yine, abdest ihtiyaçlarını gidermek ve gusletmek için çıkması da tabiî bir özür olduğundan itikâfa zarar vermez.Yine, bulunduğu mescidin yıkılmaya yüz tutması veya oradan zorla çıkarılması da zarurî bir özür olduğundan itikâfa zarar vermez.",
 
           "(Şafiî’lere göre, cuma namazı için başka bir camiye çıkılıp gidilmesi itikâfı bozar. İtikâf bir hafta devam edecekse, cuma namazı kılınan bir mescidde itikâfa girmelidir.)",
 
@@ -5928,7 +5928,7 @@ export default [
         title: "ZEKATIN MAHİYETİ",
         slug: slugify("ZEKATIN MAHİYETİ"),
         content: [
-          " 1- Zekat lügat deyiminde temizlik, bereket, çoğalma, güzel övgü manalarını taşır. Din deyiminde ise; “Bir malın belli bir mikdarını, belli bir zaman sonra hak sahibi olan bir kısım müslümanlara Yüce Allah’ın rızası için tamamen temlik etmek (mülkiyetine geçirmek) tir.”",
+          "1- Zekat lügat deyiminde temizlik, bereket, çoğalma, güzel övgü manalarını taşır. Din deyiminde ise; “Bir malın belli bir mikdarını, belli bir zaman sonra hak sahibi olan bir kısım müslümanlara Yüce Allah’ın rızası için tamamen temlik etmek (mülkiyetine geçirmek) tir.”",
 
           "Zekat, kulların kulluk görevindeki sadakatlerine delalet eder. Bu yöndendir ki, zekata “sadaka”da denmiştir. Bununla beraber “sadaka” sözü, zekattan daha kapsamlı mana taşır. Vacibleri de, nafileleri de içine alır.Zekat vermeye, “Tezkiye”, zekat verene de “Müzekkî” denilir. Şahidler hakkında yapılan övgüye de “Tezkiye” dendiği bilinmektedir.",
 
@@ -5943,7 +5943,7 @@ export default [
         title: "ZEKATIN TEŞRİİ HİKMETİ",
         slug: slugify("ZEKATIN TEŞRİİ HİKMETİ"),
         content: [
-          " 4- Zekatın meşru olmasındaki hikmet pek önemlidir, herkese göre açık ve meydandadır da denilebilir. Bir hadis-i şerifde şöyle buyurulmuştur:",
+          "4- Zekatın meşru olmasındaki hikmet pek önemlidir, herkese göre açık ve meydandadır da denilebilir. Bir hadis-i şerifde şöyle buyurulmuştur:",
 
           "“Mallarınızı zekatla koruyunuz, hastalarınızı sadaka ile tedavi ediniz, bela dalgalarını da dua ve yalvarışla karşılayınız”",
 
@@ -5966,7 +5966,7 @@ export default [
         title: "ZEKATIN FARZ OLMASININ ŞARTLARI",
         slug: slugify("ZEKATIN FARZ OLMASININ ŞARTLARI"),
         content: [
-          " 9- Bir, kimseye zekat’ın farz olması için onda şu şartların bulunması gerekir:",
+          "9- Bir, kimseye zekat’ın farz olması için onda şu şartların bulunması gerekir:",
 
           "1) Zekat verecek kimse, müslüman, hür, akla sahib ve buluğ çağına ermiş olmalıdır. Buna göre, müslüman olmayanlar, köle ve cariyeler, mecnunlar ve çocuklar zekat vermekle yükümlü değillerdir. Gayri müslimler zekat vermekle mükellef değillerdir. Öyle ki, (Allah korusun), bir müslüman bir müddet hak dinden çıkıp ondan sonra tevbe ederek Allah’dan mağfiret dilese, dinden çıkış (irtidat) zamanında zekat vermek ona farz olmayacağı gibi, irtidatından daha önceki zamana ait zekat borçları da düşmüş olur. Çünkü zekatın farzıyetinde İslam şart olduğu gibi, bekasında da şarttır.",
 
@@ -6015,7 +6015,7 @@ export default [
         title: "ZEKATIN SIHHATİNİN ŞARTI",
         slug: slugify("ZEKATIN SIHHATİNİN ŞARTI"),
         content: [
-          " 11- Verilen bir zekatın sahih olabilmesi için, zekatı verirken veya onu ayırırken niyetin bulunması şarttır. Bu esastan şu meseleler doğar:",
+          "11- Verilen bir zekatın sahih olabilmesi için, zekatı verirken veya onu ayırırken niyetin bulunması şarttır. Bu esastan şu meseleler doğar:",
 
           "1) Zekatı fakire verirken veya zekat için bir mal ayırırken bunun zekat olduğunu kalb ile niyet etmek gerekir. Dil ile söylenmesi gerekmez. Öyle ki, bir malı fakire zekat niyeti ile verirken bunun bir bağış veya bir borç olarak verildiğini dil ile söylemek zekata engel değildir.",
 
@@ -6038,7 +6038,7 @@ export default [
         title: "ZEKATA BAĞLI OLAN MALLAR",
         slug: slugify("ZEKATA BAĞLI OLAN MALLAR"),
         content: [
-          " 12- Mallar, “Emval-ı batine – Emval-i zahire (kapalı ve açık mallar)” adı ile iki kısımdır. Nakid paralarla evlerde ve mağazalarda bulunan ticaret malları “emval-ı batine (kapalı mallar)”dır. Saime denilen (yılın çoğunu kırlarda otlayarak beslenen) hayvanlar ile bir kısım arazi gelirleri ve madenler, yer altındaki hazineler ve gümrüklere uğrayan ticaret malları “emval-ı zahire (açık mallar)” dendir. Bunların hepsi de belli bir ölçüde zekata bağlıdır.",
+          "12- Mallar, “Emval-ı batine – Emval-i zahire (kapalı ve açık mallar)” adı ile iki kısımdır. Nakid paralarla evlerde ve mağazalarda bulunan ticaret malları “emval-ı batine (kapalı mallar)”dır. Saime denilen (yılın çoğunu kırlarda otlayarak beslenen) hayvanlar ile bir kısım arazi gelirleri ve madenler, yer altındaki hazineler ve gümrüklere uğrayan ticaret malları “emval-ı zahire (açık mallar)” dendir. Bunların hepsi de belli bir ölçüde zekata bağlıdır.",
 
           "13- Batınî malların zekatını vermek, sahiblerinin din anlayışına bırakılmıştır. Bu zenginler, bu tür mallarının zekatını diledikleri fakirlere ve muhtaçlara verebilirler.Zahirî (açıkta olan) malların zekatlarını (vergilerini) belli ölçüler içinde devlet, özel memurlar aracılığı ile toplayarak belli yerlere harcar. Bu memurlara “Amil, Saî, Aşir” gibi adlar verilmiştir.",
 
@@ -6053,7 +6053,7 @@ export default [
         title: "ZEKATA BAĞLI OLMAYAN MALLAR",
         slug: slugify("ZEKATA BAĞLI OLMAYAN MALLAR"),
         content: [
-          " 15- Bir kimse, hem kendi ihtiyacını ve hem de geçimleri kendi üzerine olan kimselerin ihtiyaçlarını karşılayan ve temel ihtiyaçlar adını alan şeylerden zekat vermez. Oturulan evler, evlerin lüzumlu eşyaları, giyinip kuşanmaya ait elbiseler, silahlar, binek hayvanları, hizmet için kullanılan köle ve cariyeler bir aylık veya bir yıllık yiyecek ve içecek şeyler, ilim sahiblerinin birer cildden veya takımdan ibaret kitabları, sanatçıların birer takım aletleri temel ihtiyaçlardan sayılır. İşte bunlar nisab ölçüsüne girmezler.",
+          "15- Bir kimse, hem kendi ihtiyacını ve hem de geçimleri kendi üzerine olan kimselerin ihtiyaçlarını karşılayan ve temel ihtiyaçlar adını alan şeylerden zekat vermez. Oturulan evler, evlerin lüzumlu eşyaları, giyinip kuşanmaya ait elbiseler, silahlar, binek hayvanları, hizmet için kullanılan köle ve cariyeler bir aylık veya bir yıllık yiyecek ve içecek şeyler, ilim sahiblerinin birer cildden veya takımdan ibaret kitabları, sanatçıların birer takım aletleri temel ihtiyaçlardan sayılır. İşte bunlar nisab ölçüsüne girmezler.",
 
           "16- Ticaret için olmayan fazla miktardaki ev eşyasından kitablardan, sanat aletlerinden ve yine ihtiyaçtan fazla olan elbiselerden yenilecek ve içilecek şeylerden, altın ve gümüşten başka süs eşyalarından, yakut, zümrüt, inci ve elmas gibi ziynet eşyalarından da zekat vermek gerekmez. Çünkü bunlar (hakikaten veya hükmen) artıcı değillerdir. Ancak bunlar temel ihtiyaçlar dışında olup kıymetleri en az nisab miktarına ulaşınca, sahibleri zengin sayılır. Her ne kadar zekat vermekle yükümlü olmazlarsa da, kendileri zekat ve sadaka alamazlar ve bunlar üzerine fıtır sadakası ile kurban kesmek vacib olur.",
 
@@ -6114,7 +6114,7 @@ export default [
         title: "EHLİ HAYVANLARA AİT ZEKATLAR",
         slug: slugify("EHLİ HAYVANLARA AİT ZEKATLAR"),
         content: [
-          " 35- Ehli hayvanlar, koyun, keçi, sığır, manda, deve ve at olmak üzere altı cinstir. Bunlardan, senenin yarısından çoğunu kırlarda ve meralarda otlayıp geçinmek şartı ile sütlerini almak, üretmek ve semizletmek için beslenen hayvanlara “Saime” denir. Bunun çoğulu “Sevaim”dir.",
+          "35- Ehli hayvanlar, koyun, keçi, sığır, manda, deve ve at olmak üzere altı cinstir. Bunlardan, senenin yarısından çoğunu kırlarda ve meralarda otlayıp geçinmek şartı ile sütlerini almak, üretmek ve semizletmek için beslenen hayvanlara “Saime” denir. Bunun çoğulu “Sevaim”dir.",
 
           "Bu mer’alarda ve kırlarda altı ay ve daha az bir zaman otlayıp bu maksadlarla beslenen hayvanlar “Saime” sayılmadığından zekata bağlı değillerdir. Yine yalnız binilmek veya yük taşımak yahut kesilip, etleri alınmak için meralarda az çok bir müddet otlatılan hayvanlar da zekata tabi değildir. Ticaret için olan malların hükmü ise aşağıda yazılıdır.",
 
@@ -6163,7 +6163,7 @@ export default [
         title: "TİCARET MALLARININ ZEKATI",
         slug: slugify("TİCARET MALLARININ ZEKATI"),
         content: [
-          " 41- Her nevi ticaret malları zekata tabidir. Ticaret malları, uruz denilen mallardan ve kumaşlardan olabileceği gibi, buğday, arpa, pirinç benzeri ürünlerden ve demir, bakır, kalay gibi ağırlık eşyalarından, koyun, deve ve at gibi hayvanlardan, ev, dükkan ve han gibi gelir getiren mallardan da olabilir.",
+          "41- Her nevi ticaret malları zekata tabidir. Ticaret malları, uruz denilen mallardan ve kumaşlardan olabileceği gibi, buğday, arpa, pirinç benzeri ürünlerden ve demir, bakır, kalay gibi ağırlık eşyalarından, koyun, deve ve at gibi hayvanlardan, ev, dükkan ve han gibi gelir getiren mallardan da olabilir.",
 
           "Ticaret (alım-satım) için olan akarların kira bedelleri de ticaret malı sayılır. Bu ticaret için olan mülklerden alınan gelirlerde ticaret niyeti olması şart değildir.",
 
@@ -6204,7 +6204,7 @@ export default [
         title: "ALTIN İLE GÜMÜŞÜN ZEKATI",
         slug: slugify("ALTIN İLE GÜMÜŞÜN ZEKATI"),
         content: [
-          " 50- Altın ile gümüş ister külçe halinde olsun, ister darbedilmiş olsun, bunlar hangi maksadla bulundurulursa bulundurulsun, nisab mikdarına ulaşıp da üzerlerinden bir yıl geçerse, zekata tabi olurlar.Altının nisabı yirmi miskaldır. Gümüşün nisabı iki yüz dirhemdir. Bir miskal yirmi kırattır. Her kırat da beş arpa ağırlığıdır.",
+          "50- Altın ile gümüş ister külçe halinde olsun, ister darbedilmiş olsun, bunlar hangi maksadla bulundurulursa bulundurulsun, nisab mikdarına ulaşıp da üzerlerinden bir yıl geçerse, zekata tabi olurlar.Altının nisabı yirmi miskaldır. Gümüşün nisabı iki yüz dirhemdir. Bir miskal yirmi kırattır. Her kırat da beş arpa ağırlığıdır.",
 
           "Bir şer’î dirhem ise, on dört kırattır. Bu halde on şer’i dirhem, yedi miskal ağırlığına denktir.Bir de örfî dirhem vardır ki, on altı kırattır. O halde yirmi miskal yirmi beş örfî dirheme eşittir. İki yüz şer’i dirhem de yüz yetmiş beş örfî dirheme eşittir.",
 
@@ -6269,7 +6269,7 @@ export default [
         title: "KAĞIT PARALARLA BANKNOTLARIN ZEKATI",
         slug: slugify("KAĞIT PARALARLA BANKNOTLARIN ZEKATI"),
         content: [
-          " 62- Kaime ve evrak-ı nakdiye denilen kağıt paralar, istenilen zamanda bankaların nakde çevirdiği ve bedellerinin alınabildiği banknotlar nakid para hükmündedir. Çünkü bunların altın ve gümüş gibi piyasada kullanılması adet haline gelmiştir. Bunların karşılıkları gerçekten veya hükmen mevcut bulunmaktadır.",
+          "62- Kaime ve evrak-ı nakdiye denilen kağıt paralar, istenilen zamanda bankaların nakde çevirdiği ve bedellerinin alınabildiği banknotlar nakid para hükmündedir. Çünkü bunların altın ve gümüş gibi piyasada kullanılması adet haline gelmiştir. Bunların karşılıkları gerçekten veya hükmen mevcut bulunmaktadır.",
 
           "Bunlar hazır bir mal demektir ve bütün insanların servetini teşkil etmektedir. Bunlardan yeterince elde bulunduranlar fakir değil, zengin sayılmaktadır. Bunlar sadece bir alacak senedi yerinde değildir. Bunlardan hemen faydalanmak mümkündür. Bunlar birer geçerli para ve değişim vasıtası olarak kabul edilmiştir. Bunlar diğer paralar gibi istenilen zamanda harcanır ve değiştirilerek karşılığında yarar sağlanır.",
 
@@ -6286,7 +6286,7 @@ export default [
         title: "İSTENEN BORÇ PARALARIN ZEKATI",
         slug: slugify("İSTENEN BORÇ PARALARIN ZEKATI"),
         content: [
-          " 64- Başkalarının üzerinde olup deyn (borç) denilen ve nisab mikdarına ulaşmış bulunan paralar zekata tabi olup olmama bakımından şöyle üç kısımdır:",
+          "64- Başkalarının üzerinde olup deyn (borç) denilen ve nisab mikdarına ulaşmış bulunan paralar zekata tabi olup olmama bakımından şöyle üç kısımdır:",
 
           "1) Kuvvetli Alacak: Bunlar, borç olarak verilen paralar ile ticaret mallarının bedeli olan alacaklardır. Bu alacaklar, borçlular tarafından ikrar edilince, tahsil edildikleri zaman geçmiş senelere ait zekatları da verilmek gerekir. Şöyle ki:Bir kimsenin iki sene müddetle üzerinde olup ikrar ettiği on bin lira borcu, kendisinden tahsil edilince, geçen o iki yıla ait zekatı vermek gerekir.",
 
@@ -6307,7 +6307,7 @@ export default [
         title: "ARAZİ ÜRÜNLERİNİN ZEKATI",
         slug: slugify("ARAZİ ÜRÜNLERİNİN ZEKATI"),
         content: [
-          " 65- Arazi ürünlerinden devletçe alınacak mikdar, arazinin cinsine göre değişir. Bu mikdar, zekat, sadaka, haraç ve icar bedeli mahiyetinde olur. Şöyle ki: Bugün müslümanların ellerindeki arazi, başlıca şu dört kısma ayrılmıştır:",
+          "65- Arazi ürünlerinden devletçe alınacak mikdar, arazinin cinsine göre değişir. Bu mikdar, zekat, sadaka, haraç ve icar bedeli mahiyetinde olur. Şöyle ki: Bugün müslümanların ellerindeki arazi, başlıca şu dört kısma ayrılmıştır:",
 
           "1) Öşür Arazisi: Fethedilen bir memleketin halkı kendi rızaları ile müslüman olur da, ellerindeki arazi onların mülkiyetine geçirilirse veya bir memleket kuvvet gücü ile felhedilip arazileri İslam mücahidlerine mülkiyet üzere verilmiş olursa, bu gibi topraklar Öşür arazisidir. Arab yarımadası bu çeşit arazidir. Bu toprakların ürünlerinden onda bir veya yirmide bir nisbetinde “öşür” adı ile zekat alındığı için bunlara “Öşür Arazisi” denmiştir.",
 
@@ -6346,7 +6346,7 @@ export default [
         title: "MADENLERİN VE DEFİNELERİN ZEKATI",
         slug: slugify("MADENLERİN VE DEFİNELERİN ZEKATI"),
         content: [
-          " 76- Yerlerin altında yaratılmış veya saklanmış olarak bulunan mallara “Rikaz” denir. Yaratılmış olanlar madenlerdir. Saklanmış olan mallar da, definelerdir ki, bunlara “Kenz” de denir.",
+          "76- Yerlerin altında yaratılmış veya saklanmış olarak bulunan mallara “Rikaz” denir. Yaratılmış olanlar madenlerdir. Saklanmış olan mallar da, definelerdir ki, bunlara “Kenz” de denir.",
 
           "77- Madenler üç çeşittir.",
 
@@ -6373,7 +6373,7 @@ export default [
         title: "ZEKAT ÖDEME YOLLARI",
         slug: slugify("ZEKAT ÖDEME YOLLARI"),
         content: [
-          " 79- Zekata bağlı olan altın, gümüş, ekin, hayvanat ve ticaret mallarının zekatlarını bizzat kendilerinden (ayinlerinden) vermek caiz olduğu gibi, bunların kıymetlerini vermek de caizdir. Burada mal sahibleri serbesttir. Keffaretlerde, nezirlerde ve fitrelerde de hüküm böyledir. Çünkü İslam şeriatında mal sahiblerine kolaylık gösterilmesi gerekli olmuştur. Bu ibadetin vacib olmasındaki hikmet, fakirleri ihtiyaçtan kurtarmaktır. Bu hikmet ise, bu malların kıymetlerini vermekle de gerçekleşir.",
+          "79- Zekata bağlı olan altın, gümüş, ekin, hayvanat ve ticaret mallarının zekatlarını bizzat kendilerinden (ayinlerinden) vermek caiz olduğu gibi, bunların kıymetlerini vermek de caizdir. Burada mal sahibleri serbesttir. Keffaretlerde, nezirlerde ve fitrelerde de hüküm böyledir. Çünkü İslam şeriatında mal sahiblerine kolaylık gösterilmesi gerekli olmuştur. Bu ibadetin vacib olmasındaki hikmet, fakirleri ihtiyaçtan kurtarmaktır. Bu hikmet ise, bu malların kıymetlerini vermekle de gerçekleşir.",
 
           "Bundan dolayı bir kimse, altının zekatı için gümüş, zahire veya kumaş verebilir. Saime olan hayvanlar için veya ticaret maları için de, nakden para verilebilir. Ancak burada fakirler için daha faydalı olan yönü seçmek iyidir.(İmam Şafiî’ye göre, üzerlerine zekat gereken şeylerin aynen kendilerinden verilmesi lazım gelir. Kıymetleri verilmez.)",
 
@@ -6414,7 +6414,7 @@ export default [
         title: "ZEKATIN VERİLECEĞİ YERLER",
         slug: slugify("ZEKATIN VERİLECEĞİ YERLER"),
         content: [
-          " 93- Zekat verilecek kimseler, müslüman fakirler, miskinler, borçlular, yolcular, mükâtebler (sözleşmeli köleler), mücahidler ve amiller (zekat toplayıcıları) olmak üzere yedi kısımdır. Şöyle ki:",
+          "93- Zekat verilecek kimseler, müslüman fakirler, miskinler, borçlular, yolcular, mükâtebler (sözleşmeli köleler), mücahidler ve amiller (zekat toplayıcıları) olmak üzere yedi kısımdır. Şöyle ki:",
 
           "1) Fakir: İhtiyacından fazla olarak nisab mikdarı bir mala sahib olmayan kimsedir. Bu kimsenin temel ihtiyaçlardan olan evi, ev eşyası ve borcuna denk parası bulunsa da, yine fakir sayılır.",
 
@@ -6441,7 +6441,7 @@ export default [
         title: "KİMLERE ZEKAT VERİLİR, KİMLERE VERİLMEZ",
         slug: slugify("KİMLERE ZEKAT VERİLİR, KİMLERE VERİLMEZ"),
         content: [
-          " 97- Bir kimse, kendi zekatını fakir bulunan zevcesine, usulüna (babasına, dedesine, anasına ninesine…) ve füruuna (çocuklarına, çocuklarının çocuklarına…) veremez. İddet beklemekte olan boşanmış zevcesine de veremez. Çünkü buna vereceği zekatın yararı kısmen de olsa kendisine ait bulunmuş olur. Oysa bu yarar, tamamen kendisinden kesilmiş bulunmalıdır.İmamı Azam’a göre, bir kadın da zekatını, fakir bulunan kocasına veremez. Çünkü adete göre, aralarında bir menfaat ortaklığı vardır, iki İmama göre, kadın fakir olan kocasına zekatını verebilir.",
+          "97- Bir kimse, kendi zekatını fakir bulunan zevcesine, usulüna (babasına, dedesine, anasına ninesine…) ve füruuna (çocuklarına, çocuklarının çocuklarına…) veremez. İddet beklemekte olan boşanmış zevcesine de veremez. Çünkü buna vereceği zekatın yararı kısmen de olsa kendisine ait bulunmuş olur. Oysa bu yarar, tamamen kendisinden kesilmiş bulunmalıdır.İmamı Azam’a göre, bir kadın da zekatını, fakir bulunan kocasına veremez. Çünkü adete göre, aralarında bir menfaat ortaklığı vardır, iki İmama göre, kadın fakir olan kocasına zekatını verebilir.",
 
           "98- Temel ihtiyaçlarından başka nisab mikdarı bir mala sahib olana da zekat verilemez; çünkü bu kimse zengin sayılır, ihtiyaçtan fazla olarak elde bulunan malın ticaret eşyası, nakid para gibi artan bir mal yahut ev ve ev eşyası gibi artmayan bir mal olması fark etmez.Fakat zengin bir kimseye, nafile şeklinde olan bir sadakanın verilmesi caizdir. Bu yönü iledir ki, vakıfların sadaka kısmından sayılan gelirlerini vakfiye senedi gereğince, zengin kimselerin almaları da helal bulunmuştur. Bu bir bağış ve ikram yerindedir.",
 
@@ -6472,7 +6472,7 @@ export default [
         title: "FİTRE SADAKASI",
         slug: slugify("FİTRE SADAKASI"),
         content: [
-          " 109- Fitre sadakası, Ramazan ayının sonuna yetişen ve temel ihtiyaçlarından başka en az nisab mikdarı bir mala sahip bulunan her müslüman için verilmesi vacib olan bir sadakadır. Buna yalnız “Fitre”de denir. Fıtrat sadakası, sevab için verilen yaratılış ikramı demektir.",
+          "109- Fitre sadakası, Ramazan ayının sonuna yetişen ve temel ihtiyaçlarından başka en az nisab mikdarı bir mala sahip bulunan her müslüman için verilmesi vacib olan bir sadakadır. Buna yalnız “Fitre”de denir. Fıtrat sadakası, sevab için verilen yaratılış ikramı demektir.",
 
           "110- Fitre sadakasının vacib olması, zekatın farz kılınmasından öncedir. Orucun farz kılındığı yıla raslar. Bu bir yardımlaşmadır, orucun kabulüne ve can çekişme ile kabir azabından kurtuluşa bir yoldur. Yoksulların ihtiyaçlarını gidermeye, bayram gününün sevincine katılmalarına bir yardımdır. Bu yönü ile fitre sadakası, insanlık için bir hayır ve bir görevdir.",
 
@@ -6530,7 +6530,7 @@ export default [
         title: "HAC İLE UMRENİN MAHİYETLERİ",
         slug: slugify("HAC İLE UMRENİN MAHİYETLERİ"),
         content: [
-          " 1- Hac, lûgatta, saygı değer makamları ve diğer yerleri ziyaret kasdında bulunmaktır. Din deyiminde ise: “Arafat’da özel vaktinde bir mikdar durmaktan ve ondan sonra Kâbe-i Muazzama’yı usulü üzere tavaf ederek ziyaret yapmaktan ibarettir. Hac yapan kimseye Hâcc (Hacı) denir. Bunun çoğulu “Hüccac”dır.",
+          "1- Hac, lûgatta, saygı değer makamları ve diğer yerleri ziyaret kasdında bulunmaktır. Din deyiminde ise: “Arafat’da özel vaktinde bir mikdar durmaktan ve ondan sonra Kâbe-i Muazzama’yı usulü üzere tavaf ederek ziyaret yapmaktan ibarettir. Hac yapan kimseye Hâcc (Hacı) denir. Bunun çoğulu “Hüccac”dır.",
 
           "2- Umre, lûgatta ziyaret manasınadır. Din deyiminde: “Kâbe-i Muazzama’yı tavaftan ve Safa ile Merve denilen iki yer arasında sa’y etmekten (koşar gibi gidip gelmekten) ibarettir. Bunun için belli bir zaman yoktur. Senenin her mevsiminde yapılabilir. Yalnız Arefe günü ile Kurban bayramının dört gününde yapılması mekruhtur. Ramazan ayında yapılması mendubdur.",
 
@@ -6541,7 +6541,7 @@ export default [
         title: "HACCIN NEVİLERİ",
         slug: slugify("HACCIN NEVİLERİ"),
         content: [
-          " 4- Hac, farz, vacib ve nafile kısımlarına ayrıldığı gibi, ifrad hac, temettü hac ve kıran hac nevilerine de ayrılır. Şöyle ki:",
+          "4- Hac, farz, vacib ve nafile kısımlarına ayrıldığı gibi, ifrad hac, temettü hac ve kıran hac nevilerine de ayrılır. Şöyle ki:",
 
           "1) Farz hac, şartlarını kendisinde toplayan bir müslümanın ömründe bir defa yapmakla yükümlü olduğu hacdır.",
 
@@ -6562,7 +6562,7 @@ export default [
         title: "HACCIN RÜKÜNLERİ",
         slug: slugify("HACCIN RÜKÜNLERİ"),
         content: [
-          " 6- Haccın rükünleri, mahiyetini teşkil eden farzları ikidir. Biri, Arafat’da bir müddet beklemek, diğeri de Kâbe-i Muazzama’yi farz manada tavaf etmektir.",
+          "6- Haccın rükünleri, mahiyetini teşkil eden farzları ikidir. Biri, Arafat’da bir müddet beklemek, diğeri de Kâbe-i Muazzama’yi farz manada tavaf etmektir.",
 
           "7- Arafat, Mekke-i Mükerreme’nin güney doğusunda altı saat uzaklıkta bulunan bir yerdir. Hac yapacaklar için Arafat’da durmak zamanı, Zilhice ayının dokuzuna rastlayan Arefe gününün zeval vaktinden itibaren Kurban bayramı ilk gününün fecrinin doğuşuna kadar olan zamanın herhangi bir kısmıdır. Bu müddet içinde bir dakika dahi olsa, beklemekle bu farz yerine gelmiş olur. Bu Arafat’da uyanık bir halde durmakla uyumak veya baygın bulunmak halleri eşittir.",
 
@@ -6589,7 +6589,7 @@ export default [
         title: "TAVAFIN MAHİYETİ VE NEVİLERİ",
         slug: slugify("TAVAFIN MAHİYETİ VE NEVİLERİ"),
         content: [
-          " 13- Tavaf, lûgatta ziyaret etmek ve bir şeyin etrafında dolanmak manasıdır. Tavaf edene Taif ve tavaf edilen yere de Metaf denir.Din deyiminde tavaf, Kabe’nin etrafında yedi defa dönmekten ibarettir. Şöyle ki:",
+          "13- Tavaf, lûgatta ziyaret etmek ve bir şeyin etrafında dolanmak manasıdır. Tavaf edene Taif ve tavaf edilen yere de Metaf denir.Din deyiminde tavaf, Kabe’nin etrafında yedi defa dönmekten ibarettir. Şöyle ki:",
 
           "Kabe’nin güney tarafındaki bir köşesine Rükn-ü Hacer ve diğer köşesinde Rükn-ü Yemanî denir. Rükn-ü Hacer’de Hacer-i Esved denilen mübarek bir taş vardır ki, tavafa buradan başlanır. Beyt-i Muazzama sola alınarak Kabe’nin kapısına doğru gidilmek suretiyle Beyt’in çevresinde dolaşır. Böylece Hacer-i Esved’den başlayarak yapılan bir dolaşım yine orada tamamlanmış olur. Buna bir “şavt” denir. Aynı şekilde yedi defa yapılan şavt ile tavaf biter.",
 
@@ -6618,7 +6618,7 @@ export default [
         title: "HACCIN FARZ OLMASININ ŞARTLARI",
         slug: slugify("HACCIN FARZ OLMASININ ŞARTLARI"),
         content: [
-          " 18- Bir kimseye haccın farz olması için sekiz şart vardır. Şöyle ki:",
+          "18- Bir kimseye haccın farz olması için sekiz şart vardır. Şöyle ki:",
 
           "1) Müslüman olmalıdır. Gayri müslimler hac ile mükellef değildir. Buna göre bir gayri müslim hac yaptıktan sonra müslüman olsa, diğer şartlar bulununca yeniden hac etmesi gerekir.Yine, bir mü’min hac ettikten sonra -Allah korusun- dinden çıkıp da sonra tevbe ederek İslâmiyete dönünce, diğer şartlar bulununca tekrar hac etmesi gerekir.",
 
@@ -6649,7 +6649,7 @@ export default [
         title: "HACCIN YAPILMASINI GEREKTİREN ŞARTLAR",
         slug: slugify("HACCIN YAPILMASINI GEREKTİREN ŞARTLAR"),
         content: [
-          " 19- Haccın yerine getirilmesinin farz olmazı için beş şart vardır. Şöyle ki:",
+          "19- Haccın yerine getirilmesinin farz olmazı için beş şart vardır. Şöyle ki:",
 
           "1) Beden sağlıklı olmalıdır. Onun için hac görevini yerine getirebilmek için vücud sağlığına sahip olmayan kimseye hac farz olmaz. Kör ve kötürüm olanlar da böyledir.",
 
@@ -6670,7 +6670,7 @@ export default [
         title: "HACCIN SIHHATİNİN ŞARTLARI",
         slug: slugify("HACCIN SIHHATİNİN ŞARTLARI"),
         content: [
-          " 20- Hac görevinin sahih olarak yerine getirelebilmesi için şöylece dört şart vardır:",
+          "20- Hac görevinin sahih olarak yerine getirelebilmesi için şöylece dört şart vardır:",
 
           "1) İslâm olmak. Bu haccın farziyetinin şartı olduğu gibi, sıhhatinin da şartlıdır. Bir gayri müslim haccettikten sonra müslüman olsa dahi, önceden yapımış olduğu bu haccı sahih olmaz.",
 
@@ -6699,7 +6699,7 @@ export default [
         title: "MİKAT İLE İLGİLİ BİLGİLER",
         slug: slugify("MİKAT İLE İLGİLİ BİLGİLER"),
         content: [
-          " 25- Hac için afaktan (Mikat dışından) gelenler için ihrama girecekleri belli yerler vardır ki, bunlar beş yerdir. Bunların her birine “Mikat” denir. Çoğulu “Mevakıt” dır. Bunlar: “Zülhuleyfe, Zati Irk, Cuhfe, Karn, Yelemlem” denilen yerlerdir. Bu yerlere gelmeden önce ihrama girebilirler. Öyle ki, Süveyş yolu ile hacca gidenler “Rabiğ” hizasında ihrama girerler. Burası Şamlıların mikatı olan ve Mekke’ye üç merhale uzakta bulunan, bugün izi kalmamış “Cuhfe” kasabası yakınındadır.",
+          "25- Hac için afaktan (Mikat dışından) gelenler için ihrama girecekleri belli yerler vardır ki, bunlar beş yerdir. Bunların her birine “Mikat” denir. Çoğulu “Mevakıt” dır. Bunlar: “Zülhuleyfe, Zati Irk, Cuhfe, Karn, Yelemlem” denilen yerlerdir. Bu yerlere gelmeden önce ihrama girebilirler. Öyle ki, Süveyş yolu ile hacca gidenler “Rabiğ” hizasında ihrama girerler. Burası Şamlıların mikatı olan ve Mekke’ye üç merhale uzakta bulunan, bugün izi kalmamış “Cuhfe” kasabası yakınındadır.",
 
           "26- Bir hac yolcusu, ihramsız olarak mikatı geçerse, bakılır: Eğer henüz hac işlerini (menasikini) yapmaya başlamadan mikata dönerse, ihrama girerek telbiyede bulunur. Böylece kendisine bir ceza gerekmez. Fakat mikata dönmez de sonradan ihrama niyet ederse veya hac menasikinden birini yaptıktan sonra ihram için mikata dönerse, ceza olarak kurban (bir koyun kesmek) gerekir. Haccın kaçırılmasından korkulmazsa, mikata dönmek daha faziletlidir.",
 
@@ -6718,7 +6718,7 @@ export default [
           "HACCIN FARZİYETİNİN SEBEBİ VE EDASININ FEVRİ OLUP OLMADIĞI"
         ),
         content: [
-          " 30- Haccın farz olmasına sebeb Beytullah’ın (Kabe’nin) bulunmasıdır. Bu kutsal mabedi ziyaret için Yüce Allah’ın emri ile hac farz kılınmıştır. Bu sebeb tekerrür etmediği için haccın farziyeti de tekrarlanmaz. Mükellef olan kimsenin ömründe bir defa hac etmesiyle bu farz yerine getirilmiş olur. Öyle ki, akıl ve baliğ olan bir müslüman fakir iken yürüyerek hac etmiş olsa, sonradan zengin olmakla tekrar hac yapması gerekmez.",
+          "30- Haccın farz olmasına sebeb Beytullah’ın (Kabe’nin) bulunmasıdır. Bu kutsal mabedi ziyaret için Yüce Allah’ın emri ile hac farz kılınmıştır. Bu sebeb tekerrür etmediği için haccın farziyeti de tekrarlanmaz. Mükellef olan kimsenin ömründe bir defa hac etmesiyle bu farz yerine getirilmiş olur. Öyle ki, akıl ve baliğ olan bir müslüman fakir iken yürüyerek hac etmiş olsa, sonradan zengin olmakla tekrar hac yapması gerekmez.",
 
           "31- Hac, Hazret-i Peygamberin hicretlerinin dokuzunca yılında farz kılınmıştır. Bu sene Resûlüllah Efendimiz (sallallahu aleyhi ve sellem) tarafından Ebû Bekir Es-Sıddık (radıyallahu anh) Hac Emiri tayin buyurulmuştu. Hicretin onuncu yılında da Peygamber Efendimiz Mekke’ye yönelerek hac farizasını yerine getirmişlerdi.",
 
@@ -6731,7 +6731,7 @@ export default [
         title: "HACCIN FARZİYETİNDEKİ ŞER'İ HİKMETLER",
         slug: slugify("HACCIN FARZİYETİNDEKİ ŞER'İ HİKMETLER"),
         content: [
-          " 34- Bilindiği üzere hac, İslâmın beş önemli esasından biridir. “İslâm dini beş esas üzerine kurulmuştur,” hadis-i şerifi bunu bildirmektedir.",
+          "34- Bilindiği üzere hac, İslâmın beş önemli esasından biridir. “İslâm dini beş esas üzerine kurulmuştur,” hadis-i şerifi bunu bildirmektedir.",
 
           "Hac, şartlarını kendinde toplayan her müslüman için çok kutsal bir farzdır. Namaz ile oruç birer bedenî ibadettir. Zekât malî bir ibadettir. Hac ise hem bedenî, hem de malî bir ibadettir. Bu farz, hem bedende olan sıhhat ve selâmetin, hem de mal varlığının bir şükür görevi demektir.",
 
@@ -6752,7 +6752,7 @@ export default [
         title: "HACCIN VACİPLERİ",
         slug: slugify("HACCIN VACİPLERİ"),
         content: [
-          " 39- Haccın vacibleri şunlardır:",
+          "39- Haccın vacibleri şunlardır:",
 
           "1) İhrama mikat denilen yerlerden başlamak:Medine-i Münevvere tarafından hacca gidenler “Zül-Huleyfe”den, Irak, Horasan ve Maveraünnehr halkı “Zati Irak”dan, Şam, Mısır ve Mağrib halkı “Cuhfe” hizasındaki bir yerden (Rabiğ hizasından),Necidliler “Karn” dan,",
 
@@ -6811,7 +6811,7 @@ export default [
         title: "HACCIN SÜNNETLERİ",
         slug: slugify("HACCIN SÜNNETLERİ"),
         content: [
-          " 42- Farz haccın sünnetleri şunlardır:",
+          "42- Farz haccın sünnetleri şunlardır:",
 
           "1) İhrama girerken gusletmek veya abdest almak. Bu yıkanma, yalnız temizlik maksadı iledir. Bundan dolayı hac için ihrama girecek bir kadın adet görmekte veya lohusa ise, temizlik için yıkanması sünnettir.",
 
@@ -6882,7 +6882,7 @@ export default [
         title: "HACCIN EDEBLERİ",
         slug: slugify("HACCIN EDEBLERİ"),
         content: [
-          " 43- Hac yolculuğunda bulunacak kimselerin gözetecekleri bir kısım edebler vardır. Başlıcaları şunlardır:",
+          "43- Hac yolculuğunda bulunacak kimselerin gözetecekleri bir kısım edebler vardır. Başlıcaları şunlardır:",
 
           "1) Tam helâl bir mal ile hac etmelidir. Çünkü helâl olmayan bir mal ile hac yapılması haramdır.",
 
@@ -6913,7 +6913,7 @@ export default [
         title: "FARZ HAC ÜZERİNDE UYGULAMA",
         slug: slugify("FARZ HAC ÜZERİNDE UYGULAMA"),
         content: [
-          " 44- Hac görevini vacibleri, sünnetleri ve edebleri ile yapacak olan kimse, şu şekilde hareket eder:",
+          "44- Hac görevini vacibleri, sünnetleri ve edebleri ile yapacak olan kimse, şu şekilde hareket eder:",
 
           "1) Helâl ve temiz bir mal elde eder. Ödenmesi gerekli borçları varsa, onları öder. Kazaya kalmış ibadetleri varsa, mümkün olduğu kadar onları kaza eder. Günahlarından tevbe eder ve Allah’dan mağfiret diler. Kendisini kötü söz ve hareketlerden korur. Güzel ahlâklı olmaya çalışır. Tevazu hali içinde bulunur. Yola çıkacağı zaman evinde iki rekât namaz kılar. “Bismillahi tevekkeltü alellahi lâ havle ve lâ kuvvete illâ billâh” diyerek Allah’a sığınır. Ailesi, komşusu ve dostları ile vedalaşarak yola çıkar.",
 
@@ -6962,7 +6962,7 @@ export default [
         title: "UMRENİN YAPILIŞ ŞEKLİ",
         slug: slugify("UMRENİN YAPILIŞ ŞEKLİ"),
         content: [
-          " 45- Yukarıdaki uygulama,yalnız “İfrad Hac” hakkındadır. Sadece Umre yapmak isteyen kimse şu şekilde hareket eder:",
+          "45- Yukarıdaki uygulama,yalnız “İfrad Hac” hakkındadır. Sadece Umre yapmak isteyen kimse şu şekilde hareket eder:",
 
           "1) Umre haccı yapacak olan zat, afakî (mikât dışından) olduğuna göre, mikat yerinde ihrama girer. Mekke halkından ise, Harem Bölgesi dışından ihrama girer. Daha önce açıklandığı gibi elbisesini çıkarır ve iki parçadan ibaret dikişsiz ve beyaz örtüleri takınır.",
 
@@ -6981,7 +6981,7 @@ export default [
         title: "TEMETTÜ HACCININ YAPILIŞ ŞEKLİ",
         slug: slugify("TEMETTÜ HACCININ YAPILIŞ ŞEKLİ"),
         content: [
-          " 46- Daha önce yazıldığı gibi Temettü Haccı, farz olan hac ile Umre’yi ayrı ayrı iki ihram ile toplayıp hac mevsiminde yapmaktır. Mikat dışından (uzaktan) gelen hacılar, ihramda fazla kalmamak için daha çok bu nevi hac etmeyi tercih ederler. Şöyle ki:",
+          "46- Daha önce yazıldığı gibi Temettü Haccı, farz olan hac ile Umre’yi ayrı ayrı iki ihram ile toplayıp hac mevsiminde yapmaktır. Mikat dışından (uzaktan) gelen hacılar, ihramda fazla kalmamak için daha çok bu nevi hac etmeyi tercih ederler. Şöyle ki:",
 
           "1) Bir afakî (mikat dışından gelen kimse) ihrama başladığı zaman: “Ya Rabbi! Ben umre yapmak istiyorum, bu umreyi bana kolaylaştır ve onu benden kabul buyur,” diye umreye niyet ederek telbiyede bulunur, iki rekât namaz kılar. Diğer işleri de yerine getirir.",
 
@@ -7000,7 +7000,7 @@ export default [
         title: "KIRAN HAC NASIL YAPILIR",
         slug: slugify("KIRAN HAC NASIL YAPILIR"),
         content: [
-          " 47- Bilindiği gibi, Kıran Hac, farz olan hac ile Umre’nin ihramını birlikte yapmaktır, Şöyle ki:",
+          "47- Bilindiği gibi, Kıran Hac, farz olan hac ile Umre’nin ihramını birlikte yapmaktır, Şöyle ki:",
 
           "1) Kıran hac yapacak olan kimse, mikatta veya mikat yerinden önce hac ile Umre’ye birlikte niyet eder. Yine iki rekât namaz kılar. Sonra: “Ey Allah’ım! Ben hac ve umre yapmayı istiyorum. Bunları bana kolaylaştır ve benden bunları kabul buyur,” diye dua eder ve Telbiyede bulunur. İhrama girmiş olan kimseye yasak olan şeyler aynen buna da yasaktır. Bunları gözetmeye çalışır.",
 
@@ -7013,7 +7013,7 @@ export default [
         title: "HEDY'İN MAHİYETİ VE HÜKÜMLERİ",
         slug: slugify("HEDY'İN MAHİYETİ VE HÜKÜMLERİ"),
         content: [
-          " 48- Yüce Allah’ın rahmetine yaklaşmak veya işlenen bir cinayete keffaret olmak için Harem bölgesinde kesilmek üzere götürülen veya kendisi veya parası gönderilen kurbana “Hedy” denir. Bu da en az bir yaşındaki koyun ile altı ayını doldurup bir yaşındaki koyun gibi görünen tokludur. Beş yaşını tamamlamış deve ile iki yaşını doldurmuş sığır da olabilir. Bunların erkekleri ile dişileri birdir. Kurbanlık hayvanlarda aranan vasıflar, aynen bunlarda da gereklidir.Koyun cinsinden olan kurbana “Dem”, deve ve sığır cinsinden olana da “Bedene” denir. Hedyin en iyisi bedenedir.",
+          "48- Yüce Allah’ın rahmetine yaklaşmak veya işlenen bir cinayete keffaret olmak için Harem bölgesinde kesilmek üzere götürülen veya kendisi veya parası gönderilen kurbana “Hedy” denir. Bu da en az bir yaşındaki koyun ile altı ayını doldurup bir yaşındaki koyun gibi görünen tokludur. Beş yaşını tamamlamış deve ile iki yaşını doldurmuş sığır da olabilir. Bunların erkekleri ile dişileri birdir. Kurbanlık hayvanlarda aranan vasıflar, aynen bunlarda da gereklidir.Koyun cinsinden olan kurbana “Dem”, deve ve sığır cinsinden olana da “Bedene” denir. Hedyin en iyisi bedenedir.",
 
           "49- Bir hayvanın hedy olması ya açık şekildedir veya delâlet şekli iledir. Meselâ: “Hedy için” denilerek satın alınıp Mekkeye gönderilen bir koyun açık bir şekilde hedy olmuş olur. Hedy olmasına kalben niyet edilen bir koyun veya hedy olmasına niyet edilmeksizin Harem bölgesine kesilmek üzere gönderilen bir koyun veya deve, delâlet sureti ile hedy olmuş olur.",
 
@@ -7040,7 +7040,7 @@ export default [
         title: "HAC VE UMRE İLE İLGİLİ YASAKLAR",
         slug: slugify("HAC VE UMRE İLE İLGİLİ YASAKLAR"),
         content: [
-          " 59- Hac veya Umre için ihrama girmiş olanların din yönünden yapmaları yasak olan şeylere “Cinayetü’l-Hac = Hac Yasakları” denir. Burada kasıd, yanılma, hataya düşme ve unutma birdir.(Şafiîlerce hata ve unutma cezası bağışlanmıştır.)",
+          "59- Hac veya Umre için ihrama girmiş olanların din yönünden yapmaları yasak olan şeylere “Cinayetü’l-Hac = Hac Yasakları” denir. Burada kasıd, yanılma, hataya düşme ve unutma birdir.(Şafiîlerce hata ve unutma cezası bağışlanmıştır.)",
 
           "60- Hac ve Umre’ye ait yasaklar (cinayetler) şu beş kısma ayrılır:",
 
@@ -7081,7 +7081,7 @@ export default [
         title: "HAC İLE UMRENİN YASAKLARINA DAİR ÇEŞİTLİ MESELELER",
         slug: slugify("HAC İLE UMRENİN YASAKLARINA DAİR ÇEŞİTLİ MESELELER"),
         content: [
-          " 61- Bir hayvan ayağını kırmak, bir kuşun kanadını kırıp onu uçamaz hale getirmek, bir kuşun yumurtasını kırmak, ihramda olan kimse için, o hayvanı veya kuşu öldürmek hükmündedir.",
+          "61- Bir hayvan ayağını kırmak, bir kuşun kanadını kırıp onu uçamaz hale getirmek, bir kuşun yumurtasını kırmak, ihramda olan kimse için, o hayvanı veya kuşu öldürmek hükmündedir.",
 
           "62- Bir hayvanın tüylerini ve kıllarını kesmek veya kaçıp kurtulmasına engel olmayacak bir şekilde bir uzvunu (organını) kesip kırmak da, onun kıymetine getireceği noksanlık mikdarını sadaka vermeyi gerektirir. Eğer bu şekilde hayvanın yaralanması sonunda hayvan iyileşirse, ceza vermek gerekmez.",
 
@@ -7130,7 +7130,7 @@ export default [
         title: "BEDEL (VEKALET) YOLU İLE HAC",
         slug: slugify("BEDEL (VEKALET) YOLU İLE HAC"),
         content: [
-          " 81- Hac için bir bedel tutmaya, “İhcac” denir. Böyle kendi yerine başkasını gönderen kimseye de, “Âmir”; “Menûb, Mahcücün anh” denir.Bir kimse, hac etmeğe gücü bulunsun veya bulunmasın, nafile olarak kendi yerine müslüman olan ve aklı yerinde bulunan birini naib tayin edebilir. Naib olan zat, o kimsenin tayin ettiği yerden gider ve onun adına niyet ederek hac yapar.",
+          "81- Hac için bir bedel tutmaya, “İhcac” denir. Böyle kendi yerine başkasını gönderen kimseye de, “Âmir”; “Menûb, Mahcücün anh” denir.Bir kimse, hac etmeğe gücü bulunsun veya bulunmasın, nafile olarak kendi yerine müslüman olan ve aklı yerinde bulunan birini naib tayin edebilir. Naib olan zat, o kimsenin tayin ettiği yerden gider ve onun adına niyet ederek hac yapar.",
 
           "82- Kendi adına nafile hac için bedel gönderen zat, bu haccın sevabını kazanır. Çünkü bu iş, Allah rızası için Hak yolunda mal harcamak demektir. Böyle bir harcama, bizzat olabileceği gibi, niyabet suretiyle de olabilir.",
 
@@ -7195,7 +7195,7 @@ export default [
           "HAC KONUSUNDA NİYABET, VASİYET VE ADAKLA İLGİLİ BAZI MESELELER"
         ),
         content: [
-          " 85- Hac için bedel olacak şahsın, daha önce kendi adına hac etmiş bulunması, İmam Şafiî’ye göre şart ise de, biz Hanefî’lerce şart değildir.",
+          "85- Hac için bedel olacak şahsın, daha önce kendi adına hac etmiş bulunması, İmam Şafiî’ye göre şart ise de, biz Hanefî’lerce şart değildir.",
 
           "Bu iki ayrı görüşten kurtulmak için, daha önce kendi adına hac etmiş bulunan ve hac işlerini bilen bir kimseyi bedel göndermek daha faziletlidir. Bununla beraber efendilerinin izni ile köleler, yanlarında mahremleri bulunmak şartı ile kocalarının izinleri ile zevceler bedel olarak hacca gidebilirler. Ancak kadınların niyabeten (bedel olarak) hacca gitmeleri mekruhtur. Çünkü onların hacları, erkeklere kıyasla noksandır. Telbiyelerde seslerini yükseltemezler, Remel ve Hervele gibi bazı hac işlerini yapamazlar.",
 
@@ -7238,7 +7238,7 @@ export default [
         title: "İHSARLA İLGİLİ MESELELER",
         slug: slugify("İHSARLA İLGİLİ MESELELER"),
         content: [
-          " 103- İhsar, lûgatta, bir kimseyi istediği yere ulaşmaktan alıkoymak ve hapsetmek manasınadır. Din deyiminde: “Hac için ihrama girmiş bir kimsenin, Arafat’da vakfe ile Ziyaret tavafından alıkonması, Umre için ihrama girmiş olanın da tavafdan engellenmesi” demektir. Bu şekilde engellenen kimseye “Muhsar” denir.Hac yolunda bulunan kadının kocası veya mahremi ölürse, o kadın “muhsar” sayılır.",
+          "103- İhsar, lûgatta, bir kimseyi istediği yere ulaşmaktan alıkoymak ve hapsetmek manasınadır. Din deyiminde: “Hac için ihrama girmiş bir kimsenin, Arafat’da vakfe ile Ziyaret tavafından alıkonması, Umre için ihrama girmiş olanın da tavafdan engellenmesi” demektir. Bu şekilde engellenen kimseye “Muhsar” denir.Hac yolunda bulunan kadının kocası veya mahremi ölürse, o kadın “muhsar” sayılır.",
 
           "104- İhsar, bir nevi zorunlu cinayet sayılır. Onun için bundan dolayı kurban kesilmesi ve bu şekilde ihramdan çıkılması gerekir. Bu kurbana “İhsar demi” denir.Örnek: İhrama girmiş olan kimse, bir hastalıktan veya düşmandan veya parasının tükenmesinden dolayı haccını yerine getiremezse, Harem bölgesinde kesilmek üzere Mekke’ye bir koyun veya onun parasını gönderir. Bunun kesileceği saat arkasından ihramdan çıkmış olur.",
 
@@ -7269,7 +7269,7 @@ export default [
         title: "RESULULLAH EFENDİMİZİN KABRİNİ ZİYARET",
         slug: slugify("RESULULLAH EFENDİMİZİN KABRİNİ ZİYARET"),
         content: [
-          " 116- Hac yolculuğunda bulunanların Medine-i Münevvere’ye giderek Resûlullah (sallallahu aleyhi ve sellem) Efendimizin Mescid-i Şeriflerini ve Kabr-i Saadetlerini ziyaret etmeleri pek önemli bir görevdir.Bazı alimlerin açıklamalarına göre, önce hac görevini yerine getirmeli ve bu sebeble Yüce Allah’ın bağışlaması ile günahlardan arınmalı da ondan sonra Hazret-i Peygamberin ziyaretine gitmelidir. Bununla beraber Hac yapmadan önce Medine-i Münevvere’ye gidilebilir.",
+          "116- Hac yolculuğunda bulunanların Medine-i Münevvere’ye giderek Resûlullah (sallallahu aleyhi ve sellem) Efendimizin Mescid-i Şeriflerini ve Kabr-i Saadetlerini ziyaret etmeleri pek önemli bir görevdir.Bazı alimlerin açıklamalarına göre, önce hac görevini yerine getirmeli ve bu sebeble Yüce Allah’ın bağışlaması ile günahlardan arınmalı da ondan sonra Hazret-i Peygamberin ziyaretine gitmelidir. Bununla beraber Hac yapmadan önce Medine-i Münevvere’ye gidilebilir.",
 
           "117- Şam yolcuları gibi, Mekke’ye gitmek üzere yolları Medine-i Münevvere’ye uğrayanlar için önce Peygamber Efendimizi ziyaret etmek bir görevdir. Allah’ın rahmetine kavuşmaya bir vesiledir. Bunu bir an önce yapmamak bir gevşeklik sayılır. Bu ziyaret, namazların evvellerinde olan sünnetlere benzer. Bu durumda hac ve umre için ihram sonraya bırakılmış olur. Mekke’ye gidileceği zaman, Medine’liler gibi Zülhuleyfe’den ihrama girilir. Medine halkının Mikat’ı Zülhuleyfe’dir.",
 
@@ -7317,7 +7317,7 @@ export default [
         title: "KURBANIN MAHİYETİ, VÜCUBU VE ŞER'İ HİKMETİ",
         slug: slugify("KURBANIN MAHİYETİ, VÜCUBU VE ŞER'İ HİKMETİ"),
         content: [
-          " 1- Kurban Yüce Allah’ın rahmetine yaklaşmak için ibadet niyeti ile kesilen özel hayvandır. Kurban bayramı günlerinde (ilk üç günde) böyle Allah rızası için kesilen kurbana (Udhiyye), bunu kesmeğe de “tazhiye” denilir.",
+          "1- Kurban Yüce Allah’ın rahmetine yaklaşmak için ibadet niyeti ile kesilen özel hayvandır. Kurban bayramı günlerinde (ilk üç günde) böyle Allah rızası için kesilen kurbana (Udhiyye), bunu kesmeğe de “tazhiye” denilir.",
 
           "2- Kurban Bayramında ibadet niyeti ile kurban kesmek, hür, mukîm (yolcu olmayan), müslim ve zengin kimseye vacibdir. Zenginden maksad, temel ihtiyaçlarından başka, artıcı olsun olmasın, en az iki yüz dirhem gümüş değerinde bir mala sahib olan, fitre vermekle yükümlü olan kimselerdir. (Zekat bölümüne bakılsın!..)Kurban kesme günlerinde (kurban bayramının ilk üç gününde) kurban kesmeğe gücü varken kurban kesmeyip de sonra fakir düşse, buradaki vücub üzerinden düşmüş olmaz.",
 
@@ -7336,7 +7336,7 @@ export default [
         title: "KURBANIN CİNSİ VE KUSURLU OLUP OLMAMASI",
         slug: slugify("KURBANIN CİNSİ VE KUSURLU OLUP OLMAMASI"),
         content: [
-          " 6- Kurbanlar yalnız koyun, keçi, deve ve sığır cinsi hayvanlardan kesilebilir. Mandalar da sığır cinsindendir. Bunların erkekleri ile dişileri eşittir. Ancak koyun cinsinin erkeğini kurban etmek daha faziletlidir. Keçinin erkeği ile dişisi kıymetçe eşit olsalar, dişisini kesmek daha faziletli olur. Aynı şekilde devenin veya sığırın erkeği ile dişisi et ve kıymet bakımından eşit olsalar, dişisinin kurban edilmesi daha faziletlidir.",
+          "6- Kurbanlar yalnız koyun, keçi, deve ve sığır cinsi hayvanlardan kesilebilir. Mandalar da sığır cinsindendir. Bunların erkekleri ile dişileri eşittir. Ancak koyun cinsinin erkeğini kurban etmek daha faziletlidir. Keçinin erkeği ile dişisi kıymetçe eşit olsalar, dişisini kesmek daha faziletli olur. Aynı şekilde devenin veya sığırın erkeği ile dişisi et ve kıymet bakımından eşit olsalar, dişisinin kurban edilmesi daha faziletlidir.",
 
           "7- Koyun ile keçi ya birer yaşını doldurmalı veya koyunlar yedi sekiz aylık olduğu halde birer yaşında imiş gibi gösterişli bulunmalıdır.Deve, en az beş yaşını, sığır da en az iki yaşını bitirmiş bulunmalıdır.",
 
@@ -7369,7 +7369,7 @@ export default [
         title: "KURBANIN KESİLME VAKTİ",
         slug: slugify("KURBANIN KESİLME VAKTİ"),
         content: [
-          " 20- Kurbanın kesilme zamanı nahr (Bayramın birinci, ikinci ve üçüncü) günleridir. Fakat birinci günde kesilmesi daha faziletlidir.",
+          "20- Kurbanın kesilme zamanı nahr (Bayramın birinci, ikinci ve üçüncü) günleridir. Fakat birinci günde kesilmesi daha faziletlidir.",
 
           "21- Kurbanlar, bayram namazı kılınan şehir gibi yerlerde, bayram namazı kılındıktan sonra bayram namazı kılınmayan yerlerde ise bayram gününün fecrinden sonra kesilir. İlk vakti budur. Kurbanı geceleyin kesmek tenzihen mekruhtur.(İmam Şafiî’ye göre, kurbanlar bayramın dördüncü günü güneş batıncaya kadar kesilebilir.)",
 
@@ -7388,7 +7388,7 @@ export default [
         title: "KURBAN ETİ VE DERİSİ ÜZERİNDE YAPILACAK ŞEYLER",
         slug: slugify("KURBAN ETİ VE DERİSİ ÜZERİNDE YAPILACAK ŞEYLER"),
         content: [
-          " 27- Adak olarak kesilmeyen kurbanın etinden sahibi zengin olsun olmasın, yiyebileceği gibi fakir olmayanlara da yedirip dağıtabilir. Fetva bu şekildedir. Bununla beraber üçte birini fakirlere sadaka olarak vermelidir. Eğer kurban sahibi orta halli olur da, geçimlerini karşılamak zorunda olduğu kimseler kalabalık ise, o halde kurbanın etini onların yemeleri için alıkoyabilir, bu mendubdur.",
+          "27- Adak olarak kesilmeyen kurbanın etinden sahibi zengin olsun olmasın, yiyebileceği gibi fakir olmayanlara da yedirip dağıtabilir. Fetva bu şekildedir. Bununla beraber üçte birini fakirlere sadaka olarak vermelidir. Eğer kurban sahibi orta halli olur da, geçimlerini karşılamak zorunda olduğu kimseler kalabalık ise, o halde kurbanın etini onların yemeleri için alıkoyabilir, bu mendubdur.",
 
           "Diğer bir görüşe göre, kurban bayramında kesmek üzere bir fakirin satın aldığı kurbandan kendisi yiyemez. Çünkü kendisine kurban vacib olmadığı halde böyle kurbanlık alıp kesmesi, bir adak sayılır. Adak yapan kimse ise, kendi adağından yiyemez. Onun etini zevcesine, usul ve furüuna ve zengin kimselere yediremez. Bunlara yedirirse, yedirdiğinin kıymetini fakirlere vermesi gerekir.",
 
@@ -7415,7 +7415,7 @@ export default [
         title: "AKİKA KURBANI",
         slug: slugify("AKİKA KURBANI"),
         content: [
-          " 37- Yeni doğan çocuğun başındaki tüyüne (Akîka) denir. Böyle bir çocuk için Cenab-ı Hakk’a şükür yerine geçmek üzere kesilen kurbana da “Akîka” adı verilmiştir. Bunun müslümanlarca asıl adı “Nesîke”dir.Akîka, bizce mubah ve güzeldir. Üç İmama göre ise sünnettir. Zahiriyye meshebinde vaciptir.",
+          "37- Yeni doğan çocuğun başındaki tüyüne (Akîka) denir. Böyle bir çocuk için Cenab-ı Hakk’a şükür yerine geçmek üzere kesilen kurbana da “Akîka” adı verilmiştir. Bunun müslümanlarca asıl adı “Nesîke”dir.Akîka, bizce mubah ve güzeldir. Üç İmama göre ise sünnettir. Zahiriyye meshebinde vaciptir.",
 
           "38- Akîka kurbanı, çocuğun doğduğu günden büluğ çağına erinceye kadar kesilebilir. Fakat yedinci günü kesilmesi daha faziletlidir. Çocuğun yedinci doğum günü adı konulur ve başının saçları kesilip ağırlığınca altın veya gümüş sadaka verilir. Aynı günde bu kurban kesilir; çünkü böyle yapılması üç İmama göre müstahabdır.",
 
@@ -7428,7 +7428,7 @@ export default [
         title: "ZEHB, ZEBİHA VE TEZKİYENİN MAHİYETLERİ",
         slug: slugify("ZEHB, ZEBİHA VE TEZKİYENİN MAHİYETLERİ"),
         content: [
-          " 41- Zebh, hayvanın boğazına bıçak vurup boğazlamak ve damarlarını kesmek demektir. Boğazlanmış veya boğazlanacak hayvana da “Zebiha” denir.Tezkiye de, boğazlamak anlamında olup dinimizde iki türlüdür:Birisi hakîki ve ihtiyarî tezkiyedir. Bu da bir hayvanı usulü üzere keskin bir aletle boğazlamaktır. Diğeri de, hükmî ıztırarî tezkiyedir. Bu da, bir avın aldığı yaradan ibarettir. Bir av, şartlarına uygun olarak bu yaradan ölürse, boğazlanmış sayılır.",
+          "41- Zebh, hayvanın boğazına bıçak vurup boğazlamak ve damarlarını kesmek demektir. Boğazlanmış veya boğazlanacak hayvana da “Zebiha” denir.Tezkiye de, boğazlamak anlamında olup dinimizde iki türlüdür:Birisi hakîki ve ihtiyarî tezkiyedir. Bu da bir hayvanı usulü üzere keskin bir aletle boğazlamaktır. Diğeri de, hükmî ıztırarî tezkiyedir. Bu da, bir avın aldığı yaradan ibarettir. Bir av, şartlarına uygun olarak bu yaradan ölürse, boğazlanmış sayılır.",
 
           "42- Bir hayvanın göğsü üstünden bıçak vurup damarlarını kesmeye “Nahr” denir. Deveyi, zebh etmek (çenesinin altından kesmek) mekruhtur.Zebh (Boğazlama) İşlemi",
 
@@ -7445,7 +7445,7 @@ export default [
         title: "ETLERİ YENEN VE YENMEYEN HAYVANLAR",
         slug: slugify("ETLERİ YENEN VE YENMEYEN HAYVANLAR"),
         content: [
-          " 47- Yaratılışında vahşet ve bayağılık olmayan, iğrenç görülmeyen hayvanların etleri din ölçüleri içinde helaldir, yenebilir. Tavuk kaz, ördek, zürafa, deve kuşu, bağırtlan kuşu, güvercin, bıldırcın, koyun keçi, deve, sığır, manda, ekin kargası, tavus, kırlangıç, baykuş, tavşan ve turna gibi hayvanlar bu kısım eti yenen hayvanlardandır. Serçe ve sığırcık kuşlarını yemekte de bir sakınca yoktur.Yarasa kuşunun yenip yenmemesinde, haram veya mekruh olup olmamasında ihtilaf vardır. Hüdhüd kuşunu yemek mekruhtur.Saksağan, kumru, bülbül, keklik kuşlarının eti aslen helaldir. Ancak bunların etlerini yiyenlerin bir belaya tutulacakları halk arasında söylenti haline geldiği için yenmeleri iyi değildir.(Şafiîlere göre, kırlangıç, tavus, hüdhüd ve papağan kuşlarının etleri haramdır. Martı ve balıkçıl kuşları ise helaldir.)",
+          "47- Yaratılışında vahşet ve bayağılık olmayan, iğrenç görülmeyen hayvanların etleri din ölçüleri içinde helaldir, yenebilir. Tavuk kaz, ördek, zürafa, deve kuşu, bağırtlan kuşu, güvercin, bıldırcın, koyun keçi, deve, sığır, manda, ekin kargası, tavus, kırlangıç, baykuş, tavşan ve turna gibi hayvanlar bu kısım eti yenen hayvanlardandır. Serçe ve sığırcık kuşlarını yemekte de bir sakınca yoktur.Yarasa kuşunun yenip yenmemesinde, haram veya mekruh olup olmamasında ihtilaf vardır. Hüdhüd kuşunu yemek mekruhtur.Saksağan, kumru, bülbül, keklik kuşlarının eti aslen helaldir. Ancak bunların etlerini yiyenlerin bir belaya tutulacakları halk arasında söylenti haline geldiği için yenmeleri iyi değildir.(Şafiîlere göre, kırlangıç, tavus, hüdhüd ve papağan kuşlarının etleri haramdır. Martı ve balıkçıl kuşları ise helaldir.)",
 
           "48- Azı dişleri ile kapıp avlayan ve parçalayan, kendisini koruyan hayvanların etleri haramdır, yenilemez. Kurt, ayı, aslan, kaplan, pars, sincap, samur, sansar, maymun, sırtlan, fil, köpek, kedi, keler, tilki, gelincik gibi hayvanlar etleri haram hayvanlardır. Azı dişleri olduğu halde bunlarla başkasına saldırmayan bir hayvanın eti de yenebilir; deve gibi…",
 
@@ -7488,7 +7488,7 @@ export default [
           "KİMLERİN BOĞAZLAYACAĞI HAYVANLARIN ETİ YENİR VEYA YENMEZ"
         ),
         content: [
-          " 65- Müslümanların ve kitab ehli olan Yahudî ve Hıristiyanların, kadın dahi olsalar, Besmele ile (Allah’ın adını anarak) boğazlayacak oldukları hayvanların, eti yenen hayvanlar olmak şartıyle etleri yenir. Besmele tam kesim anında olacaktır, bu şarttır. Kesim anında bir şey yemek suretiyle veya başkası ile konuşmakla önceki besmeleye ara verilerek meclis değişirse, bu yeterli olmaz. Yeniden Besmele getirmek gerekir.Müslüman veya kitab ehlinden olan ve Bismillah demeye gücü yeten bir çocuğun veya delinin, dilsizin, sünnetsizin ve sarhoşun Besmeleyle kesecekleri bu tür hayvanların etleri de yenebilir.",
+          "65- Müslümanların ve kitab ehli olan Yahudî ve Hıristiyanların, kadın dahi olsalar, Besmele ile (Allah’ın adını anarak) boğazlayacak oldukları hayvanların, eti yenen hayvanlar olmak şartıyle etleri yenir. Besmele tam kesim anında olacaktır, bu şarttır. Kesim anında bir şey yemek suretiyle veya başkası ile konuşmakla önceki besmeleye ara verilerek meclis değişirse, bu yeterli olmaz. Yeniden Besmele getirmek gerekir.Müslüman veya kitab ehlinden olan ve Bismillah demeye gücü yeten bir çocuğun veya delinin, dilsizin, sünnetsizin ve sarhoşun Besmeleyle kesecekleri bu tür hayvanların etleri de yenebilir.",
 
           "66- Besmelenin unutularak terk edilmiş olması zarar vermez. Hatta kitab ehlinin Besmele deyip demedikleri bilinmediği takdirde de kestikleri eti yenen hayvanlar helal olur. Çoğunluğun görüşü budur.",
 
@@ -7499,7 +7499,7 @@ export default [
         title: "MEYTENİN MAHİYETİ VE HÜKMÜ",
         slug: slugify("MEYTENİN MAHİYETİ VE HÜKMÜ"),
         content: [
-          " 68- Kendi başına ölmüş olan herhangi bir hayvana Meyte (Leş) denir. Böyle bir hayvan temiz değildir, yenmez. Boğazlanmayıp da boğulmuş olan, başı koparılan, başına tokmak vurulan veya kulak tozuna şiş saplanan ve böylece öldürülen hayvanlar da meyte hükmündedir; çünkü meşru şekilde boğazlanmamışlardır.",
+          "68- Kendi başına ölmüş olan herhangi bir hayvana Meyte (Leş) denir. Böyle bir hayvan temiz değildir, yenmez. Boğazlanmayıp da boğulmuş olan, başı koparılan, başına tokmak vurulan veya kulak tozuna şiş saplanan ve böylece öldürülen hayvanlar da meyte hükmündedir; çünkü meşru şekilde boğazlanmamışlardır.",
 
           "69- Yüksek bir yerden düşüp ölen, başka bir hayvanın tepmesi veya toslamasıyla veya bir taş ve ağaç parçasının çarpmasıyle ölen, bir yırtıcı hayvan tarafından parçalanarak ölen herhangi bir hayvan da meytedir. Onun için eti yenmez.Fakat aslen eti helal olan ve üzerinde hayat eseri bulunan böyle bir hayvan Besmele ile boğazlanırsa eti yenebilir. Bu İmam Azam’a göredir. İmam Ebû Yusuf’a göre, eğer onun benzeri bir hayvan yaşamayacak bir halde ise, boğazlanmakla onun eti helal olmaz. İmam Muhammed’e göre de, eğer henüz boğazlanan hayvanın yaşayabileceği pek az bir mikdardan biraz daha ziyade yaşayabilecek bir halde ise, boğazlanınca eti helal olur; değilse olmaz.",
 
@@ -7510,7 +7510,7 @@ export default [
         title: "AVIN MAHİYETİ VE CAİZ OLUŞU",
         slug: slugify("AVIN MAHİYETİ VE CAİZ OLUŞU"),
         content: [
-          " 71- Sayd (av), yaratılışında vahşi olup insandan kaçınan, eti yensin yenmesin, herhangi bir hayvandır ki, ele geçirilmesi ancak bir hile ile mümkün olabilir. Böyle bir av hayvanını kaçamaz bir hale getirip elde etmeye İstiyad (Avlamak) denir.",
+          "71- Sayd (av), yaratılışında vahşi olup insandan kaçınan, eti yensin yenmesin, herhangi bir hayvandır ki, ele geçirilmesi ancak bir hile ile mümkün olabilir. Böyle bir av hayvanını kaçamaz bir hale getirip elde etmeye İstiyad (Avlamak) denir.",
 
           "72- Bir av hayvanına karşı bir köpeğini salıvermeye “İrsal”, kışkırtıp sıçratmaya da “İğra” denir. İğra irsalden sonra olur.Ava kendiliğinden varan öğretilmiş köpek gibi bir hayvanın arkasından yapılacak “İğra”, irsal hükmündedir.",
 
@@ -7523,7 +7523,7 @@ export default [
         title: "NELERLE AV YAPILIR",
         slug: slugify("NELERLE AV YAPILIR"),
         content: [
-          " 74- Av, ya öğretilmiş köpek, doğan, pars, atmaca ve şahin gibi bir hayvanla yahut yaralayan ve öldüren bir silahla veya tuzak kurmakla, çukur kazmak, bıçak, kılıç ve kamış gibi keskin bir şeyi yere dikmekle yapılır. Bir hayvanın av için öğretilmiş hale geldiği, ya anlayış üstünlüğü ile veya bilen kimselere başvurarak sabit olur. Çünkü bu gibi hayvanların öğretim süreleri onların durumlarına göre değişir. Bunun için belirli bir süre yoktur. Bu, İmam Azam’a göredir. İki İmama ve İmam Azam’dan diğer rivayete göre de, azı dişleri olan hayvanların öğretilmiş hale gelmeleri de, salıverildikten sonra çağrıldıkları zaman hemen koşup gelmeleri ile bilinir.",
+          "74- Av, ya öğretilmiş köpek, doğan, pars, atmaca ve şahin gibi bir hayvanla yahut yaralayan ve öldüren bir silahla veya tuzak kurmakla, çukur kazmak, bıçak, kılıç ve kamış gibi keskin bir şeyi yere dikmekle yapılır. Bir hayvanın av için öğretilmiş hale geldiği, ya anlayış üstünlüğü ile veya bilen kimselere başvurarak sabit olur. Çünkü bu gibi hayvanların öğretim süreleri onların durumlarına göre değişir. Bunun için belirli bir süre yoktur. Bu, İmam Azam’a göredir. İki İmama ve İmam Azam’dan diğer rivayete göre de, azı dişleri olan hayvanların öğretilmiş hale gelmeleri de, salıverildikten sonra çağrıldıkları zaman hemen koşup gelmeleri ile bilinir.",
 
           "Pars gibi hayvanların öğretilmiş bir hale gelmiş olmaları da, hem yemeyi terk, hem de çağrılınca dönüp gelmeleriyle belli olur. Çünkü bunların yaratılışlarında hem yırtıcılık, hem de ürküp kaçmak vardır.",
 
@@ -7536,7 +7536,7 @@ export default [
         title: "AV HAYVANINDA ARANILAN ŞARTLAR",
         slug: slugify("AV HAYVANINDA ARANILAN ŞARTLAR"),
         content: [
-          " 77- Bir av etinin yenilebilmesi için şu şartlar gereklidir:",
+          "77- Bir av etinin yenilebilmesi için şu şartlar gereklidir:",
 
           "1) Av, dinimizce eti yenen hayvanlardan olmalıdır.",
 
@@ -7557,7 +7557,7 @@ export default [
         title: "AVLA İLGİLİ ÇEŞİTLİ MESELELER",
         slug: slugify("AVLA İLGİLİ ÇEŞİTLİ MESELELER"),
         content: [
-          " 78- Avlanacak birçok hayvan için bir Besmele yeterlidir. Şöyle ki: Avcı silah atarken veya öğretilmiş hayvanı salıverirken bir kez “Bismillâhi Allahü Ekber” dedikten sonra bir kaç hayvan aldığı yara sebebiyle ölmüş olsalar, hepsinin etleri yenebilir.Yine, bir kimsenin belli bir av hayvanına Besmele ile attığı ok veya kurşun, diğer bir avı yaralayarak öldürse, onun da eti yenebilir. Çünkü bu şekilde yapılan Besmele, o belli ava değil, atılan alete veya salıverilen hayvana aittir. Bununla beraber yükümlülük, güce göredir. Avcının gücü ise, yalnız atmayadır, yoksa dilediği ava isabet ettirmek değildir.",
+          "78- Avlanacak birçok hayvan için bir Besmele yeterlidir. Şöyle ki: Avcı silah atarken veya öğretilmiş hayvanı salıverirken bir kez “Bismillâhi Allahü Ekber” dedikten sonra bir kaç hayvan aldığı yara sebebiyle ölmüş olsalar, hepsinin etleri yenebilir.Yine, bir kimsenin belli bir av hayvanına Besmele ile attığı ok veya kurşun, diğer bir avı yaralayarak öldürse, onun da eti yenebilir. Çünkü bu şekilde yapılan Besmele, o belli ava değil, atılan alete veya salıverilen hayvana aittir. Bununla beraber yükümlülük, güce göredir. Avcının gücü ise, yalnız atmayadır, yoksa dilediği ava isabet ettirmek değildir.",
 
           "79- Bir ava karşı öğretilmiş bir köpeği veya doğan gibi diğer bir hayvanı Besmele ile salmak da bu hususta kurşun atmak hükmündedir. Fakat avcı bir alet üzerine Besmele okuduğu halde, diğer bir aleti atacak olsa, bu aletin isabet edeceği avın eti, o av Besmele ile kesilmedikçe yenmez.Aynı şekilde, bir kimse boğazlamak üzere olduğu bir hayvanı, Besmele okuduktan sonra bırakıp da onun yerine önceki Besmele ile başka bir hayvanı boğazlayacak olsa, bunun eti helal olmaz. Çünkü bu ikinci hayvan üzerine Besmele yapılmamıştır.",
 
@@ -7593,7 +7593,7 @@ export default [
         title: "BAZI DİNİ DEYİMLER",
         slug: slugify("BAZI DİNİ DEYİMLER"),
         content: [
-          " Mübarek dinimizde helal, haram, mubah, mekruh, müstahsen veya gayri müstahsen şeylerin bir kısmı fıkıh kitablarımızda: “Kitabu’l-Kerahiye ve’l-İstihsan, Kitabu’l-Hazer ve’l-İbaha, Kitabu’l-Zühdi ve’l-Vera’, Kitabu’l-Et’ime ve’l-Eşribe” gibi başlıklar altında yazılı bulunmaktadır. İşte bu ilmihalimizin bu sekizinci kitabı, bu kısma ait bazı meseleleri kapsamaktadır.",
+          "Mübarek dinimizde helal, haram, mubah, mekruh, müstahsen veya gayri müstahsen şeylerin bir kısmı fıkıh kitablarımızda: “Kitabu’l-Kerahiye ve’l-İstihsan, Kitabu’l-Hazer ve’l-İbaha, Kitabu’l-Zühdi ve’l-Vera’, Kitabu’l-Et’ime ve’l-Eşribe” gibi başlıklar altında yazılı bulunmaktadır. İşte bu ilmihalimizin bu sekizinci kitabı, bu kısma ait bazı meseleleri kapsamaktadır.",
 
           "Bazı Dinî Deyimler",
 
@@ -7618,7 +7618,7 @@ export default [
         title: "HER MÜSLÜMAN İÇİN ÖĞRENME VE ÖĞRETMENİN GEREKLİLİĞİ",
         slug: slugify("HER MÜSLÜMAN İÇİN ÖĞRENME VE ÖĞRETMENİN GEREKLİLİĞİ"),
         content: [
-          " 9- İlim elde etmek, her müslüman erkek ve kadın için bir görevdir. Şöyle ki: Her müslümanın yapmakla yükümlü bulunduğu din görevlerini yerine getirmek, hak ile batılı, helal ile haramı ayırmak için yeterince bilgi sahibi olması üzerine farzdır. Bir hadis-i şerifte buyurulmuştur:",
+          "9- İlim elde etmek, her müslüman erkek ve kadın için bir görevdir. Şöyle ki: Her müslümanın yapmakla yükümlü bulunduğu din görevlerini yerine getirmek, hak ile batılı, helal ile haramı ayırmak için yeterince bilgi sahibi olması üzerine farzdır. Bir hadis-i şerifte buyurulmuştur:",
 
           "“Her müslüman erkek ve kadına ilim öğrenmek bir farzdır.”Başkalarına muhtaç oldukları şeyleri öğretmek için ilim öğrenmek de sünnettir, bir ibadettir. Bundan fazlasını bir kemal ve bir şeref olmak üzere öğrenmek de mubahtır. Başkalarına karşı öğünmek, mücadele edip büyüklenmek için ilim elde etmek ise mekruhtur.",
 
@@ -7643,7 +7643,7 @@ export default [
         title: "İSLAMDA VAAZIN VE ÖĞÜT VERMENİN ÖNEMİ",
         slug: slugify("İSLAMDA VAAZIN VE ÖĞÜT VERMENİN ÖNEMİ"),
         content: [
-          " 16- İslam dininde va’z etmek ve öğüt vermek pek önemli bir görevdir, bir farz-ı kifayedir. Kürsülerde ve minberlerde insanlara öğüt kasdi ile söylenen sözler (hutbeler) sünnettir. Peygamberimizin yoludur. Din hükümlerine uygun olarak ihtiyaca göre tatlı ifadelerle yapılan konuşmalardan, verilen öğütlerden herkes faydalanır. Bunlar birer uyarmadır. Bu uyarmalar mü’minler için çok yararlıdır.",
+          "16- İslam dininde va’z etmek ve öğüt vermek pek önemli bir görevdir, bir farz-ı kifayedir. Kürsülerde ve minberlerde insanlara öğüt kasdi ile söylenen sözler (hutbeler) sünnettir. Peygamberimizin yoludur. Din hükümlerine uygun olarak ihtiyaca göre tatlı ifadelerle yapılan konuşmalardan, verilen öğütlerden herkes faydalanır. Bunlar birer uyarmadır. Bu uyarmalar mü’minler için çok yararlıdır.",
 
           "17- Nasihat (öğüt), aslında hayır istemektir. Bir hadis-i şerîfde şöyle buyurulmuştur:“Şübhe yok ki din, Allah için, Allah’ın kitabı ve Peygamberi için, müslümanların imamları için ve hepsi için hayır istemekten, (öğüt vermekten) ibarettir.”Doğrusu Allah’ın dinine hizmet için çalışmak, başkalarının hidayete ermelerine, mutluluğa kavuşmalarına ve selametlerine hizmet için uğraşmak ne büyük bir hayırseverliktir, ne yüksek bir harekettir!..Bunun içindir ki, bir hadis-i şerifde buyurulmuştur:“Yüce Allah’ın bir kimseyi, senin aracılığınla hidayete erdirmesi, senin için, güneşin üzerine doğduğu ve battığı şeylerin hepsinden daha hayırlıdır.”",
 
@@ -7676,7 +7676,7 @@ export default [
         title: "MUKADDESATA HÜRMET VE SAYGI",
         slug: slugify("MUKADDESATA HÜRMET VE SAYGI"),
         content: [
-          " 24- Yüce Allah ile ilgili olan, din yönünden pak ve temiz bulunan manevî büyüklüğü kazanan şeylere Mukaddesat (Kutsal şeyler) denir.Yüce Allah mukaddes olduğu gibi, onun bütün isimleri de mukaddestir. Öyle ki, bir yüce ismi de “Kuddüs”dür.Yine, Yüce Allah’ın kitabları, Peygamberleri ve velileri de birer kudsiyet kazanmışlardır. İslam ibadetleri birer mukaddes görevdir, İslam mabetleri de mukaddes ve mübarek yerlerdir.",
+          "24- Yüce Allah ile ilgili olan, din yönünden pak ve temiz bulunan manevî büyüklüğü kazanan şeylere Mukaddesat (Kutsal şeyler) denir.Yüce Allah mukaddes olduğu gibi, onun bütün isimleri de mukaddestir. Öyle ki, bir yüce ismi de “Kuddüs”dür.Yine, Yüce Allah’ın kitabları, Peygamberleri ve velileri de birer kudsiyet kazanmışlardır. İslam ibadetleri birer mukaddes görevdir, İslam mabetleri de mukaddes ve mübarek yerlerdir.",
 
           "25- Biz müslümanlar, bütün mukaddes varlıklara son derece saygı ve hürmetle mükellefiz. Mukaddesata saygı ve hürmet etmeyen kimse, ruhu sönmeye başlamış, yüksek duygulardan yoksun kalmış, gaflet içine düşmüş bir insan demektir. İnsanlık değerini kaybetmiş olur.",
 
@@ -7731,7 +7731,7 @@ export default [
           "DİN VE MUAMELATTA SÖZLERİ KABUL EDİLECEK VE EDİLMEYECEKLER"
         ),
         content: [
-          " 48- Sadece dinle ilgili Allah’la kul arasındaki bir ibadet işinde adaletli olan kimselerin sözleri kabul edilir. Fasıkların ve gayr-i müslimlerin sözleri kabul edilmez. Bir suyun temiz olmadığını adalet sahibi bir müslüman haber verir de, başka su bulunmazsa, teyemmüm caiz olur. Fakat bunu fasık veya ne olduğu bilinmeyen veya gayr-i müslim bir kimse haber verirse, araştırma yapmak gerekir. O suyun gerçekten temiz olup olmadığı araştırılır. Sonunda kuvvetli görüşe göre işlem yapılır. Şöyle ki: Eğer bu haber veren kimsenin doğru söylediğine kuvvetli bir zan hasıl olmuşsa, yalnız teyemmüm yapılır. Yalan söylediği hakkında kuvvetli zan varsa, o su ile abdest alınır ve ihtiyat olarak da teyemmüm edilir.",
+          "48- Sadece dinle ilgili Allah’la kul arasındaki bir ibadet işinde adaletli olan kimselerin sözleri kabul edilir. Fasıkların ve gayr-i müslimlerin sözleri kabul edilmez. Bir suyun temiz olmadığını adalet sahibi bir müslüman haber verir de, başka su bulunmazsa, teyemmüm caiz olur. Fakat bunu fasık veya ne olduğu bilinmeyen veya gayr-i müslim bir kimse haber verirse, araştırma yapmak gerekir. O suyun gerçekten temiz olup olmadığı araştırılır. Sonunda kuvvetli görüşe göre işlem yapılır. Şöyle ki: Eğer bu haber veren kimsenin doğru söylediğine kuvvetli bir zan hasıl olmuşsa, yalnız teyemmüm yapılır. Yalan söylediği hakkında kuvvetli zan varsa, o su ile abdest alınır ve ihtiyat olarak da teyemmüm edilir.",
 
           "49- Bir suyun temiz olduğunu bir adil müslüman ve temiz olmadığını, diğer adil bir müslüman haber verse, bu suyun temiz olduğuna hükmedilir. Çünkü suda asıl olan temiz olmaktır. Fakat ölü bulunan bir hayvanın boğazlanmış olduğunu bir adil ve boğazlanmamış olduğunu da diğer bir adil şahıs haber verse, burada en kuvvetli olan kanaata göre işlem yapılır.",
 
@@ -7744,7 +7744,7 @@ export default [
         title: "İSLAMDA AİLE VE AKRABALIK İLİŞKİLERİ",
         slug: slugify("İSLAMDA AİLE VE AKRABALIK İLİŞKİLERİ"),
         content: [
-          " 52- Müslümanlar arasında bir din kardeşliği vardır. Bu, din bakımından genel bir yakınlık ve akrabalıktır, en kuvvetli bir bağdır. Bu yönden müslümanlar, herhangi ırka, herhangi yurda bağlı olurlarsa olsunlar, birbirine bağlıdırlar, birbirini sever, birbiri hakkında hayır isterler. Bir ayet-i kerimede buyurulmuştur.“Mü’minler şübhe yok ki, kardeştirler.”Bundan başka müslümanlar arasında birbirinden farklı derecelerde bir soy, bir neseb, bir hısımlık ve akrabalık vardır. Bu bakımdan da aralarında birtakım görevler haklar ve hükümler bulunur. Bunların gözetilmesi dinimizce gereklidir.",
+          "52- Müslümanlar arasında bir din kardeşliği vardır. Bu, din bakımından genel bir yakınlık ve akrabalıktır, en kuvvetli bir bağdır. Bu yönden müslümanlar, herhangi ırka, herhangi yurda bağlı olurlarsa olsunlar, birbirine bağlıdırlar, birbirini sever, birbiri hakkında hayır isterler. Bir ayet-i kerimede buyurulmuştur.“Mü’minler şübhe yok ki, kardeştirler.”Bundan başka müslümanlar arasında birbirinden farklı derecelerde bir soy, bir neseb, bir hısımlık ve akrabalık vardır. Bu bakımdan da aralarında birtakım görevler haklar ve hükümler bulunur. Bunların gözetilmesi dinimizce gereklidir.",
 
           "53- Müslümanların çoğalmaları ve kuvvetlenmeleri, yurdlarını ve varlıklarını savunabilmeleri aralarında aile ocağının gelişmesine bağlıdır. Bu yönü ile aile kurmak ve bu ailenin devamına çalışmak İslam’da önemli bir görevdir. Şöyle ki: Aile yuvası kurmaya gücü yeten ve kendisinde kuvvetli bir meyil bulunan müslüman için evlenip aile sahibi olmak vacib veya farzdır. Nefsi taşkın olmayan bir müslüman için de bir müekked sünnettir.Bir hadis-i şerifde buyurulmuştur:“Evleniniz, çoğalınız; çünkü ben, kıyamet günü ümmetlere karşı sizinle öğünürüm.”Fakat kadına zulüm ve eziyet edileceği bilinerek zevce haklarını çiğneyecek olan kimsenin evlenmesi haramdır. Çünkü bu durumda aile hayatından beklenen yararlar elde edilemez.",
 
@@ -7787,7 +7787,7 @@ export default [
         title: "İSLAMDA KAZANCIN (KESBİN) ÖNEMİ",
         slug: slugify("İSLAMDA KAZANCIN (KESBİN) ÖNEMİ"),
         content: [
-          " 70- İslamda kazanç (geçim sağlama) alanına atılmak, aslında ilim gibi bütün müslümanlar için pek önemli bir görevdir. Bir hadis-i şerifde şöyle buyurulmuştur:“Çalışarak kazanç sağlama yollarını aramak, müslüman olan her erkek ve kadın için bir farzdır.”Çünkü her müslüman, yükümlü olduğu görevleri kazanç sayesinde yerine getirebilir. Bu görevlerin yapılması kuvvet ve sağlığa bağlıdır. Kuvvet ile sağlık da gıdaya ve diğer ihtiyaçlara bağlıdır. Bunlar da ancak kazançla sağlanabilirler. Onun için kazanç alanına atılmak önemli bir görevdir, bir farzdır. Şöyle ki:",
+          "70- İslamda kazanç (geçim sağlama) alanına atılmak, aslında ilim gibi bütün müslümanlar için pek önemli bir görevdir. Bir hadis-i şerifde şöyle buyurulmuştur:“Çalışarak kazanç sağlama yollarını aramak, müslüman olan her erkek ve kadın için bir farzdır.”Çünkü her müslüman, yükümlü olduğu görevleri kazanç sayesinde yerine getirebilir. Bu görevlerin yapılması kuvvet ve sağlığa bağlıdır. Kuvvet ile sağlık da gıdaya ve diğer ihtiyaçlara bağlıdır. Bunlar da ancak kazançla sağlanabilirler. Onun için kazanç alanına atılmak önemli bir görevdir, bir farzdır. Şöyle ki:",
 
           "71- Herhangi bir müslüman kendi nefsini ve geçimleri üzerine gerekli olan kimseleri geçindirmeye ve borçlarını ödemeye yetecek kadar helaldan kazanmakla yükümlüdür, bu bir farzdır. Bir hadis-i şerifde buyurulmuştur:“Her müslüman üzerine helali aramak vacibdir.”",
 
@@ -7802,7 +7802,7 @@ export default [
         title: "ÇEŞİTLİ KAZANÇ YOLLARININ ÜSTÜNLÜK DERECELERİ",
         slug: slugify("ÇEŞİTLİ KAZANÇ YOLLARININ ÜSTÜNLÜK DERECELERİ"),
         content: [
-          " 75- Çeşitli kazanç yolları vardır. Bunlardan en faziletlisi, cihad yoludur. Sonra sırası ile ticaret, ziraat ve san’attır. Bazılarına göre, ziraat ticaretten daha faziletlidir. Şöyle ki:",
+          "75- Çeşitli kazanç yolları vardır. Bunlardan en faziletlisi, cihad yoludur. Sonra sırası ile ticaret, ziraat ve san’attır. Bazılarına göre, ziraat ticaretten daha faziletlidir. Şöyle ki:",
 
           "76- Müslümanlar için gerektiğinde cihada koşmak, İslamiyeti yüceltmek, İslam yurdunu ve varlığını korumaya çalışmak farzdır. Bu farz duruma göre genişler. Eli silah tutan müslümanların bir kısmına ve yetişmezse hepsine yönelen bir farz olur. Bu uğurda düşman ile çarpışan ve düşmanı sindiren İslam mücahidleri gazi ve ölenler de şehidlik rütbesini kazanırlar.Şehidlere ölü denilmesi doğru değildir. Onlar ebedî bir hayata sahibdirler. Onlar Yüce Allah’ın manevî huzurunda rızıklanır dururlar. Onun için şehidlik büyük bir rütbedir.",
 
@@ -7823,7 +7823,7 @@ export default [
         title: "ALIŞ-VERİŞİN ÇEŞİTLERİ VE KAR (KAZANÇ) MİKTARI",
         slug: slugify("ALIŞ-VERİŞİN ÇEŞİTLERİ VE KAR (KAZANÇ) MİKTARI"),
         content: [
-          " 82- Satış, “Malı malla değişmek” demektir. Bir kimse, elindeki malını aza çoğa satabilir mi? Bu mesele açıklanmaya muhtaçtır. Şöyle ki: Satış işlemi başlıca dört kısma ayrılır:",
+          "82- Satış, “Malı malla değişmek” demektir. Bir kimse, elindeki malını aza çoğa satabilir mi? Bu mesele açıklanmaya muhtaçtır. Şöyle ki: Satış işlemi başlıca dört kısma ayrılır:",
 
           "1) Bir malı maliyet fiyatına satmaktır. Buna “Tevliye” denir ve caizdir. Bir satıcı, bazan elindeki malını hiç kâr gözetmeksizin aldığı fiata satar. Bu kendi hakkıdır. Ancak burada gözetilecek şey, maliyet fiatını doğru söylemektir. Değilse, satıcı Allah katında sorumlu olur. Alıcı da, dilerse alış muamelesini bozdurur, dilerse fazla bedeli geri alır.",
 
@@ -7838,7 +7838,7 @@ export default [
         title: "İHTİKARIN MAHİYETİ VE HÜKÜMLERİ",
         slug: slugify("İHTİKARIN MAHİYETİ VE HÜKÜMLERİ"),
         content: [
-          " 83- İhtikarın lûgat anlamı, azalsın ve kıymetlensin diye bir malı saklamaktır. Din deyiminde ise: “İnsanların ve evcil hayvanların yiyecek ve içecekleri olan maddeleri ucuz yerlerden alıp kıymetleri yükselsin diye kırk gün bekletmektir.” Böyle yapan kimseye “Muhtekir” denir.İhtikarın kırk gün ile bağlanması, dünyaca yapılacak ceza bakımındandır. Yoksa bir gün bile ihtikare meydan veren kimse günahkar olup ahiret azabına hak kazanır.",
+          "83- İhtikarın lûgat anlamı, azalsın ve kıymetlensin diye bir malı saklamaktır. Din deyiminde ise: “İnsanların ve evcil hayvanların yiyecek ve içecekleri olan maddeleri ucuz yerlerden alıp kıymetleri yükselsin diye kırk gün bekletmektir.” Böyle yapan kimseye “Muhtekir” denir.İhtikarın kırk gün ile bağlanması, dünyaca yapılacak ceza bakımındandır. Yoksa bir gün bile ihtikare meydan veren kimse günahkar olup ahiret azabına hak kazanır.",
 
           "84- Bir beldeye dışardan gelecek malları, şehirde serbest satılmaması için şehir dışında karşılayarak satın almak da bir nevi ihtikârdır.",
 
@@ -7859,7 +7859,7 @@ export default [
         title: "RİBANIN (FAİZİN) MAHİYETİ VE NEVİLERİ",
         slug: slugify("RİBANIN (FAİZİN) MAHİYETİ VE NEVİLERİ"),
         content: [
-          " 90- Riba’nın lûgat anlamı ziyade demektir. Din deyiminde, alış-verişlerde bir karşılık olmaksızın akidler arasında ziyade bir mikdarı şart koymaktır. On dirhem gümüşü, on bir dirhem gümüş karşılığında satmak gibi.",
+          "90- Riba’nın lûgat anlamı ziyade demektir. Din deyiminde, alış-verişlerde bir karşılık olmaksızın akidler arasında ziyade bir mikdarı şart koymaktır. On dirhem gümüşü, on bir dirhem gümüş karşılığında satmak gibi.",
 
           "91- Riba, tartı ile satılan altın ve gümüş gibi mallarla ölçekle satılan buğday, arpa, hurma, tuz, kuru üzüm gibi şeylerin alış-verişinde olur.(Malikîlere göre riba, yalnız altın ile gümüşte ve geçim sağlanan erzakta olur. Şafîlere göre de, yalnız altın ve gümüşle, yiyecek sayılan şeylerde olur.)",
 
@@ -7880,7 +7880,7 @@ export default [
         title: "İSTİKRAZ (ÖDÜNÇ ALMA) MESELELERİ",
         slug: slugify("İSTİKRAZ (ÖDÜNÇ ALMA) MESELELERİ"),
         content: [
-          " 96- İstikraz (borç alıp verme) muamelesi, altın ve gümüş gibi yalnız misliyat denilen tartılır şeylerde, ölçeğe bağlı buğday ve arpa gibi şeylerde ve taneleri arasında kıymet değiştirecek derecede fark bulunmayan yumurta ve ceviz gibi sayıya bağlı şeylerde olur. Hayvanlarda ve kumaş gibi değere bağlı şeylerde olmaz.",
+          "96- İstikraz (borç alıp verme) muamelesi, altın ve gümüş gibi yalnız misliyat denilen tartılır şeylerde, ölçeğe bağlı buğday ve arpa gibi şeylerde ve taneleri arasında kıymet değiştirecek derecede fark bulunmayan yumurta ve ceviz gibi sayıya bağlı şeylerde olur. Hayvanlarda ve kumaş gibi değere bağlı şeylerde olmaz.",
 
           "97- Gerek altından ve gümüşten ve diğer maddelerden olan nakid paralar, gerekse diğer tartılan veya ölçülen şeyler, sonradan yalnız misilleri alınmak üzere borç olarak alınıp verilebilir. Buna “Karz-ı Hasen” denilir. Sosyal bir yardım olduğundan büyük bir sevabdır. Fakat bunun karşılığında fazla bir şey verilmesi şart kılınırsa, bu bir faiz olur ki, riba hükmündedir. Borç verenin bir veya birkaç kişi olması arasında bir fark yoktur.",
 
@@ -7903,7 +7903,7 @@ export default [
         title: "İSLAMDA YAPILMASI YASAK ŞEYLER",
         slug: slugify("İSLAMDA YAPILMASI YASAK ŞEYLER"),
         content: [
-          " 104- Ferdlerin ve cemiyetlerin selametine, selamet ve mutluluğuna aykırı olan şeyler, İslam dininde yasaktır, haramdır. Bunların yapılması, hem dünyaca, hem, de ahiretçe sorumluluğu gerektirir. Bunlara: “Günah, masiyet, ism” denir.",
+          "104- Ferdlerin ve cemiyetlerin selametine, selamet ve mutluluğuna aykırı olan şeyler, İslam dininde yasaktır, haramdır. Bunların yapılması, hem dünyaca, hem, de ahiretçe sorumluluğu gerektirir. Bunlara: “Günah, masiyet, ism” denir.",
 
           "105- Günah olan şeyleri bizzat yapmak caiz olmadığı gibi, o gibi şeylere razı olmak ve bir zorlama olmadıkça yardım etmek de caiz değildir. Misal: Bir kimse, bir eşya çalamaz, bu haramdır, cezayı gerektirir. Bir kimse bir şeyin çalınmasına razı da olamaz, ona yardım da edemez. Bu da haramdır, yasaktır.",
 
@@ -7920,7 +7920,7 @@ export default [
         title: "YENİP İÇİLMESİ HELAL OLAN VE OLMAYAN ŞEYLER",
         slug: slugify("YENİP İÇİLMESİ HELAL OLAN VE OLMAYAN ŞEYLER"),
         content: [
-          " 109- Eşyada yenip içilme bakımından asıl olan mubah olmaktır. Bütün eşya, aslında insanların yararlanmaları için yaratılmıştır. Onun için aslında temiz olan, akla ve sağlığa zararlı olmayan bir kısım hayvan elleri ve buğday, arpa, pirinç gibi ürünler, sebzeler, meyveler ve sıvılar helaldir. Bunlar yenip içilebilir.Fakat bazı şeyleri yeyip içmek, insanlara zararlı, hikmet ve ihtiyaca aykırı olduğu için İslam dininde haramdır.",
+          "109- Eşyada yenip içilme bakımından asıl olan mubah olmaktır. Bütün eşya, aslında insanların yararlanmaları için yaratılmıştır. Onun için aslında temiz olan, akla ve sağlığa zararlı olmayan bir kısım hayvan elleri ve buğday, arpa, pirinç gibi ürünler, sebzeler, meyveler ve sıvılar helaldir. Bunlar yenip içilebilir.Fakat bazı şeyleri yeyip içmek, insanlara zararlı, hikmet ve ihtiyaca aykırı olduğu için İslam dininde haramdır.",
 
           "110- Hayvanlardan yaratılış gereği iğrenç olanların, dişleri veya tırnakları ile kendilerini savunup başkalarına saldıranların etleri haramdır. (Eti Yenen ve Yenmeyen Hayvanlar bölümüne bakılsın.)",
 
@@ -7953,7 +7953,7 @@ export default [
         title: "YİYİP İÇME MİKTARI VE BUNLARIN EDEPLERİ",
         slug: slugify("YİYİP İÇME MİKTARI VE BUNLARIN EDEPLERİ"),
         content: [
-          " 121- Ölmeyecek kadar yiyip içmek farzdır. Çünkü böyle bir yemekle insan oruç tutmaya ve ayakta namaz kılmaya güç kazanabilir. Öyle ki, insan canını helak olmaktan kurtaramayacak kadar helal bir şey bulamazsa, haram olan bir şeyden ölmeyecek kadar yiyebilir. Yine, boğazında kalan bir lokmayı gidermek için başka bir su bulamayınca, yeteri kadar haram bir içkiden içebilir. Fakat fazlasını yiyip içemez. Çünkü zaruretler, kendi mikdarlarına göre değerlendirilir.",
+          "121- Ölmeyecek kadar yiyip içmek farzdır. Çünkü böyle bir yemekle insan oruç tutmaya ve ayakta namaz kılmaya güç kazanabilir. Öyle ki, insan canını helak olmaktan kurtaramayacak kadar helal bir şey bulamazsa, haram olan bir şeyden ölmeyecek kadar yiyebilir. Yine, boğazında kalan bir lokmayı gidermek için başka bir su bulamayınca, yeteri kadar haram bir içkiden içebilir. Fakat fazlasını yiyip içemez. Çünkü zaruretler, kendi mikdarlarına göre değerlendirilir.",
 
           "122- Bir insan kuvvetlenmek ve kuvvetini artırmak için doyuncaya kadar yiyip içebilir, bu mubahtır. Bundan daha çok yiyip içmek haramdır. Bunun ölçüsü, mideyi bozacağına üstün kanaat hasıl olacağı mikdardır. Bununla beraber ikram için veya ertesi gün tutacağı oruca kuvvet kazanmak için biraz fazla yiyip içmekle bir sakınca yoktur.",
 
@@ -7986,7 +7986,7 @@ export default [
           "GİYİLMESİ VE KULLANILMASI GEREKLİ VE CAİZ OLUP OLMAYAN ŞEYLER"
         ),
         content: [
-          " 133- Her müslüman için avret yerlerini örtecek şekilde sıcaktan ve soğuktan korunacak kadar elbise giymek farzdır. Bu elbiselerin etekleri, erkeklerde bacakların yarısına kadar, kadınlarda ayaklarının yüzlerine kadar uzamalı, kollar da parmak uclarına kadar uzun bulunmalıdır.Erkeklerin elbisesi kırmızı veya sarı olmamalı, siyah veya beyaz renkte olmalıdır. Bu renkler müstahabdır. Yeşil renk de sünnete uygundur.",
+          "133- Her müslüman için avret yerlerini örtecek şekilde sıcaktan ve soğuktan korunacak kadar elbise giymek farzdır. Bu elbiselerin etekleri, erkeklerde bacakların yarısına kadar, kadınlarda ayaklarının yüzlerine kadar uzamalı, kollar da parmak uclarına kadar uzun bulunmalıdır.Erkeklerin elbisesi kırmızı veya sarı olmamalı, siyah veya beyaz renkte olmalıdır. Bu renkler müstahabdır. Yeşil renk de sünnete uygundur.",
 
           "134- Elbise ne çok yüksek, ne de çok bayağı olmalı, orta derecede bulunmalıdır. Çünkü her şeyin hayırlısı orta halde olanıdır. Bununla beraber Yüce Allah’ın verdiği nimeti gösterip şükretmek için süs olarak yeterinden fazla elbise edinmek müstahabdır. Peygamber Efendimiz buyurmuştur:“Allah sana ihsan edip nimet verdiği gibi, sen de nefsine ikramda bulun.”Diğer bir hadis-i şerif’de şöyle buyurulmuştur:“Şüphe yok ki Yüce Allah nimetinin eserini kulunun üzerinde görmeyi sever.”",
 
@@ -8025,7 +8025,7 @@ export default [
         title: "LUKATALARIN (BULUNTU MALLARIN) MAHİYETİ VE HÜKÜMLERİ",
         slug: slugify("LUKATALARIN (BULUNTU MALLARIN) MAHİYETİ VE HÜKÜMLERİ"),
         content: [
-          " 148- Bir yerde bulunan ve sahibi bilinmeyen yitik bir mala “Lukata” denir. Bunu o yerden alıp kaldırmaya “İltikat” ve bunu kaldırıp alan kimseye de “Mültakıt” denir.Başkalarının rızası olmaksızın mallarını haksız yere almak haram olduğu gibi, yitik malları alıp benimsemek de haramdır.",
+          "148- Bir yerde bulunan ve sahibi bilinmeyen yitik bir mala “Lukata” denir. Bunu o yerden alıp kaldırmaya “İltikat” ve bunu kaldırıp alan kimseye de “Mültakıt” denir.Başkalarının rızası olmaksızın mallarını haksız yere almak haram olduğu gibi, yitik malları alıp benimsemek de haramdır.",
 
           "149- Bir kimse bir yerde yitik bir mikdar para veya eşya bulsa, bunu sahibine vermek üzere, oradan alıp kaldırabilir. Fakat kendisi için alıp kaldıramaz. Bu bir hırsızlık sayılır.",
 
@@ -8068,7 +8068,7 @@ export default [
         title: "İSLAMDA EĞLENCE VE YARIŞMALARIN HÜKMÜ",
         slug: slugify("İSLAMDA EĞLENCE VE YARIŞMALARIN HÜKMÜ"),
         content: [
-          " 160- İslamda meşru sayılan eğlenceler mubahtır. Oyun ve eğlence denilen birtakım zararlı ve faydasız eğlenceler ise caiz değildir. Bunların bir kısmı haramdır. Bir kısmı da harama yakın mekruhtur. Bunlar aslında boş şeylerdir. İnsanın hayatı ise çok kıymetlidir, daima yararlı şeylerde harcanmalıdır. Zararlı ve faydasız şeylere harcanması doğru olmaz.",
+          "160- İslamda meşru sayılan eğlenceler mubahtır. Oyun ve eğlence denilen birtakım zararlı ve faydasız eğlenceler ise caiz değildir. Bunların bir kısmı haramdır. Bir kısmı da harama yakın mekruhtur. Bunlar aslında boş şeylerdir. İnsanın hayatı ise çok kıymetlidir, daima yararlı şeylerde harcanmalıdır. Zararlı ve faydasız şeylere harcanması doğru olmaz.",
 
           "Örnek: Kumar oyunu haramdır. Çünkü bunun zararı herkesçe bilinen şeydir. Kumar yüzünden kurtuluşa eren kimse gösterilemez. Fakat kumar yüzünden helak olmuş, perişan olmuş, acı ve kederler içine düşmüş binlerce insan ve aile gösterilebilir.",
 
@@ -8083,7 +8083,7 @@ export default [
         title: "İSLAMDA İNSANLARIN HAYAT VE ORGAN DOKUNULMAZLIĞI",
         slug: slugify("İSLAMDA İNSANLARIN HAYAT VE ORGAN DOKUNULMAZLIĞI"),
         content: [
-          " 163- İnsanların bedenleri ve organları hayatta olduğu gibi, öldükten sonra da hürmet edilmeye layıktır ve dokunulmazlığı vardır. Onun için herhangi bir insanın hayatına haksız yere kasdedilmesi haramdır, bir cinayettir. Yine bir insanın herhangi bir organını, kendi hayatına ait bir zaruret bulunmaksızın haksız yere kesmek ve yarmak da haramdır, bir suçtur. Bir insanı hadım etmek, haksız yere döğmek de caiz değildir.",
+          "163- İnsanların bedenleri ve organları hayatta olduğu gibi, öldükten sonra da hürmet edilmeye layıktır ve dokunulmazlığı vardır. Onun için herhangi bir insanın hayatına haksız yere kasdedilmesi haramdır, bir cinayettir. Yine bir insanın herhangi bir organını, kendi hayatına ait bir zaruret bulunmaksızın haksız yere kesmek ve yarmak da haramdır, bir suçtur. Bir insanı hadım etmek, haksız yere döğmek de caiz değildir.",
 
           "164- İnsan hürmete değer bir yaratık olduğundan onun organlanndan hiçbiri ile koparılarak faydalanılamaz. Onun saç, tırnak ve çekilmiş diş gibi, herhangi bir parçası satılamaz, bunları gömmek gerekir. Onun için bir kadının saçları alınıp başka bir kadının saçlarına katılamaz. Böyle bir davranış insanın şerefine bir tecavüzdür, bir nevi uydurmacılıktan ibarettir. İnsanoğlunun bir parçası ile faydalanmak demektir. Öyle ki, bir kadın kendi saçlarına, kendisinin dökülmüş olan saçlarını da ilave edemez, bu da kerahetten beri değildir. Fakat insandan başka temiz bir yaratığın saçlarını ilave edebilir.",
 
@@ -8108,7 +8108,7 @@ export default [
         title: "HAYVANLARA YUMUŞAK DAVRANMANIN GEREĞİ",
         slug: slugify("HAYVANLARA YUMUŞAK DAVRANMANIN GEREĞİ"),
         content: [
-          " 173- İslam dininde bütün yaratıklara şefkatle muamele yapılması bir görevdir. Özellikle hayvanlara zulüm yapılmayıp iyi bakılması gerekir. Hayvanları fazla yormamalıdır, dövmemelidir. Hayvanlara eziyet cezası ağırdır. Çünkü hayvanların Allah’dan başka yardımcısı ve koruyucusu yoktur.“Allah’dan başka yardımcısı bulunmayanlara zulmedenler hakkında Hak Teala’nın gazabı pek şiddetli olacaktır” diye buyurulmuşlur.",
+          "173- İslam dininde bütün yaratıklara şefkatle muamele yapılması bir görevdir. Özellikle hayvanlara zulüm yapılmayıp iyi bakılması gerekir. Hayvanları fazla yormamalıdır, dövmemelidir. Hayvanlara eziyet cezası ağırdır. Çünkü hayvanların Allah’dan başka yardımcısı ve koruyucusu yoktur.“Allah’dan başka yardımcısı bulunmayanlara zulmedenler hakkında Hak Teala’nın gazabı pek şiddetli olacaktır” diye buyurulmuşlur.",
 
           "174- Hayvanların gözetilecek hakları vardır. Bir kısmı: Evcil hayvanların yiyecek ve içeceklerini zamanında vermek, tımarlarına bakmak, onlara yumuşak davranıp iyi muamele yapmak gerekir. Her cins hayvan ayrı bir hizmet için yaratılmıştır. Buna aykın davranmamalıdır. Misal:Sığır cinsi öküzler, arabalara koşulmak ve tarlalarda çalıştırılmak için yaratılmıştır. Bunlara binilmemeli, yük vurulmamalı, merkeb gibi kullanılmamalıdır.",
 
@@ -8123,7 +8123,7 @@ export default [
         title: "İSLAMDA MADDİ VE MANEVİ TEMİZLİK",
         slug: slugify("İSLAMDA MADDİ VE MANEVİ TEMİZLİK"),
         content: [
-          " 178- İslam dini, hem maddî, hem de manevî temizliğe büyük bir önem vermiştir. Bu iki kısım temizlik arasında büyük bir ilgi vardır. Bunlardan biri diğerinden ayrılmaz. Öyle ki bunlardan her biri, bir bakımdan maddî ise, diğer bir bakımdan da manevîdir. Abdest gibi…",
+          "178- İslam dini, hem maddî, hem de manevî temizliğe büyük bir önem vermiştir. Bu iki kısım temizlik arasında büyük bir ilgi vardır. Bunlardan biri diğerinden ayrılmaz. Öyle ki bunlardan her biri, bir bakımdan maddî ise, diğer bir bakımdan da manevîdir. Abdest gibi…",
 
           "179- İslamda, maddî şeylerle kirlenen bir vücudu, bir elbiseyi, bir yeri temizlemek bir görev olduğu gibi, günah denilen manevî kötülüklerle kirlenmiş bulunan bir ruhu temizlemek de bir vazifedir.",
 
@@ -8190,7 +8190,7 @@ export default [
         title: "AHLAKIN ÖNEMİ VE ARINDIRMAYA ELVERİŞLİ OLMASI",
         slug: slugify("AHLAKIN ÖNEMİ VE ARINDIRMAYA ELVERİŞLİ OLMASI"),
         content: [
-          " 3- İslam dini, ahlaka pek büyük bir kıymet ve önem vermiştir. Aslında İslam, bir ahlak ve fazilet, bir hikmet dinidir. Öyle ki, Peygamber Efendimiz buyurmuştur:“Ben, ancak mekâkim-i ahlakı (ahlakın iyi ve güzel olanlarını) tamamlamak için gönderildim.”İslamda, insanların manevî kıymetleri, sahib oldukları ahlaka göredir. Bir hadis-i şerifde buyurulmuştur:“Sizin imanca en güzeliniz, ahlakça en güzel olanınızdır.”Peygamber Efendimiz (sallallahu aleyhi ve sellem) diğer bir hadis-i şerifde buyurmuştur:“Allahü Teala’ya kullarının en sevgilisi, ahlakça en güzel olanıdır.”Peygamber Efendimiz (sallallahu aleyhi ve sellem) şöyle dua buyururdu:“Allah’ım! Ben, senden sağlık, afiyet ve güzel ahlak dilerim.”",
+          "3- İslam dini, ahlaka pek büyük bir kıymet ve önem vermiştir. Aslında İslam, bir ahlak ve fazilet, bir hikmet dinidir. Öyle ki, Peygamber Efendimiz buyurmuştur:“Ben, ancak mekâkim-i ahlakı (ahlakın iyi ve güzel olanlarını) tamamlamak için gönderildim.”İslamda, insanların manevî kıymetleri, sahib oldukları ahlaka göredir. Bir hadis-i şerifde buyurulmuştur:“Sizin imanca en güzeliniz, ahlakça en güzel olanınızdır.”Peygamber Efendimiz (sallallahu aleyhi ve sellem) diğer bir hadis-i şerifde buyurmuştur:“Allahü Teala’ya kullarının en sevgilisi, ahlakça en güzel olanıdır.”Peygamber Efendimiz (sallallahu aleyhi ve sellem) şöyle dua buyururdu:“Allah’ım! Ben, senden sağlık, afiyet ve güzel ahlak dilerim.”",
 
           "4- İnsanların ahlakı değişebilir. Çirkin huyları güzel huylara çevirmek işine “Tehzib-i ahlâk” denir. Bu değiştirme her halde mümkündür. Mümkün olmasaydı, Peygamber efendimiz:“Ahlakınızı güzelleştirin” diye emretmezdi.Nefisleri ile mücadele eden çok kimselerin başarıya ulaşarak çok güzel huylar kazandıkları daima görülmektedir. Nefis terbiyesi (riyazet-alıştırma), hayvanlara, otlara, çiçekler ve hatta taşlara tesir edip dururken, insanlara tesir etmez mi? “Huy canın altındadır. Can çıkmadıkça huy çıkmaz,” sözü, her yönü ile doğru değildir. Bazı huyları değiştirmek güçtür; fakat imkansız değildir. Tedavi sayesinde bazı hastalıklar tesirsiz hale geldiği gibi, terbiye ve mücahede sayesinde de bazı huylar, hiç olmazsa, tesirini gösteremez bir hale gelir, güzel huyların karşısında siner kalır.",
         ],
@@ -8199,7 +8199,7 @@ export default [
         title: "GÖREVLERİN MAHİYETLERİ (ESASLARI) VE NEVİLERİ",
         slug: slugify("GÖREVLERİN MAHİYETLERİ (ESASLARI) VE NEVİLERİ"),
         content: [
-          " 5- Görev, yapılması dinen zorunlu olan veya tavsiye edilen herhangi bir hayır, bir kemal ve güzel bir şey demektir. Bu tarife göre, görevler iki nevidir. Biri, dince zorunlu olan görevlerdir ki, bunları yapmamak herhalde azabı ve sorumluluğu gerektirir. Namaz, oruç, zekat gibi…",
+          "5- Görev, yapılması dinen zorunlu olan veya tavsiye edilen herhangi bir hayır, bir kemal ve güzel bir şey demektir. Bu tarife göre, görevler iki nevidir. Biri, dince zorunlu olan görevlerdir ki, bunları yapmamak herhalde azabı ve sorumluluğu gerektirir. Namaz, oruç, zekat gibi…",
 
           "Diğer nevi, dinen her halde zorunlu olmamakla beraber istenen ve tavsiye edilen ahlakî birtakım görevlerdir ki, bunlara riayet edilmesi bir kemaldir ve iyi haldir. İnsanın sevaba kavuşmasına ve övülmesine sebeb olur. Yapılmaması ise, bir noksan olmakla beraber her halde bir sorguyu ve azabı gerektirmez. Nafile kılınan namazlar, fakirlere verilen sadakalar, insanlara karşı yapılan güzel ve kibar davranışlar gibi…",
 
@@ -8212,7 +8212,7 @@ export default [
         title: "İLAHİ GÖREVLER",
         slug: slugify("İLAHİ GÖREVLER"),
         content: [
-          " 8- Her akıl sahibi ve baliğ kimse, Allahü Teala Hazretlerini bilip ona kullukta bulunmakla yükümlüdür. Bir insan için bu kulluktan daha büyük bir nimet ve şeref olamaz. Biz önce büyük yaratanımızın varlığını, birliğini kudret ve azametini, kutsal emirlerini ve yasaklarını bilir ve doğrularız. Bunlar bizim inançla ilgili görevlerimizdir. Sonra da, namaz, oruç, zekat ve hac gibi sırf bedenî veya sırf malî veya hem bedenî ve hem de malî olan ibadetlerle yükümlü bulunduğumuzu bilir ve bunları seve seve yaparız, bunlardan feyiz alır, büyük zevk duyarız. Bunlar da bizim birer amelî görevimizdir.",
+          "8- Her akıl sahibi ve baliğ kimse, Allahü Teala Hazretlerini bilip ona kullukta bulunmakla yükümlüdür. Bir insan için bu kulluktan daha büyük bir nimet ve şeref olamaz. Biz önce büyük yaratanımızın varlığını, birliğini kudret ve azametini, kutsal emirlerini ve yasaklarını bilir ve doğrularız. Bunlar bizim inançla ilgili görevlerimizdir. Sonra da, namaz, oruç, zekat ve hac gibi sırf bedenî veya sırf malî veya hem bedenî ve hem de malî olan ibadetlerle yükümlü bulunduğumuzu bilir ve bunları seve seve yaparız, bunlardan feyiz alır, büyük zevk duyarız. Bunlar da bizim birer amelî görevimizdir.",
 
           "9- İslam yurdunu koruma ve savunma da îlahî bir görev demektir. Cihad, İslam yurdunu koruma görevi bazan farz-ı kifaye, bazan da farz-ı ayın olur. Kesin bir zaruret bulunmadığı halde, İslam ordusuna katılmakla cihada, İslam yurdunu korumaya gönüllü olarak katılmak İlahî ve vatanî bir ahlak görevidir.Dine ve İslam varlığına hizmetten daha büyük ne olabilir? Bir hadis-i şerîfde buyurulmuştur:",
 
@@ -8229,7 +8229,7 @@ export default [
         title: "ŞAHSA AİT GÖREVLER",
         slug: slugify("ŞAHSA AİT GÖREVLER"),
         content: [
-          " 12- İnsanların kendi nefislerine karşı da birtakım görevleri vardır. Bu görevlerin bir kısmı bedenlerine, bir kısmı da ruhlarına aittir. Başlıcaları şunlardır:",
+          "12- İnsanların kendi nefislerine karşı da birtakım görevleri vardır. Bu görevlerin bir kısmı bedenlerine, bir kısmı da ruhlarına aittir. Başlıcaları şunlardır:",
 
           "1) Beden terbiyesi: Öyle ki, her insan için temiz ve pak olmak, güçlü bir bedene sahib olmak gereklidir.Bir hadîs-i şerirde buyurulmuştur: “Kuvvetli olan mü’min, zayıf olan bir mü’minden hayırlıdır.”",
 
@@ -8248,7 +8248,7 @@ export default [
         title: "AİLEVİ GÖREVLER",
         slug: slugify("AİLEVİ GÖREVLER"),
         content: [
-          " 13- Aile hayatı, toplumsal varlığın başlangıcıdır. İslamda aile teşkilatı pek önemlidir. Aile ferdleri, başta zevc ile zevceden ve bunların çocuklarından ibarettir. Bunların karşılıklı görevleri vardır.",
+          "13- Aile hayatı, toplumsal varlığın başlangıcıdır. İslamda aile teşkilatı pek önemlidir. Aile ferdleri, başta zevc ile zevceden ve bunların çocuklarından ibarettir. Bunların karşılıklı görevleri vardır.",
 
           "1) Kocasının başlıca görevleri: Zevcesi ile güzel geçinmek, onu korumak, onun nafakasını (geçim ihtiyaçlarını) karşılamak, kendisine doğruluktan ayrılmamaktır. Bir hadis-i şerifde buyurulmuştur:“Sizin hayırlılarınız, kadınları için hayırlı olanlarınızdır.”Diğer bir hadîs-i şerîf de, şöyle:“Kadınlara ancak kerim olanlar ikram eder, kötü olanlar da ihanet eder.”",
 
@@ -8273,7 +8273,7 @@ export default [
         title: "İÇTİMAİ (TOPLUMSAL) GÖREVLER",
         slug: slugify("İÇTİMAİ (TOPLUMSAL) GÖREVLER"),
         content: [
-          " 14- Bilindiği üzere, insanlar yaratılış bakımından medenîdirler. Toplu bir halde yaşamak ihtiyacındadırlar. Bu yönden aralarında karşılıklı bir takım görevler bulunur. Bunlar gözetilmedikçe, toplum hayatı devam edemez, hiç bir işte düzen bulunamaz. Bu görevlerin başlıcalan şunlardır:",
+          "14- Bilindiği üzere, insanlar yaratılış bakımından medenîdirler. Toplu bir halde yaşamak ihtiyacındadırlar. Bu yönden aralarında karşılıklı bir takım görevler bulunur. Bunlar gözetilmedikçe, toplum hayatı devam edemez, hiç bir işte düzen bulunamaz. Bu görevlerin başlıcalan şunlardır:",
 
           "1) Cemiyet ferdlerinin hayatını gözetmek: Her insan yaşamak hakkına sahibdir. Hiç bir kimsenin hayatına haksız yere tecavüz edilemez. İslam gözünde bir insanı haksız yere öldüren, bütün insanları öldürmüş gibi olur. Aksine bir insanın yaşamasına sebeb olan bütün insanları hayata kavuşturmuş gibi olur.",
 
@@ -8292,7 +8292,7 @@ export default [
         title: "İSLAM'DA MUAŞERET (GÜZEL GEÇİNME) ADABI",
         slug: slugify("İSLAM'DA MUAŞERET (GÜZEL GEÇİNME) ADABI"),
         content: [
-          " 15- İslam dini, insanların muaşeretine (birbiriyle görüşüp konuşmalarına, toplum halinde medeniyet üzere yaşamalarına) büyük bir önem vermiştir.Müslümanların birbirleriyle geçinmelerinde samimiyet, tevazu, sadelik, zorlanmama, karşılıklı yardım, nezaket, saygı, sevgi ve hayırseverlik bir esastır.",
+          "15- İslam dini, insanların muaşeretine (birbiriyle görüşüp konuşmalarına, toplum halinde medeniyet üzere yaşamalarına) büyük bir önem vermiştir.Müslümanların birbirleriyle geçinmelerinde samimiyet, tevazu, sadelik, zorlanmama, karşılıklı yardım, nezaket, saygı, sevgi ve hayırseverlik bir esastır.",
 
           "16- İslamda halk ile geçinmenin çeşitli yönleri ve dereceleri vardır. Bunların bir kısmı şunlardır:",
 
@@ -8355,7 +8355,7 @@ export default [
         title: "GÜZEL VE ÇİRKİN HUYLAR",
         slug: slugify("GÜZEL VE ÇİRKİN HUYLAR"),
         content: [
-          " 17) İttika: Yüce Allah’dan korkmak, haramdan ve şüpheli şeylerden sakınmaktır. Böyle bir hale “Takva” denir. Bunun sahibine de “Müttakî” denilir. Müttakî olan bir zat, güvenilir ve itimat edilir bir insan demektir. Ondan hiç bir kimseye zarar gelmez.İslam önünde insanlar esasen birbirine eşittirler. Bunların seçkinliği ancak takva iledir. Kur’an-ı Kerîm’de buyurulmuştur:“Şüphe yok ki, Allah yanında en iyiniz, en çok müttakî olanınızdır.”İttikanın karşıtı fısk’dır, fücur’dur. Daha açığı, doğru yoldan çıkmak, Allah’a asi olmak, haram ve şüpheli şeylerden kaçınmamaktır. Böyle bir halin sonucu da felakettir, azabdır.",
+          "17) İttika: Yüce Allah’dan korkmak, haramdan ve şüpheli şeylerden sakınmaktır. Böyle bir hale “Takva” denir. Bunun sahibine de “Müttakî” denilir. Müttakî olan bir zat, güvenilir ve itimat edilir bir insan demektir. Ondan hiç bir kimseye zarar gelmez.İslam önünde insanlar esasen birbirine eşittirler. Bunların seçkinliği ancak takva iledir. Kur’an-ı Kerîm’de buyurulmuştur:“Şüphe yok ki, Allah yanında en iyiniz, en çok müttakî olanınızdır.”İttikanın karşıtı fısk’dır, fücur’dur. Daha açığı, doğru yoldan çıkmak, Allah’a asi olmak, haram ve şüpheli şeylerden kaçınmamaktır. Böyle bir halin sonucu da felakettir, azabdır.",
 
           "18) Edeb: Güzel terbiye ve güzel huylarla vasıflanmaktır, utanılacak şeylerden insanı koruyan bir hal demektir.Edeb, insan için büyük bir şereftir. Edebin karşıtı İsaet’dir ki, kötülük yapmak ve terbiyeye aykırı davranmak demektir.Edeb, insanın süsüdür. Edeb, insanı nefsin arzusuna uymaktan korur ve kurtarır.“İnsanın edebi, zehebinden (altınından) iyidir” denilmiştir.Edebden yoksun olan bir insan, bir toplum için zararlı mikroplardan daha tehlikelidir.",
 
@@ -8634,7 +8634,7 @@ export default [
         title: "ADEM ALEYHİSSELAM",
         slug: slugify("ADEM ALEYHİSSELAM"),
         content: [
-          " 8- Bütün insanların ilk babası ve ilk Peygamberi Adem aleyhisselâm’dır. Şöyle ki: Yüce Allah, bu âlemi yoktan var etmiş, birçok devirler geçtikten sonra da yeryüzünde insan cinsinin ilk babası olmak üzere büyük kudret ile Hazret-i Âdem’in cesedini topraktan yaratmış ve onu ruhla, ilimle seçkin kılmış ve ona eş olmak için de Hazret-i Havva’yı yaratmıştır.Bütün melekler Hazret-i Allah’ın emri ile Âdem’e secde ettiler, yalnız meleklerin arasında yaşayan ve aslında cinlerden bulunan İblis (Şeytan), kendisinin ateşten yaratılmakla Âdem’den daha üstün olduğunu söyleyerek büyüklenmiş ve secde etmekten kaçınmıştı. Bunun cezası olarak da melekler arasından kovulmuş ve lanete uğramıştır.",
+          "8- Bütün insanların ilk babası ve ilk Peygamberi Adem aleyhisselâm’dır. Şöyle ki: Yüce Allah, bu âlemi yoktan var etmiş, birçok devirler geçtikten sonra da yeryüzünde insan cinsinin ilk babası olmak üzere büyük kudret ile Hazret-i Âdem’in cesedini topraktan yaratmış ve onu ruhla, ilimle seçkin kılmış ve ona eş olmak için de Hazret-i Havva’yı yaratmıştır.Bütün melekler Hazret-i Allah’ın emri ile Âdem’e secde ettiler, yalnız meleklerin arasında yaşayan ve aslında cinlerden bulunan İblis (Şeytan), kendisinin ateşten yaratılmakla Âdem’den daha üstün olduğunu söyleyerek büyüklenmiş ve secde etmekten kaçınmıştı. Bunun cezası olarak da melekler arasından kovulmuş ve lanete uğramıştır.",
 
           "9- Yüce Allah özel bir ikram olarak Âdem ile Havva’yı Cennet’e koymuş ve hikmeti gereği olarak cennette bulunan bir ağacın meyvesinden yemelerini kendilerine yasaklamıştı. Oysa ki, Şeytan, bir yolunu bularak Cennet’e girmiş ve bunlara kuşku vermiş. Demiş ki: Bu meyveden yerseniz, devamlı olarak burada kalırsınız. Hem de onlara bunu yemin ederek söylemişti.",
 
@@ -8657,14 +8657,14 @@ export default [
         title: "İDRİS ALEYHİSSELAM",
         slug: slugify("İDRİS ALEYHİSSELAM"),
         content: [
-          " 13- Hazret-i İdris büyük bir peygamberdir. Hazret-i Şît’den sonra peygamber olmuştur. Birçok ilimlere, hikmetlere, göklerin esrarına dair bilgisi vardı. Bir rivayete göre ilk yazı yazan ve ilk elbise giyen Hazret-i İdris’dir. Yeryüzünde üç yüz altmış sene yaşadığı rivayet edilir. Sonunda Hak Teâlâ tarafından yüksek bir makama kaldırılmıştır.",
+          "13- Hazret-i İdris büyük bir peygamberdir. Hazret-i Şît’den sonra peygamber olmuştur. Birçok ilimlere, hikmetlere, göklerin esrarına dair bilgisi vardı. Bir rivayete göre ilk yazı yazan ve ilk elbise giyen Hazret-i İdris’dir. Yeryüzünde üç yüz altmış sene yaşadığı rivayet edilir. Sonunda Hak Teâlâ tarafından yüksek bir makama kaldırılmıştır.",
         ],
       },
       {
         title: "NUH ALEYHİSSELAM",
         slug: slugify("NUH ALEYHİSSELAM"),
         content: [
-          " 14- Hazret-i Âdem’den sonra insanlar çoğalmış, bir çok yerleri imar etmiş; fakat Allah’ın birliğine dayanan gerçek tevhid dinini bırakıp putlara tapınmaya başlamışlardı. Kendilerine kırk veya elli yaşında bulunan Hazret-i Nuh aleyhisselâm peygamber gönderildi. Bu muhterem peygamberin dokuz yüz elli sene süren öğütlerini dinlemediler. Sonunda Hazret-i Nuh, Yüce Allah’ın emri ile gemi yaptı.",
+          "14- Hazret-i Âdem’den sonra insanlar çoğalmış, bir çok yerleri imar etmiş; fakat Allah’ın birliğine dayanan gerçek tevhid dinini bırakıp putlara tapınmaya başlamışlardı. Kendilerine kırk veya elli yaşında bulunan Hazret-i Nuh aleyhisselâm peygamber gönderildi. Bu muhterem peygamberin dokuz yüz elli sene süren öğütlerini dinlemediler. Sonunda Hazret-i Nuh, Yüce Allah’ın emri ile gemi yaptı.",
 
           "Bu gemi tamamlandıktan sonra gökten yağmurlar yağmaya, yerden sular fışkırmaya, denizler kaynayıp taşmaya başladı, sular bütün yeryüzünü kapladı. Dağların tepelerini bile aştı. Buna “Tufan” olayı denir ki, rivayete göre Hazret-i Âdem’in yaratılışından “2242” sene sonra olmuş, beş veya yedi ay devam etmiştir.",
 
@@ -8687,7 +8687,7 @@ export default [
         title: "HUD ALEYHİSSELAM",
         slug: slugify("HUD ALEYHİSSELAM"),
         content: [
-          " 18- Hazret-i Hud, Yemen’de Hadremut civarında “Ahkaf denilen yerde yaşayan “Ad” kavmine peygamber gönderilmiştir. Şöyle ki: İnsanlar, Tufan felâketinden sonra yine azıtmışlar, yollarını sapıtmışlar, Allah’ın dinine aykırı işlere sarılmışlardı. Bunlardan bir kısmı da “Ad” kavmi idi.",
+          "18- Hazret-i Hud, Yemen’de Hadremut civarında “Ahkaf denilen yerde yaşayan “Ad” kavmine peygamber gönderilmiştir. Şöyle ki: İnsanlar, Tufan felâketinden sonra yine azıtmışlar, yollarını sapıtmışlar, Allah’ın dinine aykırı işlere sarılmışlardı. Bunlardan bir kısmı da “Ad” kavmi idi.",
 
           "Bunlar, birçok nimetlere ve kuvvetlere kavuşmuş muhteşem binalar yapmış; fakat Yüce Allah’ın birliğini inkâr ederek putlara tapınmakta bulunmuşlardı. Kendilerine Hud aleyhisselâm gönderildi. Bu muhterem peygamber, birçok mucizeler gösterdi. Fakat inanmadılar. Nihayet yedi gün sekiz gün devam eden şiddetli bir rüzgâr ile helak oldular. Hazret-i Hud da, kendisine iman edenlerle beraber çıkıp başka tarafa gitti. Yüz elli sene yaşadığı ve Mekke-i Mükerreme’de veya Hadremut’ta gömüldüğü rivayet edilmiştir.",
         ],
@@ -8705,7 +8705,7 @@ export default [
         title: "İBRAHİM ALEYHİSSELAM",
         slug: slugify("İBRAHİM ALEYHİSSELAM"),
         content: [
-          " 20- Hazret-i İbrahim “Ulü’l-Azm (azm sahibleri)” denilen büyük peygamberlerden biridir. Bunlar, bizim Peygamberimiz Hazret-i Muhammed aleyhisselâm, Nuh aleyhisselâm, Musa aleyhisselâm ve İsa aleyhisselâm olmak üzere beş peygamberdir.",
+          "20- Hazret-i İbrahim “Ulü’l-Azm (azm sahibleri)” denilen büyük peygamberlerden biridir. Bunlar, bizim Peygamberimiz Hazret-i Muhammed aleyhisselâm, Nuh aleyhisselâm, Musa aleyhisselâm ve İsa aleyhisselâm olmak üzere beş peygamberdir.",
 
           "Nuh peygamberin çocukları yeryüzüne dağıldıktan sonra Ham’ın soyundan “Nemrud” adında bir adam, birçok kabileleri başına toplayarak Babil’de, şimdiki Musul şehrinin bulunduğu yerlerde Babil hükümetini kurmuştu. Babil ülkesine “Geldanistan” denildiği gibi, hükümdarlarına da “Nemrud” denilir.",
 
@@ -8737,7 +8737,7 @@ export default [
         title: "İSMAİL ALEYHİSSELAM",
         slug: slugify("İSMAİL ALEYHİSSELAM"),
         content: [
-          " 24- Hazret-i İsmail, İbrahim aleyhisselâm’ın oğludur. Hacer adındaki zevcesinden dünyaya gelmiştir. Bu muhterem Hacer bir cariye idi. Bunu Mısır Hükümdarı, İbrahim peygamberin zevcesi “Sare”ye bağışlamıştı. Sare de, bunu kocası, İbrahim aleyhisselâm’a vermişti. Sahih görülen bir rivayete göre, Hacer, Sare’den önce vefat etmiştir.",
+          "24- Hazret-i İsmail, İbrahim aleyhisselâm’ın oğludur. Hacer adındaki zevcesinden dünyaya gelmiştir. Bu muhterem Hacer bir cariye idi. Bunu Mısır Hükümdarı, İbrahim peygamberin zevcesi “Sare”ye bağışlamıştı. Sare de, bunu kocası, İbrahim aleyhisselâm’a vermişti. Sahih görülen bir rivayete göre, Hacer, Sare’den önce vefat etmiştir.",
 
           "25- İbrahim aleyhisselâm, Allah’ın emri ile Hacer’i ve oğlu İsmail’i alıp Hicaz’da Kabe’nin bulunduğu yere kadar götürdü. Onları orada bıraktı. Yemen’den gelmekte olan “Cürhüm” kabileleri de bunlara arkadaşlık ettiler. O zamana kadar ıssız ve susuz bulunan Mekke vadisini bunlar imar ettiler. Bunların ayakları bereketiyle “Zemzem” denilen su meydana çıktı. Artık oralar şenlenmiştir.",
 
@@ -8752,7 +8752,7 @@ export default [
         title: "İSHAK ALEYHİSSELAM",
         slug: slugify("İSHAK ALEYHİSSELAM"),
         content: [
-          " 28- Hazret-i İshak, İbrahim aleyhisselâm’in ikinci oğludur. Sare’nin çocuğu olmuyordu. Hazret-i İsmail doğduğu zaman, buna üzülmüştü. Yüce Allah lütfederek Sare’ye de ihtiyarlığı zamanında Hazret-i İshak’ı verdi. İshak aleyhisselâm, daha Hazret-i İbrahim hayatta iken Şam halkına Allah tarafından peygamber gönderildi. İbrahim aleyhisselâm’ın vefatından sonra onun yerine geçti. Soyundan birçok peygamberler gelip geçti.",
+          "28- Hazret-i İshak, İbrahim aleyhisselâm’in ikinci oğludur. Sare’nin çocuğu olmuyordu. Hazret-i İsmail doğduğu zaman, buna üzülmüştü. Yüce Allah lütfederek Sare’ye de ihtiyarlığı zamanında Hazret-i İshak’ı verdi. İshak aleyhisselâm, daha Hazret-i İbrahim hayatta iken Şam halkına Allah tarafından peygamber gönderildi. İbrahim aleyhisselâm’ın vefatından sonra onun yerine geçti. Soyundan birçok peygamberler gelip geçti.",
 
           "29- Bazı rivayetlere göre, İbrahim aleyhisselâm, Hazret-i İsmail’i değil, Hazret-i İshak’ı kurban etmekle emredilmişti.İshak aleyhisselâm, rivayete göre altmış yaşında iken vefat etmiştir. Hazret-i İbrahim’in yattığı mağarada gömülmüştür. Annesi Sare de yüz yirmi yedi yaşında Şam’da vefat etmiştir.",
         ],
@@ -8761,7 +8761,7 @@ export default [
         title: "YAKUP ALEYHİSSELAM",
         slug: slugify("YAKUP ALEYHİSSELAM"),
         content: [
-          " 30- Hazret-i Yakub, İshak aleyhisselâm’ın oğludur. Lâkabı “İsrail” olduğundan oğullarına ve torunlarına “Beni İsrail (İsrail Oğulları)” denmiştir.",
+          "30- Hazret-i Yakub, İshak aleyhisselâm’ın oğludur. Lâkabı “İsrail” olduğundan oğullarına ve torunlarına “Beni İsrail (İsrail Oğulları)” denmiştir.",
 
           "Hazret-i İshak’dan sonra, yerine peygamber olarak Kenan ilinde kalmıştı. Sonradan Mısır’a gitmiş ve orada vefat etmiştir. Oradan da vasiyeti üzerine, dedesi, Hazret-i İbrahim’in gömülü bulunduğu “Halilürrahman” kasabasındaki mağaraya taşınmıştır.",
         ],
@@ -8770,7 +8770,7 @@ export default [
         title: "YUSUF ALEYHİSSELAM",
         slug: slugify("YUSUF ALEYHİSSELAM"),
         content: [
-          " 31- Hazret-i Yûsuf, Yakub aleyhisselâm’ın oğludur. Hazreti Yakub’un on iki oğlu vardı. Fakat hepsinden çok Hazret-i Yusuf’u severdi. Onda başka bir güzellik, başka bir zekâ ve kabiliyet belirtisi vardı. Daha on iki yaşında iken, bir gece rüyasında, on bir yıldız ile güneşin ve ayın kendisine secde ettiklerini görmüştü. Bu rüyasını babası Hazret-i Yakub’a söyledi. O da, kıskançlık doğurmasın diye:",
+          "31- Hazret-i Yûsuf, Yakub aleyhisselâm’ın oğludur. Hazreti Yakub’un on iki oğlu vardı. Fakat hepsinden çok Hazret-i Yusuf’u severdi. Onda başka bir güzellik, başka bir zekâ ve kabiliyet belirtisi vardı. Daha on iki yaşında iken, bir gece rüyasında, on bir yıldız ile güneşin ve ayın kendisine secde ettiklerini görmüştü. Bu rüyasını babası Hazret-i Yakub’a söyledi. O da, kıskançlık doğurmasın diye:",
 
           "– “Çocuğum! Bu rüyayı kardeşlerine söyleme,” dedi.",
 
@@ -8852,7 +8852,7 @@ export default [
         title: "HARUN ALEYHİSSELAM",
         slug: slugify("HARUN ALEYHİSSELAM"),
         content: [
-          " 48- Hazret-i Harun, Musa aleyhisselâm’ın ana-baba bir kardeşi ve peygamberlik görevlerinde yardımcı (veziri) idi. Çok güzel ve beyaz yüzü, konuşması açık-seçik, yumuşak huylu bir zat idi. Hazret-i Musa Tûr’a gittiği zaman Harun aleyhisselâm İsrail Oğullarının başında bulunmuş ve buzağıya tapanlara: “Siz bu yüzden fitneye düşmüş bulunuyorsunuz.",
+          "48- Hazret-i Harun, Musa aleyhisselâm’ın ana-baba bir kardeşi ve peygamberlik görevlerinde yardımcı (veziri) idi. Çok güzel ve beyaz yüzü, konuşması açık-seçik, yumuşak huylu bir zat idi. Hazret-i Musa Tûr’a gittiği zaman Harun aleyhisselâm İsrail Oğullarının başında bulunmuş ve buzağıya tapanlara: “Siz bu yüzden fitneye düşmüş bulunuyorsunuz.",
 
           "Sizin Rabbiniz Rahman ve Rahîm olan Yüce Allah’dır. Bana uyunuz, benim sözümü dinleyiniz. Samirî gibi bir münafıkın sözüne bakmayınız,” diyerek onlara etkili öğütler vermişse de, kabul etmediklerinden bir tarafa çekilerek Hazret-i Musa’nın dönüşünü beklemiştir. İsrail Oğulları bölünüp iki kısma ayrılmasınlar ve birbirleriyle mücadele etmesinler diye, Hazret-i Harun daha ileriye gitmemişti.",
 
@@ -8867,7 +8867,7 @@ export default [
         title: "DAVUD ALEYHİSSELAM",
         slug: slugify("DAVUD ALEYHİSSELAM"),
         content: [
-          " 50- Hazret-i Davud, Yakub aleyhisselâm’ın oğlu Yehuda’nın soyundandır. İsmail aleyhisselâm’ın vefatından sonra, kendisine peygamberlik verilmiş ve kayınpederi Talut’un ölümünden sonra da İsrail Oğullarına hükümdar olmuştur.Hazret-i Davud’a verilen “Zebur” adlı kitab, hep öğütlerden, iman esaslarından ve dualardan ibarettir. Şeriata ait hükümleri kapsamıyordu. Kendisi de, Musa aleyhisselâm’ın şeriatı ile amel etmiştir.",
+          "50- Hazret-i Davud, Yakub aleyhisselâm’ın oğlu Yehuda’nın soyundandır. İsmail aleyhisselâm’ın vefatından sonra, kendisine peygamberlik verilmiş ve kayınpederi Talut’un ölümünden sonra da İsrail Oğullarına hükümdar olmuştur.Hazret-i Davud’a verilen “Zebur” adlı kitab, hep öğütlerden, iman esaslarından ve dualardan ibarettir. Şeriata ait hükümleri kapsamıyordu. Kendisi de, Musa aleyhisselâm’ın şeriatı ile amel etmiştir.",
 
           "51- Davud aleyhisselâm’ın çok hoş bir sesi vardı. Zebur’u okudukça, dinleyenler pek ruhanî zevklere dalardı. Bir mucize olmak üzere, mübarek elleri ile demiri mum gibi yumuşatır ve demirden zırh yapardı. Kendi elinin emeği ile yiyeceğini kazanırdı. Devlet hazinesinden para almak istemezdi. İnsanlara daima öğütler verir, adaletle hüküm vermeye çalışır dururdu. Kudüs şehrini fethederek hükümet merkezi yapmıştı. Umman beldelerini, Halep’i, Nusaybin’i, Ermenistanı ele geçirmişti. Kırk sene hükümette bulunduktan sonra yetmiş yaşında vefat etmiştir.",
         ],
@@ -8876,7 +8876,7 @@ export default [
         title: "SÜLEYMAN ALEYHİSSELAM",
         slug: slugify("SÜLEYMAN ALEYHİSSELAM"),
         content: [
-          " 52- Hazret-i Süleyman, Davud aleyhisselâm’ın oğludur. Onun ölümünden sonra on üç yaşında olarak yerine geçmiş. Sonra kendisine peygamberlik de verilmiştir. Bu bakımdan, babası gibi peygamberlikle hükümet etme görevlerini bir arada toplamıştır.",
+          "52- Hazret-i Süleyman, Davud aleyhisselâm’ın oğludur. Onun ölümünden sonra on üç yaşında olarak yerine geçmiş. Sonra kendisine peygamberlik de verilmiştir. Bu bakımdan, babası gibi peygamberlikle hükümet etme görevlerini bir arada toplamıştır.",
 
           "Hazret-i Süleyman’a doğuda ve batıda olan hükümdarlar itaat ederek kıymetli hediyeler göndermişler. Yemen Melikesi, Belkıs dahi, kendisi ile görüşmeye gelmişti. Kızıl denizinde hazırlattığı donanmayı Okyanus sahillerine yollamıştı. Tetmür ve Balebek şehirlerini ve yedi senede de Mescid-i Aksa’yı yaptırıp tamamlamıştı.",
 
@@ -8899,28 +8899,28 @@ export default [
         title: "İLYAS ALEYHİSSELAM",
         slug: slugify("İLYAS ALEYHİSSELAM"),
         content: [
-          " 57- Hazret-i İlyas, İsrail Oğullarına gönderilmiş mübarek bir peygamberdir. İsraîl Oğulları, Hazret-i Süleyman’dan sonra ayrılığa düşmüşler. İçlerinden bazıları, Belebek Hakiminin yaptırmış olduğu “Ba’l” adındaki puta tapmaya başlamışlardı. Kendilerine Allah tarafından bir lütuf olarak gönderilen peygamber Hazret-i İlyas’ın öğütlerini dinlemediler. Bu peygamberi beldelerinden çıkardılar. Fakat bunun üzerine pek fena bir kıtlığa tutuldular, yaptıklarına pişman oldular. İlyas aleyhisselâm’ı arayıp buldular. Bir süre onun öğütlerini dinledilerse de, sonra yine isyana başladılar. Hazret-i İlyas da onların arasından çekilerek bir yerde kutsal bir şekilde yalnızca yaşamayı tercih etti.",
+          "57- Hazret-i İlyas, İsrail Oğullarına gönderilmiş mübarek bir peygamberdir. İsraîl Oğulları, Hazret-i Süleyman’dan sonra ayrılığa düşmüşler. İçlerinden bazıları, Belebek Hakiminin yaptırmış olduğu “Ba’l” adındaki puta tapmaya başlamışlardı. Kendilerine Allah tarafından bir lütuf olarak gönderilen peygamber Hazret-i İlyas’ın öğütlerini dinlemediler. Bu peygamberi beldelerinden çıkardılar. Fakat bunun üzerine pek fena bir kıtlığa tutuldular, yaptıklarına pişman oldular. İlyas aleyhisselâm’ı arayıp buldular. Bir süre onun öğütlerini dinledilerse de, sonra yine isyana başladılar. Hazret-i İlyas da onların arasından çekilerek bir yerde kutsal bir şekilde yalnızca yaşamayı tercih etti.",
         ],
       },
       {
         title: "ELYAS'A ALEYHİSSELAM",
         slug: slugify("ELYAS'A ALEYHİSSELAM"),
         content: [
-          " 58- Hazret-i Elyasa, Beni İsraîl peygamberlerindendir. İsraîl Oğulları İlyas aleyhisselâm’dan sonra bu peygamberin de öğütlerini kabul etmediler. Hazret-i Musa’nın şeriatını bırakarak birbirleri ile uğraştılar. Sonunda üzerlerine Asuriye Devleti musallat oldu, hakimiyet kurdu.Hazret-i Elyasa, İsraîl Oğullarının bu yolsuz hareketlerinden usanarak hilâfeti Zülkifl aleyhisselâma bıraktı ve arkasından vefat etti.",
+          "58- Hazret-i Elyasa, Beni İsraîl peygamberlerindendir. İsraîl Oğulları İlyas aleyhisselâm’dan sonra bu peygamberin de öğütlerini kabul etmediler. Hazret-i Musa’nın şeriatını bırakarak birbirleri ile uğraştılar. Sonunda üzerlerine Asuriye Devleti musallat oldu, hakimiyet kurdu.Hazret-i Elyasa, İsraîl Oğullarının bu yolsuz hareketlerinden usanarak hilâfeti Zülkifl aleyhisselâma bıraktı ve arkasından vefat etti.",
         ],
       },
       {
         title: "ZÜLKİFL ALEYHİSSELAM",
         slug: slugify("ZÜLKİFL ALEYHİSSELAM"),
         content: [
-          " 59- Hazret-i Zülkifl muhterem bir peygamberdir. Elyasa’ hazretlerine halife olduktan sonra peygamberliğe kavuşmuştur. Kavmini tevhid dinine çağırmış, kendilerine birçok etkili öğütler vermiştir. Bitlis şehri yakınında gömülü bulunduğu rivayet edilir. Şam ve başka yerlerde makamları vardır.",
+          "59- Hazret-i Zülkifl muhterem bir peygamberdir. Elyasa’ hazretlerine halife olduktan sonra peygamberliğe kavuşmuştur. Kavmini tevhid dinine çağırmış, kendilerine birçok etkili öğütler vermiştir. Bitlis şehri yakınında gömülü bulunduğu rivayet edilir. Şam ve başka yerlerde makamları vardır.",
         ],
       },
       {
         title: "YUNUS ALEYHİSSELAM",
         slug: slugify("YUNUS ALEYHİSSELAM"),
         content: [
-          " 60- Hazret-i Yunus, İsrail Oğullarından gelen mübarek bir peygamberdir. Annesine nisbetle “Yunus ibni Metta” diye anılır. Asuriye Devletinin hükümet merkezi olan bugünkü Musul şehrinin karşısında harabesi görülen “Ninova” halkına peygamber gönderilmiştir. Putlara tapmakta olan Ninova halkı, Hazret-i Yunus’un otuz üç sene devam eden öğütlerini dinlemediler. Hazreti Yunus da, Allah tarafından kendisine izin verilmeden Ninova’yı terk etti. Dicle kenarına gitti. Bir gemiye binerek bir tarafa gitmek istedi.",
+          "60- Hazret-i Yunus, İsrail Oğullarından gelen mübarek bir peygamberdir. Annesine nisbetle “Yunus ibni Metta” diye anılır. Asuriye Devletinin hükümet merkezi olan bugünkü Musul şehrinin karşısında harabesi görülen “Ninova” halkına peygamber gönderilmiştir. Putlara tapmakta olan Ninova halkı, Hazret-i Yunus’un otuz üç sene devam eden öğütlerini dinlemediler. Hazreti Yunus da, Allah tarafından kendisine izin verilmeden Ninova’yı terk etti. Dicle kenarına gitti. Bir gemiye binerek bir tarafa gitmek istedi.",
 
           "Fakat gemi yürümedi, içinde bulunanlar: “Aramızda bir suçlu var,” demeye ve suçluyu bulmak için kur’a atmaya başladılar. Hazret-i Yunus, “O suçlu kul benim. Rabbimden izin almadan kavmimi bıraktım,” diyerek kendisini suya attı. Hemen büyük bir balık tarafından yutuldu. Bereket versin ki, hemen tevbe ve istiğfara başlamış oldu. “La ilahe illâ ente sübhaneke innî küntü minezzalimîn = Senden başka hiçbir İlâh yoktur. Seni bütün noksanlıklardan tenzih ederim. Hiç şüphesiz ben, böyle yapmakla zalimlerden oldum,” diyerek Allah’ı tesbihe devam etti. Bir süre sonra balık kendisini çıkarıp sahile attı.",
 
@@ -8935,7 +8935,7 @@ export default [
         title: "ZEKERİYYA ALEYHİSSELAM",
         slug: slugify("ZEKERİYYA ALEYHİSSELAM"),
         content: [
-          " 63- Hazret-i Zekeriyya, Süleyman aleyhisselâm’ın soyundan pek büyük bir peygamberdir. Beytü’l-Makdis’de Reis idi. Kendisine peygamberlik ihsan edilmiştir. Hazret-i Zekeriyya’nın zevcesi “İşa’ın kız kardeşi olan Hanne, kocası İmran’dan Meryem adında bir kız doğurmuştu.",
+          "63- Hazret-i Zekeriyya, Süleyman aleyhisselâm’ın soyundan pek büyük bir peygamberdir. Beytü’l-Makdis’de Reis idi. Kendisine peygamberlik ihsan edilmiştir. Hazret-i Zekeriyya’nın zevcesi “İşa’ın kız kardeşi olan Hanne, kocası İmran’dan Meryem adında bir kız doğurmuştu.",
 
           "Daha önce yapmış olduğu adağa dayanarak bu kızını Beyt-i Makdis’in hizmetine bağlamıştı. Hazret-i Meryem teyzesinin yanında büyüdükten sonra, Beytü’l-Makdis’de kendisine özel olarak ayrılan bir odada ibadetle meşgul oluyordu. Bu pek temiz ve iffetli kız, koca yüzü görmediği halde, Yüce Allah’ın bir kudret ve hikmet eseri olarak gebe kaldı. Hazret-i İsa’yı doğurdu.",
 
@@ -8946,7 +8946,7 @@ export default [
         title: "YAHYA ALEYHİSSELAM",
         slug: slugify("YAHYA ALEYHİSSELAM"),
         content: [
-          " 65- Hazret-i Yahya, Zekeriyya aleyhisselâm’ın oğludur. Babası yaşlı iken annesi İşa’dan doğmuştur. Yüce Allah’ın azabından son derece korkar, günleri ah ve inilti ile geçerdi. Daha genç yaşta kendisine peygamberlik ihsan edildi. Rivayete göre, Hazret-i İsa’dan üç sene veya altı ay önce doğmuştur. İlk önce Hazret-i Musa’nın şeriatı ile amel ederdi. Sonra İncil’in Hazret-i İsa’ya verilmesi üzerine, İsa aleyhisselâm’ın şeriatı ile amel etmekle görevlendirildi.",
+          "65- Hazret-i Yahya, Zekeriyya aleyhisselâm’ın oğludur. Babası yaşlı iken annesi İşa’dan doğmuştur. Yüce Allah’ın azabından son derece korkar, günleri ah ve inilti ile geçerdi. Daha genç yaşta kendisine peygamberlik ihsan edildi. Rivayete göre, Hazret-i İsa’dan üç sene veya altı ay önce doğmuştur. İlk önce Hazret-i Musa’nın şeriatı ile amel ederdi. Sonra İncil’in Hazret-i İsa’ya verilmesi üzerine, İsa aleyhisselâm’ın şeriatı ile amel etmekle görevlendirildi.",
 
           "66- Yahya aleyhisselâm, Hazret-i İsa’nın şeriatı ile amele başladığı bir anda idi ki, İsrail Oğullarının Reisi “Hiredus”. Musa peygamberin şeriatı üzere kendi kardeşinin kızını almak istedi. Fakat Hazret-i Yahya, İsa peygamberin şeriatına dayanarak, artık bu nikâhın caiz olamayacağını bildirdi. Bunun üzerine hırsa kapılan Reis, O masum peygamberi henüz otuz yaşlarında iken şehid etti. Bu şehid edilişi, rivayete göre, göğe yükseltilmesinden bir yıl önce meydana gelmiştir. Bu cinayeti işleyenler, bunun cezasını çekmiştir. Yurdları harab olmuş, nesilleri kesilip gitmiştir. Ahirette görecekleri azab ise, çok daha korkunçtur.",
         ],
@@ -8955,7 +8955,7 @@ export default [
         title: "İSA ALEYHİSSELAM",
         slug: slugify("İSA ALEYHİSSELAM"),
         content: [
-          " 67- İsa aleyhisselâm, Hazret-i Meryem’in oğludur. Onun doğuşu büyük bir mucize olmuştur. Yahudiler bunu anlayamadılar. Kötü zanna düşerek Hazret-i Meryem’i cezalandırmak istediler. Fakat Hazret-i İsa daha beşikte yatan bir çocuk iken, Yüce Allah’ın kudreti ile konuşmaya başladı: “Ben Allah’ın kuluyum, bana kitab verdi, bana peygamberlik verdi. Beni, her nerede bulunursam bulunayım mübarek kıldı,” dedi. Bu mucizeyi gören Yahudiler, Hazret-i Meryem’i cezalandırmaktan el çektiler.",
+          "67- İsa aleyhisselâm, Hazret-i Meryem’in oğludur. Onun doğuşu büyük bir mucize olmuştur. Yahudiler bunu anlayamadılar. Kötü zanna düşerek Hazret-i Meryem’i cezalandırmak istediler. Fakat Hazret-i İsa daha beşikte yatan bir çocuk iken, Yüce Allah’ın kudreti ile konuşmaya başladı: “Ben Allah’ın kuluyum, bana kitab verdi, bana peygamberlik verdi. Beni, her nerede bulunursam bulunayım mübarek kıldı,” dedi. Bu mucizeyi gören Yahudiler, Hazret-i Meryem’i cezalandırmaktan el çektiler.",
 
           "Rivayete göre Hazret-i İsa, Beyt-i Makdis’e birkaç kilometre uzaklıkta bulunan “Beyt-i Lahm” köyünde aralık ayının yirmi dördüne raslayan çarşamba gecesi doğmuştur.",
 
@@ -9005,7 +9005,7 @@ export default [
         title: "PEYGAMBERİMİZİN MÜBAREK NESEBLERİ",
         slug: slugify("PEYGAMBERİMİZİN MÜBAREK NESEBLERİ"),
         content: [
-          " 78- Resûl-i Ekrem (sallallahu aleyhi ve sellem) Efendimiz, Kureyş kabilesindendir. Haşim ailesinden gelmiştir. Muhterem babasının adı Abdullah, dedesinin adı Abdülmutalib ve annesinin adı “Amine”dir. Peygamber Efendimizin baba tarafından mübarek nesebleri şöyledir:",
+          "78- Resûl-i Ekrem (sallallahu aleyhi ve sellem) Efendimiz, Kureyş kabilesindendir. Haşim ailesinden gelmiştir. Muhterem babasının adı Abdullah, dedesinin adı Abdülmutalib ve annesinin adı “Amine”dir. Peygamber Efendimizin baba tarafından mübarek nesebleri şöyledir:",
 
           "Hazret-i Muhammed (sallallahu aleyhi ve sellem) İbni Abdullah, İbni Abdülmuttalib, Haşim, Abdi Menaf, Kusey, Hakim, Mürre, Kâ’b, Lüey, Galib, Fihr, Malik, Nadir, Kinane, Hüzeyme, Müdrike, İlyas, Mudar, Nizar, Mead, Adnan. Adnan da İsmail aleyhisselâm’ın oğlu “Kıyzar”ın neslindendir. Adlarını yazdığımız bu zatlardan her birinin evlâdı birçok kabilelere ayrılmıştır. Malik’in oğlu Fihr’in evlâdından da Kureyş kabilesi meydana gelmiştir.",
 
@@ -9020,7 +9020,7 @@ export default [
         title: "HAZRET-İ PEYGAMBERİN ÇOCUKLUĞU VE İLK EVLENMELERİ",
         slug: slugify("HAZRET-İ PEYGAMBERİN ÇOCUKLUĞU VE İLK EVLENMELERİ"),
         content: [
-          " 81- Peygamber Efendimizin çocukluk çağı, pek kutsal bir halde geçti. Daha doğar doğmaz birtakım mucizeler belirmiş, kavim ve kabilesi arasında bir bolluk ve bereket meydana gelmişti. Kâbe-i Muazzama içinde bulunan müşriklere ait putlar, yüzleri üzere yere düşmüş, ateşe tapanların ateşleri sönmüş, acaib rüyalar görülmüştü.Peygamber Efendimizin dedeleri arasında evlâddan evlâda geçen bir nur vardı. Bu nur sonunda Peygamber Efendimize geçti ve onun mübarek yüzünde parlamaya başladı.",
+          "81- Peygamber Efendimizin çocukluk çağı, pek kutsal bir halde geçti. Daha doğar doğmaz birtakım mucizeler belirmiş, kavim ve kabilesi arasında bir bolluk ve bereket meydana gelmişti. Kâbe-i Muazzama içinde bulunan müşriklere ait putlar, yüzleri üzere yere düşmüş, ateşe tapanların ateşleri sönmüş, acaib rüyalar görülmüştü.Peygamber Efendimizin dedeleri arasında evlâddan evlâda geçen bir nur vardı. Bu nur sonunda Peygamber Efendimize geçti ve onun mübarek yüzünde parlamaya başladı.",
 
           "82- Mekke-i Mükerreme halkı, yeni doğan çocukları, havası hoş olan yerlerde yaşayan ve dilleri pek açık olan aşiretlerden birer süt anneye verirlerdi. Hazret-i Muhammed’i de, Beni Sa’d kabilesinden Haris adındaki adamın karısı Halime’ye verdiler. Halime, bu meleklerden daha güzel ve daha pak olan çocuğu bağrına bastı, yurduna alıp götürdü. Onu dört yıl besledi. Bu süre içinde Hazret-i Muhammed’de gördüğü üstün hallere ve yurdunda beliren berekete nihayet yoktu.",
 
@@ -9043,7 +9043,7 @@ export default [
           "PEYGAMBER EFENDİMİZİN ALLAH'IN VAHYİNE VE ELÇİLİĞİNE KAVUŞMASI"
         ),
         content: [
-          " 87- Hazret-i Muhammed (sallallahu aleyhi ve sellem) Efendimiz, çocukluğundan beri üstün bir fazilet ve çok güzel bir ahlâk içinde yaşamıştı. Kavminin cahilce yaptıkları işlerden ve âdetlerden tamamen uzaktı. Kimseden bir şey okumamış, bir şey yazmamıştı.",
+          "87- Hazret-i Muhammed (sallallahu aleyhi ve sellem) Efendimiz, çocukluğundan beri üstün bir fazilet ve çok güzel bir ahlâk içinde yaşamıştı. Kavminin cahilce yaptıkları işlerden ve âdetlerden tamamen uzaktı. Kimseden bir şey okumamış, bir şey yazmamıştı.",
 
           "Kimse ile dini konulara ait bir şey konuşmamıştı. Onun üzerinde kimsenin hocalık hakkı olamazdı. O, bütün cihanın en büyük hocası ve en yüksek mürşidi olmaya adaydı. Onu, Yüce Allah bir mucize olarak yaratmıştı. Onun kalbine bütün ilim ve hikmetleri doğrudan doğruya Cenâb-ı Hakk bırakacaktı. O, tam bir masumiyet içinde kırk yaşına yaklaşmıştı. O sırada mübarek gözlerine melekler görünür, “Ya Muhammed!” diye ortalıktan seslenilirdi. Kendisine taşlardan ve ağaçlardan selâm sesleri gelirdi. Aklı, zekâsı, maddî manevî sağlığı üstün bir şekilde mükemmeldi.",
 
@@ -9064,7 +9064,7 @@ export default [
         title: "İSLAMIN ÇIKIŞINDA ARABİSTAN'IN DİNİ VE İÇTİMAİ DURUMU",
         slug: slugify("İSLAMIN ÇIKIŞINDA ARABİSTAN'IN DİNİ VE İÇTİMAİ DURUMU"),
         content: [
-          " 91- Peygamber Efendimizin doğduğu ve daha sonra peygamberliğe kavuşmakla İslâm dinini her tarafa yaymaya başladığı zaman, bütün dünya gibi, Arabistan’da büyük bir cehalet ve sapıklık içinde bulunuyordu.",
+          "91- Peygamber Efendimizin doğduğu ve daha sonra peygamberliğe kavuşmakla İslâm dinini her tarafa yaymaya başladığı zaman, bütün dünya gibi, Arabistan’da büyük bir cehalet ve sapıklık içinde bulunuyordu.",
 
           "Arablar o zaman değişik batıl din ve mezheblere bağlı idiler. Birçoğu yıldızlara, ağaçlara, taşlara ve heykellere tapmaktaydı. Hepsi de cahil idi. Aralarında okuryazar kimseler çok azdı. Medeniyetten yoksundular. Dağınık bir halde yaşarlardı. Bazı kabileler yeni doğan kız çocuklarını diri diri toprağa gömer de bundan acı bile duymazlardı.",
 
@@ -9077,7 +9077,7 @@ export default [
         title: "İSLAMİYETİ İLK KABUL EDENLER",
         slug: slugify("İSLAMİYETİ İLK KABUL EDENLER"),
         content: [
-          " 93- Resûl-i Ekrem Efendimiz kendisine peygamberlik gelince, ilk önce çevresinde bulunan bazı kişileri özel şekilde İslâm dinine çağırdı. Bu daveti ilk önce Hazret-i Hatice validemiz kabul edip İslâmiyet şerefine kavuştu. Sonra Kureyş’in büyüklerinden olan Ebû Bekir ile Peygamberirimizin azadlısı Zeyd İbni Harise ve peygamberimizin amcası Ebû Talip’in oğlu olan 9-10 yaşlarındaki Hazret-i Ali İslâmı kabul etmişlerdi. Az sonra da Hazret-i Ebû Bekir’in delâleti ile Osman İbnî Affan, Abdurrahman İbnî Avf, Sa’d İbni Ebû Vakkas, Zübeyr İbnî Avvam, Talha İbnî Ubeydullah hazretleri İslâmiyetle şereflendiler.",
+          "93- Resûl-i Ekrem Efendimiz kendisine peygamberlik gelince, ilk önce çevresinde bulunan bazı kişileri özel şekilde İslâm dinine çağırdı. Bu daveti ilk önce Hazret-i Hatice validemiz kabul edip İslâmiyet şerefine kavuştu. Sonra Kureyş’in büyüklerinden olan Ebû Bekir ile Peygamberirimizin azadlısı Zeyd İbni Harise ve peygamberimizin amcası Ebû Talip’in oğlu olan 9-10 yaşlarındaki Hazret-i Ali İslâmı kabul etmişlerdi. Az sonra da Hazret-i Ebû Bekir’in delâleti ile Osman İbnî Affan, Abdurrahman İbnî Avf, Sa’d İbni Ebû Vakkas, Zübeyr İbnî Avvam, Talha İbnî Ubeydullah hazretleri İslâmiyetle şereflendiler.",
 
           "94- Peygamber Efendimiz, daha sonra insanları açıkça dine çağırmaya başladı. Herkese Yüce Allah’ın birliğini, varlığını ve büyüklüğünü anlatarak ondan başka hiçbir şeye tapılmamasını söyledi. Bunun üzerine gerçeği anlayanlar müslüman olmaya can atıyorlardı. Cehaletten kurtulup mutluluğa eriyorlardı. Bir süre sonra peygamberimizin amcalarından Hazret-i Hamza İslâmiyeti kabul etti. Bundan az sonra da Ömer İbnî Hattab müslüman olarak İslâm dininin yayılmasına çalıştı. Artık müslümanların sayısı günden güne artıyordu.",
 
@@ -9099,7 +9099,7 @@ export default [
           "İLK MÜSLÜMANLARIN ÇEKTİKLERİ EZİYETLER, HABEŞİSTAN'A HİCRETLERİ VE ÇEMBER İÇİNDE KALMALARI"
         ),
         content: [
-          " 97- Peygamber Efendimizi doğrulayıp İslâm dinini kabul eden ashab-ı kiramdan birçokları, bu uğurda pek çok eziyetler çekmiş, birçok maddî mahrumiyetlere katlanmış, dinleri uğrunda mallarını ve canlarını vermişlerdir. Peygamber Efendimiz dahi birçok eziyetlere uğramış, hiç bir peygamberin görmediği eza ve cefaya uğrayarak bunlara sabretmiş ve metanet göstermiştir. Yüksek Peygamberlik görevini en üstün bir şekilde çalışarak yerine getirmiştir.",
+          "97- Peygamber Efendimizi doğrulayıp İslâm dinini kabul eden ashab-ı kiramdan birçokları, bu uğurda pek çok eziyetler çekmiş, birçok maddî mahrumiyetlere katlanmış, dinleri uğrunda mallarını ve canlarını vermişlerdir. Peygamber Efendimiz dahi birçok eziyetlere uğramış, hiç bir peygamberin görmediği eza ve cefaya uğrayarak bunlara sabretmiş ve metanet göstermiştir. Yüksek Peygamberlik görevini en üstün bir şekilde çalışarak yerine getirmiştir.",
 
           "98- Kölelerden ilk önce müslüman olan “Bilâl-i Habeşî” idi. Bu zat müslüman olunca, görmediği eziyet kalmamıştır. Müşrikler bu muhterem zatın boynuna ip takmışlar ve onu çocukların eline vererek sokaklarda ve kızgın kumların üzerinde dolandırmışlardır. Onu bayıltıncaya kadar döğmeye devam etmişlerdir. Fakat Hazret-i Bilâl: “Allah birdir, Allah birdir,” diyerek dininde direniyor, bu eziyetlere katlanıyordu. Sonra onu Ebû Bekir Hazretleri satın alarak azad etmişti. Dinindeki sebat ve metanetinin mükâfatıdır ki, onun mübarek ismi asırlardan beri bütün İslâm ümmeti tarafından saygı ile anılıp durmaktadır. (Allah ondan razı olsun).",
 
@@ -9116,7 +9116,7 @@ export default [
         title: "EBU TALİP İLE HAZRET-İ HATİCE'NİN VEFATLARI",
         slug: slugify("EBU TALİP İLE HAZRET-İ HATİCE'NİN VEFATLARI"),
         content: [
-          " 101- Amcası Ebû Talib, Peygamberimizi çok sever, pek ziyade korurdu. Efendimizin pek muhterem ve pek doğru sözlü bir zat olduğunu bilirdi. Fakat kavminin dedikodusundan çekinerek görünüşte iman etmiş değildi. Kalben iman etmiş olduğu kendisine isnad edilen bazı şiirlerinden anlaşılmaktadır. Gerçeği ancak Yüce Allah bilir. Seksen yaşında olduğu halde, Risaletin onuncu yılında vefat etmiştir.",
+          "101- Amcası Ebû Talib, Peygamberimizi çok sever, pek ziyade korurdu. Efendimizin pek muhterem ve pek doğru sözlü bir zat olduğunu bilirdi. Fakat kavminin dedikodusundan çekinerek görünüşte iman etmiş değildi. Kalben iman etmiş olduğu kendisine isnad edilen bazı şiirlerinden anlaşılmaktadır. Gerçeği ancak Yüce Allah bilir. Seksen yaşında olduğu halde, Risaletin onuncu yılında vefat etmiştir.",
 
           "102- Ebû Talib ölümüne yakın bir zamanda Kureyş büyüklerini yanına çağırarak onlara şöyle bir öğüt vermiş: “Ey Arab’ın seçkinleri! Kimsesizlere sevgi, fakirlere yardım ediniz. Namus ve fazileti gözetiniz. Daima birlik ve beraberlik içinde hareket ediniz. Özellikle Muhammedül’l-Emîn’e itaat edip onu gözetiniz. İyi biliniz ki, Hazret-i Muhammed her sözünde doğrudur. O, Allah’ın hidayetine başarısına kavuşmuştur. Bütün Kureyş oymakları ve bütün çevre insanları onun emrine boyun eğecek, onun çağrısına koşacaktır. Eğer daha yaşayacak olsaydım, her türlü zorluklara katlanarak ona yardıma davem ederdim.”",
 
@@ -9129,7 +9129,7 @@ export default [
         title: "PEYGAMBERİMİZİN KABİLELERİ DİNE DAVETİ VE AKABE BEYATI",
         slug: slugify("PEYGAMBERİMİZİN KABİLELERİ DİNE DAVETİ VE AKABE BEYATI"),
         content: [
-          " 104- Mekke’deki müşrikler, Ebû Talib’in öğütlerini dinlemediler. Onun ölümünden sonra Hazret-i Peygambere daha ziyade düşmanlık ettiler. Eziyet etmeğe kalkıştılar. Peygamber Efendimiz de azadlısı olan Zeyd’le beraber Mekke’den çıkıp Taife gitti. Önce civarında bulunan “Bakr ibni Vail” kabilesi ile “Kahtan” kabilelerinden birini dine davet etti; fakat bunlar daveti kabul etmediler. Sonra Taife vardılar. Orada “Benî Sakıf’ kabilesini dine çağırdı; onlar da kabul etmediler, uygunsuz sözler söylediler.",
+          "104- Mekke’deki müşrikler, Ebû Talib’in öğütlerini dinlemediler. Onun ölümünden sonra Hazret-i Peygambere daha ziyade düşmanlık ettiler. Eziyet etmeğe kalkıştılar. Peygamber Efendimiz de azadlısı olan Zeyd’le beraber Mekke’den çıkıp Taife gitti. Önce civarında bulunan “Bakr ibni Vail” kabilesi ile “Kahtan” kabilelerinden birini dine davet etti; fakat bunlar daveti kabul etmediler. Sonra Taife vardılar. Orada “Benî Sakıf’ kabilesini dine çağırdı; onlar da kabul etmediler, uygunsuz sözler söylediler.",
 
           "Hazret-i Peygamber Mekke’ye döndü, Mekke’ye bir konaklık mesafede bulunan “Batni Nahle” vadisine gelince, bir gece orada kalıp ibadetle meşgul oldu. “Errahman” sûresini okurken cinlerden bir bölük gelip okunan âyetleri dinlediler ve Peygamber Efendimize iman ettiler. Duyduklarını gidip diğer cinlere de anlattılar. Bu bir gerçektir. Bunu Kur’ân-ı Kerîm bildirmektedir.",
 
@@ -9152,7 +9152,7 @@ export default [
         title: "AYIN BÖLÜNMESİ VE MİRAÇ MUCİZELERİ",
         slug: slugify("AYIN BÖLÜNMESİ VE MİRAÇ MUCİZELERİ"),
         content: [
-          " 110- Ayın iki parçaya ayrılması, peygamberliğin sekizinci yılında olmuştur. Şöyle ki: Müşriklerden bir kısım kimseler, mehtaplı bir gecede, ayın ikiye ayrılıp sonra birleşmesini Peygamber Efendimizden istediler. Böyle bir mucize gösterilmedikçe, iman etmeyeceklerini söylediler. Hazret-i Peygamber de Yüce Allah’a dua etti. Ay da, Yüce Allah’ın kudreti ile iki parçaya ayrıldı.",
+          "110- Ayın iki parçaya ayrılması, peygamberliğin sekizinci yılında olmuştur. Şöyle ki: Müşriklerden bir kısım kimseler, mehtaplı bir gecede, ayın ikiye ayrılıp sonra birleşmesini Peygamber Efendimizden istediler. Böyle bir mucize gösterilmedikçe, iman etmeyeceklerini söylediler. Hazret-i Peygamber de Yüce Allah’a dua etti. Ay da, Yüce Allah’ın kudreti ile iki parçaya ayrıldı.",
 
           "Bir parçası Nur (Hira) dağının bir tarafında, diğer parçası da öbür tarafında yüksekten göründü. Sonra birleşip eski halini aldı. Bu mucizeyi, o gece bazı yolcular da görmüştü. Mekke’ye geldikleri zaman bu olayı anlattılar. Ne yazık ki, müşrikler yine iman etmediler. Bu olayı bir sihir sandılar. Oysa ki, Yüce Allah’ın kudreti her şeye yeterlidir. Bir peygamber için mucize olmak üzere böyle bir olayı meydana getirmesine ne engel vardır? Gökyüzünde nur saçan birçok yıldızların veya diğer varlıkların güneşten ayrılarak onun çevresinde bir düzen kurduklarını bugünkü alimler iddia edip duruyorlar. Artık bu üstün âlemleri yaratıp düzene sokan Yüce Allah böyle bir mucizeyi yaratamaz mı?..",
 
@@ -9171,7 +9171,7 @@ export default [
           "İSLAMİYETİN MEDİNE'DE YAYILMASI VE MÜSLÜMANLARIN ORAYA HİCRETİ"
         ),
         content: [
-          " 112- Medine’nin eski adı “Yesrib” idi. Oraya Yemen’in Ezd kabilesinden bir toplum gelip yerleşmişlerdi. Bu toplumun başkanı olan Haris ölünce, Evs ve Hazreç adlarındaki iki oğlunu bırakmıştı. O toplum da ikiye ayrıldı. Bir kısım Evs, diğer bir kısmı da Hazreç’e bağlandı. Böylece Medine’de Evs ve Hazreç adında iki kabile türemiş oldu. Daha sonra bunların arasına şiddetli düşmanlık girdi. Daima birbirleriyle çarpışıp dururlardı. Dünyayı verseler aralarını bulmak ve kalblerini birleştirmek mümkün değildi. Fakat ne zaman ki İslâmiyet nurları parlamaya başladı, hemen o eski düşmanlığı unuttular. Bu düşmanlık yerine bir sevgi ve bir kardeşlik meydana geldi. Birbirine din bağı ile bağlandılar ve birbirinin selâmetine,mutluluğuna çalıştılar. Böylece ortak düşmanları olan Yahudilere üstün geldiler.",
+          "112- Medine’nin eski adı “Yesrib” idi. Oraya Yemen’in Ezd kabilesinden bir toplum gelip yerleşmişlerdi. Bu toplumun başkanı olan Haris ölünce, Evs ve Hazreç adlarındaki iki oğlunu bırakmıştı. O toplum da ikiye ayrıldı. Bir kısım Evs, diğer bir kısmı da Hazreç’e bağlandı. Böylece Medine’de Evs ve Hazreç adında iki kabile türemiş oldu. Daha sonra bunların arasına şiddetli düşmanlık girdi. Daima birbirleriyle çarpışıp dururlardı. Dünyayı verseler aralarını bulmak ve kalblerini birleştirmek mümkün değildi. Fakat ne zaman ki İslâmiyet nurları parlamaya başladı, hemen o eski düşmanlığı unuttular. Bu düşmanlık yerine bir sevgi ve bir kardeşlik meydana geldi. Birbirine din bağı ile bağlandılar ve birbirinin selâmetine,mutluluğuna çalıştılar. Böylece ortak düşmanları olan Yahudilere üstün geldiler.",
 
           "İşte İslâmiyet Medine’de bu iki kabile arasında günden güne hızla yayılıyordu. Ashab-ı kiramdan ”Umeyr oğlu Mus’ab” bunlara Kur’ân-ı Kerîm ve İslâm ahlâkını öğretmek için Medine’ye gönderilmişti. Sonra Başkanları olan “Sa’d ibni Muaz ve Üseyyid ibni Hudayr” de müslüman olunca, bu iki kabile arasında İslâm olma nimetine kavuşmayan kalmamış gibiydi.",
 
@@ -9187,7 +9187,7 @@ export default [
           "PEYGAMBERİMİZİN MEDİNE'YE HİCRETLERİ VE ORADAKİ BAZI ÇALIŞMALARI"
         ),
         content: [
-          " 114- Peygamberliğin on dördüncü yılı idi. Mekke’deki müslümanlar Medine’ye hicret etmişlerdi. Mekke şehrinde yalnız Hazret-i Peygamber ile aile halkı ve Hazret-i Ebû Bekir ile Hazret-i Ali kalmışlardı.Müslümanların böyle Medine’ye gidip orada bir kuvvet meydana getirmeleri, Mekke’deki gayrimüslimleri düşündürüyordu. Darü’n-Nedve denilen bir binada toplandılar. Müslümanların en büyük düşmanı olan Ebû Cehil adındaki şahsın sözüne uydular. Hazret-i Peygamberi öldürmeye karar verdiler. Her kabileden bir şahıs ayrılarak geceleyin Hazret-i Peygamberin evini kuşattılar. Uyumasını bekliyorlardı, onu öldüreceklerdi.",
+          "114- Peygamberliğin on dördüncü yılı idi. Mekke’deki müslümanlar Medine’ye hicret etmişlerdi. Mekke şehrinde yalnız Hazret-i Peygamber ile aile halkı ve Hazret-i Ebû Bekir ile Hazret-i Ali kalmışlardı.Müslümanların böyle Medine’ye gidip orada bir kuvvet meydana getirmeleri, Mekke’deki gayrimüslimleri düşündürüyordu. Darü’n-Nedve denilen bir binada toplandılar. Müslümanların en büyük düşmanı olan Ebû Cehil adındaki şahsın sözüne uydular. Hazret-i Peygamberi öldürmeye karar verdiler. Her kabileden bir şahıs ayrılarak geceleyin Hazret-i Peygamberin evini kuşattılar. Uyumasını bekliyorlardı, onu öldüreceklerdi.",
 
           "İşte o gece, Cibril-i Emîn geldi, durumu Hazret-i Peygambere bildirdi ve Medine’ye hicret için kendisine izin verildiğini söyledi. Hazret-i Peygamber kendi yatağına Hazret-i Ali’yi yatırdı. Yerden bir avuç toprak alıp dışarda bekleyen müşriklerin üzerlerine saçtı. Hiç birisi görmeksizin aralarından çıkıp gitti. O gece bir yerde kaldı. Gündüzün öğle vakti Hazret-i Ebû Bekir’in evine gitti ve beraberce hicret edeceklerini müjdeledi.",
 
@@ -9220,7 +9220,7 @@ export default [
           "PEYGAMBERİMİZİN CİHADA MEZUNİYETİ VE BAŞLICA DÜŞMANLARI"
         ),
         content: [
-          " 121- Bilindiği gibi Peygamber Efendimiz, bütün âlemlere rahmettir. O, insanlık âlemini bir kardeşlik düzeni üzere yaşatmak ve yükseltmek isterdi. Cehalet karanlıkları içinde kalmış insanları hidayet nurları ile aydınlatmaya çalışırdı. Bunun için kavmine çok güzel öğütler verdi. On üç senede çok yumuşaklık ve tatlılık gösterdi. Ne yazık ki, onlardan birçokları bu mutlu hayatın kıymetini bilemediler.",
+          "121- Bilindiği gibi Peygamber Efendimiz, bütün âlemlere rahmettir. O, insanlık âlemini bir kardeşlik düzeni üzere yaşatmak ve yükseltmek isterdi. Cehalet karanlıkları içinde kalmış insanları hidayet nurları ile aydınlatmaya çalışırdı. Bunun için kavmine çok güzel öğütler verdi. On üç senede çok yumuşaklık ve tatlılık gösterdi. Ne yazık ki, onlardan birçokları bu mutlu hayatın kıymetini bilemediler.",
 
           "Müslümanların canlarına saldırmaktan geri durmadılar. Sonunda onları yurdlarından çıkmaya da mecbur bıraktılar. Fakat bununla da yetinmediler. Diğer Arab kabilelerini de müslümanların aleyhine kışkırttılar. Bazı şairleri alet kullanarak müslümanların şereflerine dil uzatmaktan çekinmediler. Artık öğüt ve tatlılıkla hareket etmek zamanı geçmiş, müslümanlar kuvvet bulmuş, İslâm fazilet ve medeniyetini bütün dünyaya yaymak zamanı gelmişti.",
 
@@ -9251,7 +9251,7 @@ export default [
         title: "MÜSLÜMANLARIN İLK SANCAKTARI VE İLK SERİYYESİ",
         slug: slugify("MÜSLÜMANLARIN İLK SANCAKTARI VE İLK SERİYYESİ"),
         content: [
-          " 125- Mekke’de bulunan gayrimüslimler, müslümanları bu mübarek yurdlarından çıkarmışlar, mallarını ellerinden almışlar, canlarına da düşman kesilmişlerdi. Yüce Allah buna karşılık cihada izin vererek bunların mallarını, canlarını ve yurdlarını müslümanlara helâl kılmıştır.",
+          "125- Mekke’de bulunan gayrimüslimler, müslümanları bu mübarek yurdlarından çıkarmışlar, mallarını ellerinden almışlar, canlarına da düşman kesilmişlerdi. Yüce Allah buna karşılık cihada izin vererek bunların mallarını, canlarını ve yurdlarını müslümanlara helâl kılmıştır.",
 
           "Bunun için hicretin ikinci yılında, Mekkelilerin ticaret için Şam’a gönderdikleri bir ticaret kervanına taaruz edilmesine karar verildi. Böyle yapılmakla, düşmanların müslümanlar aleyhindeki tecavüz hareketleri son bulacak, kuvvet ve cesaretleri de kırılacaktı.",
 
@@ -9266,7 +9266,7 @@ export default [
         title: "BİRİNCİ VE İKİNCİ BEDİR SAVAŞLARI",
         slug: slugify("BİRİNCİ VE İKİNCİ BEDİR SAVAŞLARI"),
         content: [
-          " 127- Kureyş kabilesinden bir seriyye (çete), Medine ve civarına kadar sokulup müslümanların hayvanlarını vurmuşlardı. Peygamber Efendimiz bunu öğrenince, Hazret-i Ali’yi sancaktar tayin ederek Muhacirlerden bir birlik ile bu çeteyi izlemeye çıktı. Bedir denilen yere kadar gittiler. Fakat çete savuşup gittiğinden, geri döndüler. İşte buna Birinci Bedir Savaşı denmiştir.",
+          "127- Kureyş kabilesinden bir seriyye (çete), Medine ve civarına kadar sokulup müslümanların hayvanlarını vurmuşlardı. Peygamber Efendimiz bunu öğrenince, Hazret-i Ali’yi sancaktar tayin ederek Muhacirlerden bir birlik ile bu çeteyi izlemeye çıktı. Bedir denilen yere kadar gittiler. Fakat çete savuşup gittiğinden, geri döndüler. İşte buna Birinci Bedir Savaşı denmiştir.",
 
           "128- İkinci Bedir savaşına gelince, bu da hicretin yine ikinci yılı Ramazan ayında olmuştur. Buna “Bedr-i Kübra” da denilir. Şöyle ki:",
 
@@ -9295,7 +9295,7 @@ export default [
         title: "BENİ KAYNUKA VE UHUD SAVAŞLARI",
         slug: slugify("BENİ KAYNUKA VE UHUD SAVAŞLARI"),
         content: [
-          " 133- Peygamber Efendimiz, Medine’nin “Aliye” denilen bölgesinde oturmakta olan Beni Kaynuka Yahudileri ile sözleşme yapmıştı. Sonra bir müslümanı haksız yere öldürerek verdikleri sözü bozdular. İslâmiyetin ilerlemesinden telâşa düşmüşlerdi. Müslümanlar arasında gizlice bozgunculuk yapıyorlardı.",
+          "133- Peygamber Efendimiz, Medine’nin “Aliye” denilen bölgesinde oturmakta olan Beni Kaynuka Yahudileri ile sözleşme yapmıştı. Sonra bir müslümanı haksız yere öldürerek verdikleri sözü bozdular. İslâmiyetin ilerlemesinden telâşa düşmüşlerdi. Müslümanlar arasında gizlice bozgunculuk yapıyorlardı.",
 
           "Peygamber Efendimiz onların reislerini çağırarak ona şöyle dedi: “Ey Kaynuka Oğulları! Benim gerçek bir peygamber olduğumu biliyorsunuz. Bana iman ediniz ki, Kureyş’in (Bedir’de) uğradığı felâkete uğramıyasınız.” Onlar da şu cevabı vermişlerdi: “Sen bizi Kureyş gibi savaş bilmez mi sanıyorsun? Biz savaşa hazırız.”Bunun üzerine İslâm ordusu, hicretin ikinci yılında onların çok sağlam olan kalelerini on beş gün kuşattı. Teslime mecbur oldular ve aldıkları izin üzerine yedi yüz kişi oldukları halde Şam tarafına çıkıp gittiler. Kendilerinden alınan ganimet mallarının beşte biri ilk olarak Devlet Hazinesine yatırıldı. Geri kalanı da gaziler arasında bölüşüldü.",
 
@@ -9322,7 +9322,7 @@ export default [
         title: "BENİ NADİR, HENDEK VE BENİ KURAYZA SAVAŞLARI",
         slug: slugify("BENİ NADİR, HENDEK VE BENİ KURAYZA SAVAŞLARI"),
         content: [
-          " 139- Benî Nadir Yahudileri, Medine’ye iki saat uzakta olan “Zühre” köyünde otururlardı. Müslümanların aleyhinde çalışmamak üzere verdikleri sözü bozmaya başladılar. Uhud savaşında da, fikirlerini büsbütün bozdular. Yayılan uyarmaları dinlemediler. Hicretin dördüncü yılı Rebiülevvel ayında, Hazret-i Peygamber tarafından kaleleri on beş gün kuşatıldı. Aldıkları izin üzerine, bir kısmı Hayber’e, bir kısmı da Şam ve Filistine gittiler.",
+          "139- Benî Nadir Yahudileri, Medine’ye iki saat uzakta olan “Zühre” köyünde otururlardı. Müslümanların aleyhinde çalışmamak üzere verdikleri sözü bozmaya başladılar. Uhud savaşında da, fikirlerini büsbütün bozdular. Yayılan uyarmaları dinlemediler. Hicretin dördüncü yılı Rebiülevvel ayında, Hazret-i Peygamber tarafından kaleleri on beş gün kuşatıldı. Aldıkları izin üzerine, bir kısmı Hayber’e, bir kısmı da Şam ve Filistine gittiler.",
 
           "140- Hendek savaşına gelince, bu da hicretin beşinci yılında olmuştur. Şöyle ki: Yahudilerin teşvikiyle, Kureyş topluluğu diğer birtakım kabileleri birlikleri içine alarak on bin kişiden fazla bir ordu ile Medine’ye doğru yürüdüler.",
 
@@ -9408,7 +9408,7 @@ export default [
           "HAZRET-İ PEYGAMBERİN HÜKÜMDARLARI İSLAM DİNİNE DAVET ETMESİ"
         ),
         content: [
-          " 151- Hazret-i Peygamber (sallallahu aleyhi ve sellem) Efendimiz, bütün milletlere peygamber gönderilmiş olduğundan İslâm dinine davet için Hicretin yedinci yılı muharrem ayında birer davet mektubu yazdırıp onları mühürledikten sonra, birer elçi ile çevresindeki hükümdarlara göndermişti. Bu mektubları, Necaşi denilen Habeş Hükümdarı “Ashane”ye, Mısır Hükümdarı “Muhavkıs”e, Doğu Roma İmparatoru “Hirakl”e, Şam Meliki olup Hirakl’in bir valisi hükmünde olan “Haris”e, Yemame Meliki Hıristiyan Ali oğlu “Hevze”ye, İran hükümdarı “Hüsrev Perviz”e ve başkalarına hitab edilerek yazılmıştı.",
+          "151- Hazret-i Peygamber (sallallahu aleyhi ve sellem) Efendimiz, bütün milletlere peygamber gönderilmiş olduğundan İslâm dinine davet için Hicretin yedinci yılı muharrem ayında birer davet mektubu yazdırıp onları mühürledikten sonra, birer elçi ile çevresindeki hükümdarlara göndermişti. Bu mektubları, Necaşi denilen Habeş Hükümdarı “Ashane”ye, Mısır Hükümdarı “Muhavkıs”e, Doğu Roma İmparatoru “Hirakl”e, Şam Meliki olup Hirakl’in bir valisi hükmünde olan “Haris”e, Yemame Meliki Hıristiyan Ali oğlu “Hevze”ye, İran hükümdarı “Hüsrev Perviz”e ve başkalarına hitab edilerek yazılmıştı.",
 
           "152- Necaşi, Hazret-i Peygamberin mektubunu alır almaz öpüp yüzüne gözüne sürmüş ve Habeştan’a hicret etmiş bulunan Hazret-i Cafer’in huzurunda İslâmiyeti kabul etmişti.",
 
@@ -9423,7 +9423,7 @@ export default [
         title: "UMRETÜL-KAZA VE MUTE SAVAŞI",
         slug: slugify("UMRETÜL-KAZA VE MUTE SAVAŞI"),
         content: [
-          " 153- Peygamber Efendimiz Hicretin yedinci yılı Zilkade ayında Umre için (Kâbeyi tavaf ve sa’y için) Medine’den iki bin ashabı ile çıktı. Ashabın ileri gelenlerinden meşhur şair Abdullah İbni Revahe de önde yürüyerek güzel şiirler okuyordu. Peygamber Efendimiz Hudeybiye Andlaşmasına dayanarak Mekke’de yalnız üç gün kaldı. Sonra Medine’ye döndü.",
+          "153- Peygamber Efendimiz Hicretin yedinci yılı Zilkade ayında Umre için (Kâbeyi tavaf ve sa’y için) Medine’den iki bin ashabı ile çıktı. Ashabın ileri gelenlerinden meşhur şair Abdullah İbni Revahe de önde yürüyerek güzel şiirler okuyordu. Peygamber Efendimiz Hudeybiye Andlaşmasına dayanarak Mekke’de yalnız üç gün kaldı. Sonra Medine’ye döndü.",
 
           "Bu Umre, Hicretin altıncı yılında yapılması istenilen ve fakat Hudeybiye olayı sebebiyle yerine getirilemeyen Umre’ye bedel olduğundan buna “Umretü’l-Kaza (Kaza umresi)” denilmiştir.",
 
@@ -9440,7 +9440,7 @@ export default [
         title: "MEKKE'NİN FETHİ",
         slug: slugify("MEKKE'NİN FETHİ"),
         content: [
-          " 157- Hicretin sekizinci yılında Beni Bekr kabilesi, müslümanların koruması altında bulunan Huzaa kabilesi üzerine ansızın saldırırdı. Kureyş Reislerinden bazıları da Beni Bekr kabilesine yardımda bulunmuştu. Bu arada Huzaa kabilesinden yirmi üç kişi öldürülmüştü. Böylece Mekkeliler Hudeybiye Andlaşmasını bozmuşlardı. Huzaa kabilesinden bir cemaat Medine’ye gelerek uğradıkları felâketi anlattı ve yardım istediler Peygamber Efendimiz Ramazan ayının onuncu gününden sonra, on bin kişilik bir ordu ile Medine’den yola çıktı. Yolda “Beni Süleym” kabilesi de bu orduya katıldı. Mekke’ye doğru yürüdüler.",
+          "157- Hicretin sekizinci yılında Beni Bekr kabilesi, müslümanların koruması altında bulunan Huzaa kabilesi üzerine ansızın saldırırdı. Kureyş Reislerinden bazıları da Beni Bekr kabilesine yardımda bulunmuştu. Bu arada Huzaa kabilesinden yirmi üç kişi öldürülmüştü. Böylece Mekkeliler Hudeybiye Andlaşmasını bozmuşlardı. Huzaa kabilesinden bir cemaat Medine’ye gelerek uğradıkları felâketi anlattı ve yardım istediler Peygamber Efendimiz Ramazan ayının onuncu gününden sonra, on bin kişilik bir ordu ile Medine’den yola çıktı. Yolda “Beni Süleym” kabilesi de bu orduya katıldı. Mekke’ye doğru yürüdüler.",
 
           "158- Peygamber Efendimizin muhterem amcası Abbas (radıyallahu anh) evvelce müslüman olmuştu; fakat Mekke’de oturduğu için müslümanlığını gizlemişti. Bu defa İslâm olduğunu açığa vurarak Medine’ye doğru gelmekte iken İslâm ordusuna rastgeldi. Bu kutsal ordu ile tekrar Mekke’ye döndü. Peygamber Efendimiz buna çok sevindi ve ona şöyle hitab etti: “Ey Abbas! Sen muhacirlerin sonuncusu oldun.”",
 
@@ -9459,7 +9459,7 @@ export default [
         title: "HUNEYN SAVAŞI İLE EVTAS OLAYI",
         slug: slugify("HUNEYN SAVAŞI İLE EVTAS OLAYI"),
         content: [
-          " 162- Mekke’nin fethi üzerine birçok kabileler müslüman oldular. Ancak en büyük kabilelerden olan “Beni Havazin ve Beni Sakıf’ kabileleri savaşa kalkıştılar. Taif ve Mekke arasında “Huneyn” denilen yerde toplandılar. Hazret-i Peygamber henüz Mekke’de idi. Şevvalin yedinci günü on bin kişilik bir ordu ile Huneyn’e doğru yürüdü.",
+          "162- Mekke’nin fethi üzerine birçok kabileler müslüman oldular. Ancak en büyük kabilelerden olan “Beni Havazin ve Beni Sakıf’ kabileleri savaşa kalkıştılar. Taif ve Mekke arasında “Huneyn” denilen yerde toplandılar. Hazret-i Peygamber henüz Mekke’de idi. Şevvalin yedinci günü on bin kişilik bir ordu ile Huneyn’e doğru yürüdü.",
 
           "Müslümanlardan bazıları: “Bu ordu, hiç bir zaman azlıktan dolayı yenilmez,” demişti. Bu, yanlış bir düşünce idi. Çünkü zafer ancak Allah tarafındandır. Askerin çokluğu ise görünüşte olan bir sebebdir. İnsan bu sebebleri hazırlamalı, fakat başarıyı Yüce Allah’dan beklemelidir. İşte kendilerine bir uyarı dersi olmak üzere, müslümanlar bu savaşta önce bozuldular. Fakat sonra Yüce Allah’ın lütfü ile yine üstün geldiler. Şöyle ki:",
 
@@ -9472,7 +9472,7 @@ export default [
         title: "TEBÜK SAVAŞI",
         slug: slugify("TEBÜK SAVAŞI"),
         content: [
-          " 164- Hicretin dokuzuncu yılı idi. Romalıların Şam’da İslama karşı büyük bir ordu hazırlamış oldukları haberi geldi. Bunun üzerine Peygamber Efendimiz otuz bin kişilik bir ordu ile Medine’den çıkarak “Tebük” denilen yere kadar vardı. Yirmi gün orada kaldı. Fakat düşmandan hiç bir hareket görülmedi. Artık Şam’a kadar gidilmesi uygun görülmeyerek Medine’ye dönüldü.",
+          "164- Hicretin dokuzuncu yılı idi. Romalıların Şam’da İslama karşı büyük bir ordu hazırlamış oldukları haberi geldi. Bunun üzerine Peygamber Efendimiz otuz bin kişilik bir ordu ile Medine’den çıkarak “Tebük” denilen yere kadar vardı. Yirmi gün orada kaldı. Fakat düşmandan hiç bir hareket görülmedi. Artık Şam’a kadar gidilmesi uygun görülmeyerek Medine’ye dönüldü.",
 
           "165- Tebük seferi sırasında Medine’de kıtlık vardı. İslâm ordusu güçlükler içinde hazırlanmış olduğundan bu orduya Ceyşü’l-Usre (Güçlük Ordusu) denilmiştir. Bu orduya, zenginlerin yanı sıra fakirler de yardıma koşmuştu. Bir çok kadınlar küpelerini, bileziklerini ve mücevherlerini bağış yaptılar.Hazret-i Ebû Bekir, bütün malını getirip teslim etti. Hazret-i Ömer malının yarısını verdi. Hazret-i Osman, Şam’a göndermek üzere hazırladığı bir ticaret kervanını tamamen bağışladı. İşte bunlar, bizler için Allah yolunda yapılan birer fedâkârlık örneğidir.",
 
@@ -9487,7 +9487,7 @@ export default [
         title: "VEDA HACCI",
         slug: slugify("VEDA HACCI"),
         content: [
-          " 168- Hicretin onuncu yılında Veda Haccı olmuştur. Şöyle ki: Zilhicce ayına on gün vardı. Hazret-i Peygamber Efendimiz hac farizasını yerine getirmek için ashabdan kırk bin kişi ile Mekke’ye yollandı. Arefe cuma gününe rastlamıştı. Peygamber Efendimiz, yüz binden çok müslümanla birlikte Hacc-ı Ekber yaptı. O gün çok etkili bir hutbe okudu, ümmetine öğüt verdi. Şöyle buyurdu:",
+          "168- Hicretin onuncu yılında Veda Haccı olmuştur. Şöyle ki: Zilhicce ayına on gün vardı. Hazret-i Peygamber Efendimiz hac farizasını yerine getirmek için ashabdan kırk bin kişi ile Mekke’ye yollandı. Arefe cuma gününe rastlamıştı. Peygamber Efendimiz, yüz binden çok müslümanla birlikte Hacc-ı Ekber yaptı. O gün çok etkili bir hutbe okudu, ümmetine öğüt verdi. Şöyle buyurdu:",
 
           "“Ey İnsanlar! Dinleyiniz, anlayınız ve biliniz ki, müslümanlar hep birbirinin kardeşidir. Bir kimseye kardeşinin malı helâl olmaz; ancak gönül rızası ile olabilir. Sakın nefislerinize zulmetmeyiniz. Ey İnsanlar; kadınlarınızın üstünde sizin hakkınız, fakat sizin üzerinizde de onların hakları vardır. Onlar, sizin haklarınızı gözetmelidirler. Siz de onlara güzel davranmalısınız. Ey insanlar! Ben size gerekli olan din hükümlerini tebliğ ettim ve size bir şey bıraktım ki, ona sarıldıkça hiç bir zaman sapıklığa düşmezsiniz. O da, Allah’ın kitabı ile Peygamberinin sünnetidir.”",
 
@@ -9504,7 +9504,7 @@ export default [
         title: "PEYGAMBER EFENDİMİZİN AHİRETE GÖÇ ETMELERİ",
         slug: slugify("PEYGAMBER EFENDİMİZİN AHİRETE GÖÇ ETMELERİ"),
         content: [
-          " 171- Peygamber Efendimiz, Veda haccından sonra ahiret hazırlıklarına başlamıştı. Hicretin on birinci yılı Sefer ayının son günlerinde şiddetli bir baş ağrısı ile ateşli bir hastalığa tutuldu. Hastalığı ağırdı; buna rağmen Mescid-i Saadete çıkıp bir hutbe okudu. Ashabı kirama çok yüksek bir ifade ile hitab etti. Onlara yüksek bir adalet ve fazilet ve bir hakseverlik dersi vermek için şöyle buyurdu:",
+          "171- Peygamber Efendimiz, Veda haccından sonra ahiret hazırlıklarına başlamıştı. Hicretin on birinci yılı Sefer ayının son günlerinde şiddetli bir baş ağrısı ile ateşli bir hastalığa tutuldu. Hastalığı ağırdı; buna rağmen Mescid-i Saadete çıkıp bir hutbe okudu. Ashabı kirama çok yüksek bir ifade ile hitab etti. Onlara yüksek bir adalet ve fazilet ve bir hakseverlik dersi vermek için şöyle buyurdu:",
 
           "“Ey insanlar! Her kimin arkasına vurmuşsam, işte arkam! Kalksın bana vursun. Her kimin bende alacağı varsa, işte malım! Gelsin alsın.”",
 
@@ -9525,7 +9525,7 @@ export default [
         title: "PEYGAMBER EFENDİMİZİN GÖÇMELERİNDEN DOĞAN ÜZÜNTÜLER",
         slug: slugify("PEYGAMBER EFENDİMİZİN GÖÇMELERİNDEN DOĞAN ÜZÜNTÜLER"),
         content: [
-          " 175- Hazret-i Peygamberin ahirete göçmeleri, ashab-ı kiram arasında pek büyük üzüntüler uyandırdı. O büyük Peygamberin ehl-i beyti ağlayıp sızlamaya başlamıştı. Hazreti Fatıme: “Ah babacığım!..” diye ağlıyordu. Hazret-i Aişe validemiz de, Peygamber Efendimizin yüksek ahlâkını ve büyük olgunluklarını anarak: “Eyvah! Şanı yüce o peygambere ki, dünyayı asla önemsemedi, ümmetinin günahlarını düşünerek bir gece olsun, döşeğinde rahat uyuyamadı. Müşriklerin her türlü eziyetlerine katlanarak asla ümitsizliğe düşmedi. Yoksulları ve zayıfları lütuf ve ihsanından mahrum bırakmadı,” diye hazin hazin ağlıyordu. Diğer ashabı kiram ise konuşamaz bir halde kalmışlardı.",
+          "175- Hazret-i Peygamberin ahirete göçmeleri, ashab-ı kiram arasında pek büyük üzüntüler uyandırdı. O büyük Peygamberin ehl-i beyti ağlayıp sızlamaya başlamıştı. Hazreti Fatıme: “Ah babacığım!..” diye ağlıyordu. Hazret-i Aişe validemiz de, Peygamber Efendimizin yüksek ahlâkını ve büyük olgunluklarını anarak: “Eyvah! Şanı yüce o peygambere ki, dünyayı asla önemsemedi, ümmetinin günahlarını düşünerek bir gece olsun, döşeğinde rahat uyuyamadı. Müşriklerin her türlü eziyetlerine katlanarak asla ümitsizliğe düşmedi. Yoksulları ve zayıfları lütuf ve ihsanından mahrum bırakmadı,” diye hazin hazin ağlıyordu. Diğer ashabı kiram ise konuşamaz bir halde kalmışlardı.",
 
           "176- Hazret-i Ömer, Peygamberin âhirete göç ettiğine inanamaz bir halde idi. Sonra Hazret-i Ebû Bekir gelip Hazret-i Peygamberin yanına girdi. Peygamberin pak cismini örten örtüyü kaldırdı ve o pak vücudu öptü. “Ey Peygamber, senin ölümün de hayatın gibi güzel!..” diye ağladı. Ehl-i Beyt’e teselli vermeğe çalıştı. Sonra Mescid-i şerife gidip minbere çıktı. İnsanlara şöyle hitab etti:",
 
@@ -9538,7 +9538,7 @@ export default [
         title: "PEYGAMBERİMİZDE GÖRÜLEN OLGUNLUK VE GÜZELLİKLER",
         slug: slugify("PEYGAMBERİMİZDE GÖRÜLEN OLGUNLUK VE GÜZELLİKLER"),
         content: [
-          " 178- Bilindiği gibi, insanlara ait olgunluk halleri başlıca iki kısımdır. Bir kısmı (insanın iradesine bağlı olmayı insanın doğuştan sahib olduğu kemallerdir! Asalet, güzel biçim, akıl ve zekâ üstünlükleri gibi… Diğer kısmı da, insanların tamamen istekleri ve çalışıp kazanmaları ile elde edilen kemallerdir. İlim ve irfan sahibi olmak, doğruluk, emanet, tevazu, zühd ve takva gibi güzel huylar edinmek bu kısımdandır.",
+          "178- Bilindiği gibi, insanlara ait olgunluk halleri başlıca iki kısımdır. Bir kısmı (insanın iradesine bağlı olmayı insanın doğuştan sahib olduğu kemallerdir! Asalet, güzel biçim, akıl ve zekâ üstünlükleri gibi… Diğer kısmı da, insanların tamamen istekleri ve çalışıp kazanmaları ile elde edilen kemallerdir. İlim ve irfan sahibi olmak, doğruluk, emanet, tevazu, zühd ve takva gibi güzel huylar edinmek bu kısımdandır.",
 
           "Bu iki kısım kemallerden yalnız biri veya birkaçı bir insanda bulunursa, ona büyük bir şeref verir, onun için bir öğünme sebebi olur. Ya bu kemallerin hepsi bir insanda toplanırsa, artık onun ne kadar büyük bir şerefe ve yüksek bir mertebeye ulaşmış olduğunu düşünmelidir. İşte Hazret-i Peygamber Efendimizde bu iki kısım kemallerin tümü ve güzelliklerin hepsi pek yüksek bir şekilde toplanmıştır. Bunlardan başka Peygamberlik şerefine de kavuşmuştur. O’nun çok yüksek güzel huylarından bazılarını kısaca anlatacağız:",
 
