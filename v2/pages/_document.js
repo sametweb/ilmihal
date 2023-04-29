@@ -17,7 +17,7 @@ class MyDocument extends Document {
       <Html lang="tr">
         <Head>
           <Script
-            src="https://www.googletagmanager.com/gtag/js?id=UA-146893305-1"
+            src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"
             strategy="afterInteractive"
           />
           <Script id="google-analytics" strategy="afterInteractive">
@@ -25,7 +25,7 @@ class MyDocument extends Document {
             window.dataLayer = window.dataLayer || [];
             function gtag(){window.dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'UA-146893305-1');
+            gtag('config', 'G-R6369F8TP3');
             `}
           </Script>
 
