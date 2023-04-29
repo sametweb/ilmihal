@@ -17,13 +17,13 @@ class MyDocument extends Document {
       <Html lang="tr">
         <Head>
           <Script
-            async
             src="https://www.googletagmanager.com/gtag/js?id=UA-146893305-1"
+            strategy="afterInteractive"
           />
-          <Script>
+          <Script id="google-analytics" strategy="afterInteractive">
             {`    
             window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
+            function gtag(){window.dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'UA-146893305-1');
             `}
