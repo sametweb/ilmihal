@@ -17,6 +17,7 @@ import {
 import { ThemeProvider as NextThemesProvider } from "next-themes";
 import ThemeSwitch from "../components/ThemeSwitch";
 import Script from "next/script";
+import Head from "next/head";
 
 const lightTheme = createTheme({
   type: "light",
