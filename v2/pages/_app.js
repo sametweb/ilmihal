@@ -17,7 +17,6 @@ import {
 import { ThemeProvider as NextThemesProvider } from "next-themes";
 import ThemeSwitch from "../components/ThemeSwitch";
 import Script from "next/script";
-import Head from "next/head";
 
 const lightTheme = createTheme({
   type: "light",
@@ -37,16 +36,15 @@ function MyApp({ Component, pageProps }) {
         dark: darkTheme.className,
       }}
     >
-      <Head>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"
-          strategy="afterInteractive"
-        />
-        <Script
-          id="google-analytics"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `    
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"
+        strategy="afterInteractive"
+      />
+      <Script
+        id="google-analytics"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `    
             window.dataLayer = window.dataLayer || [];
             function gtag(){window.dataLayer.push(arguments);}
             gtag('js', new Date());
@@ -54,9 +52,8 @@ function MyApp({ Component, pageProps }) {
               page_path: window.location.pathname,
             });
             `,
-          }}
-        ></Script>
-      </Head>
+        }}
+      ></Script>
       <NextUIProvider>
         <Navbar
           shouldHideOnScroll
