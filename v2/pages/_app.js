@@ -16,6 +16,7 @@ import {
 } from "@nextui-org/react";
 import { ThemeProvider as NextThemesProvider } from "next-themes";
 import ThemeSwitch from "../components/ThemeSwitch";
+import Script from "next/script";
 
 const lightTheme = createTheme({
   type: "light",
@@ -35,6 +36,26 @@ function MyApp({ Component, pageProps }) {
         dark: darkTheme.className,
       }}
     >
+      <Head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `    
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-R6369F8TP3', {
+              page_path: window.location.pathname,
+            });
+            `,
+          }}
+        ></Script>
+      </Head>
       <NextUIProvider>
         <Navbar
           shouldHideOnScroll
