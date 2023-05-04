@@ -1,9 +1,6 @@
 import React from "react";
-import "../styles/main.css";
-import Image from "next/image";
 import { Analytics } from "@vercel/analytics/react";
 import {
-  Navbar,
   Text,
   createTheme,
   NextUIProvider,
@@ -15,8 +12,10 @@ import {
   Button,
 } from "@nextui-org/react";
 import { ThemeProvider as NextThemesProvider } from "next-themes";
-import ThemeSwitch from "../components/ThemeSwitch";
-import Script from "next/script";
+import TopBar from "../components/TopBar";
+import GA4 from "../components/GA4";
+import "../styles/main.css";
+import AppPromotion from "../components/AppPromotion";
 
 const lightTheme = createTheme({
   type: "light",
@@ -36,95 +35,11 @@ function MyApp({ Component, pageProps }) {
         dark: darkTheme.className,
       }}
     >
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"
-        strategy="afterInteractive"
-      />
-      <Script
-        id="google-analytics"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{
-          __html: `    
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-R6369F8TP3', {
-              page_path: window.location.pathname,
-            });
-            `,
-        }}
-      ></Script>
+      <GA4 />
       <NextUIProvider>
-        <Navbar
-          shouldHideOnScroll
-          variant="sticky"
-          height={120}
-          className="mb-8 px-3"
-        >
-          <Link href="/" color="text">
-            <Navbar.Brand>
-              <Image
-                src="/logo.png"
-                width={76}
-                height={76}
-                className="rounded-lg"
-                alt="ilmihal oku logo"
-              />
-              <div className="pl-2">
-                <Text color="inherit" hideIn="xs" className="pre-title">
-                  ÖMER NASUHİ BİLMEN'İN
-                </Text>
-                <Text color="inherit" hideIn="xs" className="title">
-                  BÜYÜK İSLAM İLMİHALİ
-                </Text>
-              </div>
-            </Navbar.Brand>
-          </Link>
-          <Navbar.Content variant="highlight-rounded" as="div">
-            <ThemeSwitch />
-          </Navbar.Content>
-        </Navbar>
+        <TopBar />
         <Container xs>
-          <Card className="mb-10" borderWeight="0" role="banner">
-            <Card.Header className="banner-card-header">
-              <Text className="font-bold text-white text-3xl">
-                cepte ilmihal oku!
-              </Text>
-            </Card.Header>
-            <Card.Body className="banner-card-body">
-              <Card.Image
-                src="/android-bg.jpg"
-                objectFit="cover"
-                width="100%"
-                height="100px"
-                alt="Google Play Store background image"
-              />
-            </Card.Body>
-            <Card.Footer>
-              <Row align="center">
-                <Col>
-                  <Text>
-                    ilmihal oku Android uygulamasını Google Play Store'dan
-                    cihazınıza indirebilirsiniz.
-                  </Text>
-                </Col>
-                <Col>
-                  <Row justify="flex-end">
-                    <Button
-                      as="a"
-                      auto
-                      rounded
-                      // To get enough contrast
-                      className="bg-gray-700 hover:bg-gray-900"
-                      href="https://play.google.com/store/apps/details?id=com.oku.ilmihal"
-                    >
-                      İndir
-                    </Button>
-                  </Row>
-                </Col>
-              </Row>
-            </Card.Footer>
-          </Card>
+          <AppPromotion />
           <Component {...pageProps} />
           <Analytics />
           <div class="footer">
