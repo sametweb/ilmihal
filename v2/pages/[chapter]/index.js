@@ -1,7 +1,5 @@
-import Head from "next/head";
 import Chapter from "../../components/Chapter";
 import data from "../../data";
-import { title, description } from "../../meta";
 
 function chapter({ chapter }) {
   return <Chapter chapter={chapter} />;

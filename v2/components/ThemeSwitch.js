@@ -9,11 +9,11 @@ const ThemeSwitch = () => {
 
   return (
     <button
-      className="ml-6 text-4xl"
+      className="ml-6 text-xl"
       onClick={() => setTheme(nextTheme)}
       aria-label={`Switch to ${nextTheme} theme`}
     >
-      <i className={`${iconName} ri-xl`} />
+      <i className={`${iconName}`} />
     </button>
   );
 };

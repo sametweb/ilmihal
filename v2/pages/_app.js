@@ -15,6 +15,7 @@ import { ThemeProvider as NextThemesProvider } from "next-themes";
 import TopBar from "../components/TopBar";
 import GA4 from "../components/GA4";
 import "../styles/main.css";
+import "remixicon/fonts/remixicon.css";
 import AppPromotion from "../components/AppPromotion";
 
 const lightTheme = createTheme({

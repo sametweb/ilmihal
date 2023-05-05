@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { title } from "../meta";
-import { BookOpen } from "react-feather";
-import { Card, Link, Row, Container, Text } from "@nextui-org/react";
+import { Card, Link, Row, Text } from "@nextui-org/react";
 
 function Section({ chapter, section }) {
   const countWords = (paragraphs) =>
@@ -32,10 +31,7 @@ function Section({ chapter, section }) {
           </Row>
         </Card.Body>
       </Card>
-      <Text className="reading-time">
-        <BookOpen size={17} className="mr-1" /> Okuma süresi:{" "}
-        {readingTime(section)}
-      </Text>
+      <Text className="reading-time">Okuma süresi: {readingTime(section)}</Text>
       {section.content.map((p, id) => (
         <p className="section-paragraph" key={id}>
           {p}
