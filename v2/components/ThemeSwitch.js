@@ -1,19 +1,19 @@
 import { useTheme as useNextTheme } from "next-themes";
-import { Switch, useTheme } from "@nextui-org/react";
-import { Moon, Sun } from "react-feather";
+import { useTheme } from "@nextui-org/react";
 
 const ThemeSwitch = () => {
   const { setTheme } = useNextTheme();
   const { isDark, type } = useTheme();
   const nextTheme = type === "light" ? "dark" : "light";
+  const iconName = isDark ? "ri-sun-fill" : "ri-moon-clear-fill";
 
   return (
     <button
-      className="ml-6"
+      className="ml-6 text-4xl"
       onClick={() => setTheme(nextTheme)}
       aria-label={`Switch to ${nextTheme} theme`}
     >
-      {isDark ? <Moon /> : <Sun />}
+      <i className={`${iconName} ri-xl`} />
     </button>
   );
 };
