@@ -16,16 +16,12 @@ const description = chapter.content.map((c: any) => c.title).join(', ').toLowerC
 ---
 
 <Layout title={pageTitle} description={description}>
-  <div class="card mb-8 p-3" role="main">
+  <article class="card mb-8 p-3">
     <div class="p-3">
-      <div>
-        <h1 class="back-link">
-          <a href="/">&larr; İÇİNDEKİLER</a>
-        </h1>
-      </div>
-      <div>
-        <h2 class="chapter-title">{chapter.title}</h2>
-      </div>
+      <nav aria-label="Breadcrumb">
+        <a href="/" class="text-sm mb-5 block hover:underline">&larr; İÇİNDEKİLER</a>
+      </nav>
+      <h1 class="chapter-title">{chapter.title}</h1>
     </div>
     <div class="p-3">
       <ul class="list">
@@ -36,5 +32,5 @@ const description = chapter.content.map((c: any) => c.title).join(', ').toLowerC
         ))}
       </ul>
     </div>
-  </div>
+  </article>
 </Layout>

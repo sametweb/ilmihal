@@ -6,9 +6,15 @@ import AppPromotion from '../components/AppPromotion.astro';
 interface Props {
   title: string;
   description?: string;
+  canonicalSlug?: string;
 }
 
-const { title, description = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz." } = Astro.props;
+const defaultDescription = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz.";
+const { title, description = defaultDescription, canonicalSlug } = Astro.props;
+
+const canonicalURL = canonicalSlug
+  ? new URL(canonicalSlug, Astro.site)
+  : new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -16,14 +22,36 @@ const { title, description = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büy
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL.href} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL.href} />
+    <meta property="og:site_name" content="ilmihal oku" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:image" content={new URL('/logo512.png', Astro.site).href} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL('/logo512.png', Astro.site).href} />
+
+    <!-- Favicon & PWA -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/logo192.png" />
     <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#111827" />
+
+    <!-- Remixicon -->
     <link
       href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
       rel="stylesheet"
     />
-    <title>{title}</title>
 
     <!-- Dark mode: prevent flash -->
     <script is:inline>
@@ -49,8 +77,10 @@ const { title, description = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büy
     <TopBar />
     <div class="max-w-2xl mx-auto px-4">
       <AppPromotion />
-      <slot />
-      <div class="footer">
+      <main>
+        <slot />
+      </main>
+      <footer class="footer">
         <a
           href="https://sametmutevelli.com"
           target="_blank"
@@ -59,7 +89,7 @@ const { title, description = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büy
         >
           Designed and coded by Samet Mutevelli
         </a>
-      </div>
+      </footer>
     </div>
   </body>
 </html>

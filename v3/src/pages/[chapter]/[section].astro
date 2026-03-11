@@ -24,23 +24,25 @@ function countWords(paragraphs: string[]) {
 }
 
 const readingTime = Math.round(countWords(section.content) / 200 + 1) + ' dakika';
+
+// Truncate description to ~155 chars for meta
+const rawDesc = section.content[0] || '';
+const metaDescription = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 ---
 
-<Layout title={pageTitle} description={section.content[0]}>
-  <div class="card" role="presentation">
-    <div class="p-3">
-      <div>
-        <h1 class="back-link">
-          <a href={`/${chapter.slug}`}>&larr; {chapter.title}</a>
-        </h1>
-      </div>
-      <div>
-        <h2 class="section-title">{section.title}</h2>
+<Layout title={pageTitle} description={metaDescription}>
+  <article>
+    <div class="card">
+      <div class="p-3">
+        <nav aria-label="Breadcrumb">
+          <a href={`/${chapter.slug}`} class="text-sm mb-5 block hover:underline">&larr; {chapter.title}</a>
+        </nav>
+        <h1 class="section-title">{section.title}</h1>
       </div>
     </div>
-  </div>
-  <p class="reading-time">Okuma süresi: {readingTime}</p>
-  {section.content.map((p: string) => (
-    <p class="section-paragraph">{p}</p>
-  ))}
+    <p class="reading-time">Okuma süresi: {readingTime}</p>
+    {section.content.map((p: string) => (
+      <p class="section-paragraph">{p}</p>
+    ))}
+  </article>
 </Layout>
