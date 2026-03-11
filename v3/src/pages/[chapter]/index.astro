@@ -1,0 +1,40 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import data from '../../data.js';
+import { title as siteTitle } from '../../meta.js';
+
+export function getStaticPaths() {
+  return data.map((chapter: any) => ({
+    params: { chapter: chapter.slug },
+    props: { chapter },
+  }));
+}
+
+const { chapter } = Astro.props;
+const pageTitle = `${chapter.title} - ${siteTitle}`;
+const description = chapter.content.map((c: any) => c.title).join(', ').toLowerCase();
+---
+
+<Layout title={pageTitle} description={description}>
+  <div class="card mb-8 p-3" role="main">
+    <div class="p-3">
+      <div>
+        <h1 class="back-link">
+          <a href="/">&larr; İÇİNDEKİLER</a>
+        </h1>
+      </div>
+      <div>
+        <h2 class="chapter-title">{chapter.title}</h2>
+      </div>
+    </div>
+    <div class="p-3">
+      <ul class="list">
+        {chapter.content.map((content: any) => (
+          <li class="chapter-item">
+            <a href={`/${chapter.slug}/${content.slug}`}>{content.title}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</Layout>

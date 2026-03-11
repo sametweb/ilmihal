@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+import data from '../data.js';
+
+const title = "Büyük İslam İlmihali - Ömer Nasuhi Bilmen (ilmihal oku)";
+---
+
+<Layout title={title}>
+  <div class="card p-3" role="main">
+    <div class="p-3">
+      <h1 class="book-title">İÇİNDEKİLER</h1>
+    </div>
+    <div class="p-3">
+      <ul class="list">
+        {data.map((chapter: any) => (
+          <li class="book-item">
+            <a href={`/${chapter.slug}`}>{chapter.title}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</Layout>

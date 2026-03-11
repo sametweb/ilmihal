@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import data from '../../data.js';
+import { title as siteTitle } from '../../meta.js';
+
+export function getStaticPaths() {
+  const paths: any[] = [];
+  data.forEach((chapter: any) => {
+    chapter.content.forEach((section: any) => {
+      paths.push({
+        params: { chapter: chapter.slug, section: section.slug },
+        props: { chapter, section },
+      });
+    });
+  });
+  return paths;
+}
+
+const { chapter, section } = Astro.props;
+const pageTitle = `${section.title} - ${siteTitle}`;
+
+function countWords(paragraphs: string[]) {
+  return paragraphs.reduce((total: number, p: string) => total + p.split(' ').length, 0);
+}
+
+const readingTime = Math.round(countWords(section.content) / 200 + 1) + ' dakika';
+---
+
+<Layout title={pageTitle} description={section.content[0]}>
+  <div class="card" role="presentation">
+    <div class="p-3">
+      <div>
+        <h1 class="back-link">
+          <a href={`/${chapter.slug}`}>&larr; {chapter.title}</a>
+        </h1>
+      </div>
+      <div>
+        <h2 class="section-title">{section.title}</h2>
+      </div>
+    </div>
+  </div>
+  <p class="reading-time">Okuma süresi: {readingTime}</p>
+  {section.content.map((p: string) => (
+    <p class="section-paragraph">{p}</p>
+  ))}
+</Layout>

@@ -1,0 +1,60 @@
+---
+---
+
+<nav class="sticky top-0 z-50 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 mb-8 px-3 transition-colors duration-200">
+  <div class="max-w-2xl mx-auto flex items-center justify-between" style="height: 80px;">
+    <a href="/" class="flex items-center gap-2">
+      <img
+        src="/logo.png"
+        width="56"
+        height="56"
+        class="rounded-lg"
+        alt="ilmihal oku logo"
+      />
+      <div class="hidden sm:block">
+        <span class="pre-title block">ÖMER NASUHİ BİLMEN'İN</span>
+        <span class="title block">BÜYÜK İSLAM İLMİHALİ</span>
+      </div>
+    </a>
+    <button
+      id="theme-toggle"
+      class="ml-6 text-xl cursor-pointer p-2"
+      aria-label="Temayı değiştir"
+    >
+      <i id="theme-icon" class="ri-moon-clear-fill"></i>
+    </button>
+  </div>
+</nav>
+
+<script>
+  function getTheme(): string {
+    if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+      return localStorage.getItem('theme')!;
+    }
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function applyTheme(theme: string) {
+    document.documentElement.classList.toggle('dark', theme === 'dark');
+    const icon = document.getElementById('theme-icon');
+    if (icon) {
+      icon.className = theme === 'dark' ? 'ri-sun-fill' : 'ri-moon-clear-fill';
+    }
+  }
+
+  // Apply on load
+  applyTheme(getTheme());
+
+  // Toggle button
+  document.getElementById('theme-toggle')?.addEventListener('click', () => {
+    const current = getTheme();
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('theme', next);
+    applyTheme(next);
+  });
+
+  // Re-apply after Astro page transitions (View Transitions)
+  document.addEventListener('astro:after-swap', () => {
+    applyTheme(getTheme());
+  });
+</script>

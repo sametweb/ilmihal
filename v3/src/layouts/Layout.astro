@@ -1,0 +1,65 @@
+---
+import '../styles/global.css';
+import TopBar from '../components/TopBar.astro';
+import AppPromotion from '../components/AppPromotion.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "ilmihal oku sitesinden Ömer Nasuhi Bilmen'in Büyük İslam İlmihali'ni reklamsız ücretsiz okuyabilirsiniz." } = Astro.props;
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="manifest" href="/manifest.json" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <title>{title}</title>
+
+    <!-- Dark mode: prevent flash -->
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme') ||
+          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.classList.toggle('dark', theme === 'dark');
+      })();
+    </script>
+
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R6369F8TP3"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-R6369F8TP3', {
+        page_path: window.location.pathname,
+      });
+    </script>
+  </head>
+  <body>
+    <TopBar />
+    <div class="max-w-2xl mx-auto px-4">
+      <AppPromotion />
+      <slot />
+      <div class="footer">
+        <a
+          href="https://sametmutevelli.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-xs opacity-60 hover:opacity-100"
+        >
+          Designed and coded by Samet Mutevelli
+        </a>
+      </div>
+    </div>
+  </body>
+</html>

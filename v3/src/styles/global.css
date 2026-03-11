@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: #111827;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .dark body {
+    background-color: #111827;
+    color: #f3f4f6;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover {
+    opacity: 0.8;
+  }
+}
+
+.pre-title {
+  @apply tracking-wide text-sm;
+}
+
+.title {
+  @apply font-bold text-xl tracking-wide;
+}
+
+.list {
+  @apply divide-y divide-dashed divide-gray-300 dark:divide-gray-600;
+}
+
+.book-item {
+  @apply list-decimal list-inside py-3 m-0;
+}
+
+.chapter-item {
+  @apply list-decimal list-inside py-3 m-0;
+}
+
+.chapter-item a {
+  @apply inline;
+}
+
+.section-title,
+.chapter-title,
+.book-title {
+  @apply text-2xl font-bold;
+}
+
+.back-link {
+  @apply text-sm mb-5;
+}
+
+.back-link a {
+  @apply hover:underline;
+}
+
+.reading-time {
+  @apply text-sm mt-6 mb-4 text-right flex justify-end items-center font-light opacity-70;
+}
+
+.footer {
+  @apply text-center mt-20 pb-8;
+}
+
+.section-paragraph {
+  @apply pt-1 mb-2 px-2 leading-relaxed;
+}
+
+.banner-card-header {
+  @apply absolute z-[1] flex justify-between;
+}
+
+.banner-card-body {
+  @apply p-0;
+}
+
+.card {
+  @apply rounded-xl overflow-hidden;
+  border: 1px solid #e5e7eb;
+  background-color: #ffffff;
+}
+
+.dark .card {
+  border-color: #374151;
+  background-color: #1f2937;
+}
